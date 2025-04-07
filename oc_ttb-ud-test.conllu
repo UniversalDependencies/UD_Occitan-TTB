@@ -1,0 +1,3786 @@
+# sent_id = Blader_Agenais_languedocien.conllu.s71
+# text = Esposa-la.
+1	Esposa	esposar	VERB	Vm	_	0	root	_	Gloss=_|SpaceAfter=No
+2	-la	lo	PRON	Pp	_	1	obj	_	Gloss=_|SpaceAfter=No
+3	.	.	PUNCT	F	_	2	punct	_	Gloss=_
+
+# sent_id = Blader_Contes_gascon.conllu.s2
+# text = -A ! ça pensèc, te vòs pas causir nada hemna.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=-|SpaceAfter=No
+2	A	a	INTJ	I	_	0	root	_	Gloss=
+3	!	!	PUNCT	F	_	2	punct	_	Gloss=!
+4	ça	ça	PRON	Pp	_	5	expl	_	Gloss=le
+5	pensèc	pensar	VERB	Vm	_	8	parataxis	_	Gloss=penser|SpaceAfter=No
+6	,	,	PUNCT	F	_	5	punct	_	Gloss=,
+7	te	te	PRON	Px	_	8	expl	_	Gloss=te
+8	vòs	voler	VERB	Vm	_	2	parataxis	_	Gloss=vouloir
+9	pas	pas	ADV	Rg	_	8	advmod	_	Gloss=pas
+10	causir	causir	VERB	Vm	_	8	xcomp	_	Gloss=choisir
+11	nada	nat	DET	Rq	_	12	det	_	Gloss=aucun
+12	hemna	hemna	NOUN	Nc	_	10	obj	_	Gloss=femme|SpaceAfter=No
+13	.	.	PUNCT	F	_	12	punct	_	Gloss=.
+
+# sent_id = Blader_Agenais_languedocien.conllu.s40
+# text = Tu, vai-te'n del costat del sorelh cochant.
+1	Tu	tu	PRON	Pp	_	3	nsubj	_	Gloss=_|SpaceAfter=No
+2	,	,	PUNCT	F	_	1	punct	_	Gloss=_
+3	vai	anar	VERB	Vm	_	0	root	_	Gloss=_|SpaceAfter=No
+4	-te	te	PRON	Pp	_	3	expl	_	Gloss=_|SpaceAfter=No
+5	'n	en	PRON	Pp	_	3	expl	_	Gloss=_
+6-7	del	_	_	_	_	_	_	_	_
+6	de	de	ADP	Sp	_	8	case	_	Gloss=_
+7	lo	lo	DET	Da	_	8	det	_	Gloss=_
+8	costat	costat	NOUN	Nc	_	3	obl	_	Gloss=_
+9-10	del	_	_	_	_	_	_	_	_
+9	de	de	ADP	Sp	_	11	case	_	Gloss=_
+10	lo	lo	DET	Da	_	11	det	_	Gloss=_
+11	sorelh	sorelh	NOUN	Nc	_	8	obl	_	Gloss=_
+12	cochant	cochar	VERB	Vm	_	11	acl	_	Gloss=_|SpaceAfter=No
+13	.	.	PUNCT	F	_	12	punct	_	Gloss=_
+
+# sent_id = Blader_Contes_gascon.conllu.s35
+# text = Atau apèran los marchands que corron las heras, vestits d'un gran manto semiat de coscolhas, dambe lo bordon a la man, entà véner objècts de pietat.
+1	Atau	atau	ADV	Rg	_	2	advmod	_	Gloss=ainsi
+2	apèran	apèrar	VERB	Vm	_	0	root	_	Gloss=appeler
+3	los	lo	DET	Da	_	4	det	_	Gloss=le
+4	marchands	marchand	NOUN	Nc	_	2	obj	_	Gloss=marchand
+5	que	que	PRON	Pr	_	6	nsubj	_	Gloss=qui
+6	corron	còrrer	VERB	Vm	_	4	acl	_	Gloss=courir
+7	las	lo	DET	Da	_	8	det	_	Gloss=le
+8	heras	hera	NOUN	Nc	_	6	obj	_	Gloss=foire|SpaceAfter=No
+9	,	,	PUNCT	F	_	8	punct	_	Gloss=,
+10	vestits	vestir	VERB	Vm	_	4	acl	_	Gloss=vêtir
+11	d'	de	ADP	Sp	_	14	case	_	Gloss=de|SpaceAfter=No
+12	un	un	DET	Da	_	14	det	_	Gloss=un
+13	gran	gran	ADJ	Af	_	14	amod	_	Gloss=grand
+14	manto	manto	NOUN	Nc	_	10	obl	_	Gloss=manteau
+15	semiat	semiar	VERB	Vm	_	14	acl	_	Gloss=semer
+16	de	de	ADP	Sp	_	17	case	_	Gloss=de
+17	coscolhas	coscolha	NOUN	Nc	_	15	obl	_	Gloss=coquillage|SpaceAfter=No
+18	,	,	PUNCT	F	_	17	punct	_	Gloss=,
+19	dambe	dambe	ADP	Sp	_	21	case	_	Gloss=avec
+20	lo	lo	DET	Da	_	21	det	_	Gloss=le
+21	bordon	bordon	NOUN	Nc	_	4	nmod	_	Gloss=bourdon
+22	a	a	ADP	Sp	_	24	case	_	Gloss=à
+23	la	lo	DET	Da	_	24	det	_	Gloss=le
+24	man	man	NOUN	Nc	_	21	nmod	_	Gloss=main|SpaceAfter=No
+25	,	,	PUNCT	F	_	24	punct	_	Gloss=,
+26	entà	entà	ADP	Sp	_	27	mark	_	Gloss=pour
+27	véner	véner	VERB	Vm	_	6	advcl	_	Gloss=vendre
+28	objècts	objèct	NOUN	Nc	_	27	obj	_	Gloss=objet
+29	de	de	ADP	Sp	_	30	case	_	Gloss=de
+30	pietat	pietat	NOUN	Nc	_	28	nmod	_	Gloss=piété|SpaceAfter=No
+31	.	.	PUNCT	F	_	30	punct	_	Gloss=.
+
+# sent_id = Blader_Agenais_languedocien.conllu.s92
+# text = -Madama, l'avem vist de luènh a intrar dins l'ostalet mal abitat ; mès l'en avem pas vist a sortir.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Madama	madama	NOUN	Nc	_	6	vocative	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	l'	lo	PRON	Pp	_	6	obj	_	Gloss=_|SpaceAfter=No
+5	avem	aver	AUX	N	_	6	aux	_	Gloss=_
+6	vist	veire	VERB	Vm	_	0	root	_	Gloss=_
+7	de	de	ADP	Sp	_	8	case	_	Gloss=_
+8	luènh	luènh	ADV	Rg	_	6	advmod	_	Gloss=_
+9	a	a	ADP	Sp	_	10	mark	_	Gloss=_
+10	intrar	intrar	VERB	Vm	_	6	xcomp	_	Gloss=_
+11	dins	dins	ADP	Sp	_	13	case	_	Gloss=_
+12	l'	lo	DET	Da	_	13	det	_	Gloss=_|SpaceAfter=No
+13	ostalet	ostalet	NOUN	Nc	_	10	obl	_	Gloss=_
+14	mal	mal	ADV	Rg	_	15	advmod	_	Gloss=_
+15	abitat	abitat	ADJ	Af	_	13	amod	_	Gloss=_
+16	;	;	PUNCT	F	_	15	punct	_	Gloss=_
+17	mès	mès	ADV	Rg	_	22	advmod	_	Gloss=_
+18	l'	lo	PRON	Da	_	22	iobj	_	Gloss=_|SpaceAfter=No
+19	en	en	PRON	Pp	_	22	obl	_	Gloss=_
+20	avem	aver	AUX	Vm	_	22	aux	_	Gloss=_
+21	pas	pas	ADV	Rg	_	22	advmod	_	Gloss=_
+22	vist	veire	VERB	Vm	_	6	conj	_	Gloss=_
+23	a	a	ADP	Sp	_	24	mark	_	Gloss=_
+24	sortir	sortir	VERB	Vm	_	22	xcomp	_	Gloss=_|SpaceAfter=No
+25	.	.	PUNCT	F	_	24	punct	_	Gloss=_
+
+# sent_id = Ganhaire_Sorne_limousin.conllu.s18
+# text = La chara s'era desvirada, tornant fugir l'encontre de lors regards, e una rojor s'era aluchada sus las jautas.
+1	La	lo	DET	Da	_	2	det	_	Gloss=le
+2	chara	chara	NOUN	Nc	_	5	nsubj	_	Gloss=visage
+3	s'	se	PRON	Px	_	5	obj	_	Gloss=se|SpaceAfter=No
+4	era	èsser	AUX	Va	_	5	aux	_	Gloss=être
+5	desvirada	desvirar	VERB	Vm	_	0	root	_	Gloss=détourner|SpaceAfter=No
+6	,	,	PUNCT	F	_	5	punct	_	Gloss=,
+7	tornant	tornar	VERB	Vm	_	2	acl	_	Gloss=à_nouveau
+8	fugir	fugir	VERB	Vm	_	7	xcomp	_	Gloss=fuir
+9	l'	lo	DET	Da	_	10	det	_	Gloss=le|SpaceAfter=No
+10	encontre	encontre	NOUN	Nc	_	8	obj	_	Gloss=rencontre
+11	de	de	ADP	Sp	_	13	case	_	Gloss=de
+12	lors	lor	DET	Ds	_	13	det	_	Gloss=leur
+13	regards	regard	NOUN	Nc	_	10	nmod	_	Gloss=regard|SpaceAfter=No
+14	,	,	PUNCT	F	_	13	punct	_	Gloss=,
+15	e	e	CCONJ	Cc	_	20	cc	_	Gloss=et
+16	una	un	DET	Da	_	17	det	_	Gloss=un
+17	rojor	rojor	NOUN	Nc	_	20	nsubj	_	Gloss=rougeur
+18	s'	se	PRON	Px	_	20	obj	_	Gloss=se|SpaceAfter=No
+19	era	èsser	AUX	Va	_	20	aux	_	Gloss=être
+20	aluchada	aluchar	VERB	Vm	_	5	conj	_	Gloss=allumer
+21	sus	sus	ADP	Sp	_	23	case	_	Gloss=sur
+22	las	lo	DET	Da	_	23	det	_	Gloss=le
+23	jautas	jauta	NOUN	Nc	_	20	obl	_	Gloss=joue|SpaceAfter=No
+24	.	.	PUNCT	F	_	23	punct	_	Gloss=.
+
+# sent_id = Ganhaire_Sorne_limousin.conllu.s15
+# text = E la dròga, coma fasiàs per te'n procurar ?
+1	E	e	CCONJ	Cc	_	3	cc	_	Gloss=et
+2	la	lo	DET	Da	_	3	det	_	Gloss=le
+3	dròga	dròga	NOUN	Nc	_	6	dislocated	_	Gloss=drogue|SpaceAfter=No
+4	,	,	PUNCT	F	_	3	punct	_	Gloss=,
+5	coma	coma	ADV	Cs	_	6	advmod	_	Gloss=comme
+6	fasiàs	far	VERB	Vm	_	0	root	_	Gloss=faire
+7	per	per	ADP	Sp	_	10	mark	_	Gloss=pour
+8	te'	te	PRON	Pp	_	10	iobj	_	Gloss=te|SpaceAfter=No
+9	n	ne	PRON	Pp	_	10	obj	_	Gloss=en
+10	procurar	procurar	VERB	Vm	_	6	advcl	_	Gloss=procurer
+11	?	?	PUNCT	F	_	10	punct	_	Gloss=?
+
+# sent_id = Blader_Agenais_languedocien.conllu.s28
+# text = -Non, Gròs Peis, non podi pas.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Non	non	ADV	Rg	_	8	discourse	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	Gròs	gròs	ADJ	Af	_	5	amod	_	Gloss=_
+5	Peis	peis	NOUN	Nc	_	8	vocative	_	Gloss=_|SpaceAfter=No
+6	,	,	PUNCT	F	_	5	punct	_	Gloss=_
+7	non	non	PART	Rp	_	8	advmod	_	Gloss=_
+8	podi	podar	VERB	Vm	_	0	root	_	Gloss=_
+9	pas	pas	ADV	Rg	_	8	advmod	_	Gloss=_|SpaceAfter=No
+10	.	.	PUNCT	F	_	9	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s3
+# text = Un jorn aquel òme prenguèt un gròs peis.
+1	Un	un	DET	Da	_	2	det	_	Gloss=_
+2	jorn	jorn	NOUN	Nc	_	5	obl	_	Gloss=_
+3	aquel	aquel	DET	Dd	_	4	det	_	Gloss=_
+4	òme	òme	NOUN	Nc	_	5	nsubj	_	Gloss=_
+5	prenguèt	préner	VERB	Vm	_	0	root	_	Gloss=_
+6	un	un	DET	Da	_	8	det	_	Gloss=_
+7	gròs	gròs	ADJ	Af	_	8	amod	_	Gloss=_
+8	peis	peis	NOUN	Nc	_	5	obj	_	Gloss=_|SpaceAfter=No
+9	.	.	PUNCT	F	_	8	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s32
+# text = L'òme tornèt a son ostal ambe lo Gròs Peis, e donèt lo cap a sa canha, la coa a sa cabala e lo ventre a sa femna.
+1	L'	lo	DET	Da	_	2	det	_	Gloss=_|SpaceAfter=No
+2	òme	òme	NOUN	Nc	_	3	nsubj	_	Gloss=_
+3	tornèt	tornar	VERB	Vm	_	0	root	_	Gloss=_
+4	a	a	ADP	Sp	_	6	case	_	Gloss=_
+5	son	son	DET	Ds	_	6	det	_	Gloss=_
+6	ostal	ostal	NOUN	Nc	_	3	obl	_	Gloss=_
+7	ambe	ambe	ADP	Sp	_	10	case	_	Gloss=_
+8	lo	lo	DET	Da	_	10	det	_	Gloss=_
+9	Gròs	gròs	ADJ	Af	_	10	amod	_	Gloss=_
+10	Peis	peis	NOUN	Nc	_	3	obl	_	Gloss=_|SpaceAfter=No
+11	,	,	PUNCT	F	_	10	punct	_	Gloss=_
+12	e	e	CCONJ	Cc	_	13	cc	_	Gloss=_
+13	donèt	donar	VERB	Vm	_	3	conj	_	Gloss=_
+14	lo	lo	DET	Da	_	15	det	_	Gloss=_
+15	cap	cap	NOUN	Nc	_	13	obj	_	Gloss=_
+16	a	a	ADP	Sp	_	18	case	_	Gloss=_
+17	sa	son	DET	Ds	_	18	det	_	Gloss=_
+18	canha	canha	NOUN	Nc	_	13	obl	_	Gloss=_|SpaceAfter=No
+19	,	,	PUNCT	F	_	18	punct	_	Gloss=_
+20	la	lo	DET	Da	_	21	det	_	Gloss=_
+21	coa	coa	NOUN	Nc	_	15	conj	_	Gloss=_
+22	a	a	ADP	Sp	_	24	case	_	Gloss=_
+23	sa	son	DET	Ds	_	24	det	_	Gloss=_
+24	cabala	cabala	NOUN	Nc	_	21	orphan	_	Gloss=_
+25	e	e	CCONJ	Cc	_	27	cc	_	Gloss=_
+26	lo	lo	DET	Da	_	27	det	_	Gloss=_
+27	ventre	ventre	NOUN	Nc	_	15	conj	_	Gloss=_
+28	a	a	ADP	Sp	_	30	case	_	Gloss=_
+29	sa	son	DET	Ds	_	30	det	_	Gloss=_
+30	femna	femna	NOUN	Nc	_	27	orphan	_	Gloss=_|SpaceAfter=No
+31	.	.	PUNCT	F	_	30	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s64
+# text = Ganha ta civada, mon bon chival !
+1	Ganha	ganhar	VERB	Vm	_	0	root	_	Gloss=_
+2	ta	ton	DET	Ds	_	3	det	_	Gloss=_
+3	civada	civada	NOUN	Nc	_	1	obj	_	Gloss=_|SpaceAfter=No
+4	,	,	PUNCT	F	_	3	punct	_	Gloss=_
+5	mon	mon	DET	Ds	_	7	det	_	Gloss=_
+6	bon	bon	ADJ	Nc	_	7	amod	_	Gloss=_
+7	chival	chival	NOUN	Nc	_	1	vocative	_	Gloss=_
+8	!	!	PUNCT	F	_	7	punct	_	Gloss=_
+
+# sent_id = Blader_Contes_gascon.conllu.s28
+# text = Hardit !
+1	Hardit	hardit	INTJ	I	_	0	root	_	Gloss=
+2	!	!	PUNCT	F	_	1	punct	_	Gloss=!
+
+# sent_id = Blader_Agenais_languedocien.conllu.s42
+# text = Se ne cola de sang, aquò vodrà dire que m'es arribat malur.
+1	Se	se	SCONJ	Cs	_	3	mark	_	Gloss=_
+2	ne	ne	PRON	Pp	_	3	iobj	_	Gloss=_
+3	cola	colar	VERB	Vm	_	0	root	_	Gloss=_
+4	de	de	ADP	Sp	_	5	case	_	Gloss=_
+5	sang	sang	NOUN	Nc	_	3	obl	_	Gloss=_|SpaceAfter=No
+6	,	,	PUNCT	F	_	5	punct	_	Gloss=_
+7	aquò	aquò	PRON	Pd	_	8	nsubj	_	Gloss=_
+8	vodrà	voler	VERB	Vm	_	3	advcl	_	Gloss=_
+9	dire	dire	VERB	Vm	_	8	xcomp	_	Gloss=_
+10	que	que	SCONJ	Cs	_	13	mark	_	Gloss=_
+11	m'	me	PRON	Pp	_	13	iobj	_	Gloss=_|SpaceAfter=No
+12	es	èsser	AUX	Vm	_	13	aux	_	Gloss=_
+13	arribat	arribar	VERB	Vm	_	9	ccomp	_	Gloss=_
+14	malur	malur	NOUN	Nc	_	13	obj	_	Gloss=_|SpaceAfter=No
+15	.	.	PUNCT	F	_	14	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s35
+# text = La ressemblança èra tan grana per cada parèl, qu'èra impossible de far la diferença d'un òme o d'un animal de l'autre.
+1	La	lo	DET	Da	_	2	det	_	Gloss=_
+2	ressemblança	ressemblança	NOUN	Nc	_	5	nsubj	_	Gloss=_
+3	èra	èsser	AUX	Vm	_	5	cop	_	Gloss=_
+4	tan	tan	ADV	Rq	_	5	advmod	_	Gloss=_
+5	grana	gran	ADJ	Af	_	0	root	_	Gloss=_
+6	per	per	ADP	Sp	_	8	case	_	Gloss=_
+7	cada	cada	DET	Di	_	8	det	_	Gloss=_
+8	parèl	parèl	NOUN	Nc	_	5	obl	_	Gloss=_|SpaceAfter=No
+9	,	,	PUNCT	F	_	8	punct	_	Gloss=_
+10	qu'	que	SCONJ	Pr	_	12	mark	_	Gloss=_|SpaceAfter=No
+11	èra	èsser	AUX	Vm	_	12	cop	_	Gloss=_
+12	impossible	impossible	ADJ	Af	_	5	advcl	_	Gloss=_
+13	de	de	ADP	Sp	_	14	mark	_	Gloss=_
+14	far	far	VERB	Vm	_	12	xcomp	_	Gloss=_
+15	la	lo	DET	Da	_	16	det	_	Gloss=_
+16	diferença	diferença	NOUN	Nc	_	14	obj	_	Gloss=_
+17	d'	de	ADP	Sp	_	19	case	_	Gloss=_|SpaceAfter=No
+18	un	un	DET	Da	_	19	det	_	Gloss=_
+19	òme	òme	NOUN	Nc	_	14	obl	_	Gloss=_
+20	o	o	CCONJ	Cc	_	23	cc	_	Gloss=_
+21	d'	de	ADP	Sp	_	23	case	_	Gloss=_|SpaceAfter=No
+22	un	un	DET	Da	_	23	det	_	Gloss=_
+23	animal	animal	NOUN	Nc	_	19	conj	_	Gloss=_
+24	de	de	ADP	Sp	_	26	case	_	Gloss=_
+25	l'	lo	DET	Da	_	26	det	_	Gloss=_|SpaceAfter=No
+26	autre	autre	PRON	Pi	_	14	obl	_	Gloss=_|SpaceAfter=No
+27	.	.	PUNCT	F	_	26	punct	_	Gloss=_
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s8
+# text = Puèi los Dracons s'escampilhèron.
+1	Puèi	puèi	ADV	Rg	_	5	advmod	_	Gloss=_
+2	los	lo	DET	Da	_	3	det	_	Gloss=_
+3	Dracons	dracon	NOUN	Nc	_	5	nsubj	_	Gloss=_
+4	s'	se	PRON	Px	_	5	obj	_	Gloss=_|SpaceAfter=No
+5	escampilhèron	escampilhar	VERB	Vm	_	0	root	_	Gloss=_|SpaceAfter=No
+6	.	.	PUNCT	F	_	5	punct	_	Gloss=_
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s32
+# text = Puèi la femna levava la taula.
+1	Puèi	puèi	ADV	Rg	_	4	advmod	_	Gloss=_
+2	la	lo	DET	Da	_	3	det	_	Gloss=_
+3	femna	femna	NOUN	Nc	_	4	nsubj	_	Gloss=_
+4	levava	levar	VERB	Vm	_	0	root	_	Gloss=_
+5	la	lo	DET	Da	_	6	det	_	Gloss=_
+6	taula	taula	NOUN	Nc	_	4	obj	_	Gloss=_|SpaceAfter=No
+7	.	.	PUNCT	F	_	6	punct	_	Gloss=_
+
+# sent_id = Blader_Contes_gascon.conllu.s29
+# text = Lo mòrt tornèc barrar l'estujòu, e partiscoc.
+1	Lo	lo	DET	Da	_	2	det	_	Gloss=le
+2	mòrt	mòrt	NOUN	Nc	_	3	nsubj	_	Gloss=mort
+3	tornèc	tornar	VERB	Vm	_	0	root	_	Gloss=à_nouveau
+4	barrar	barrar	VERB	Vm	_	3	xcomp	_	Gloss=fermer
+5	l'	lo	DET	Da	_	6	det	_	Gloss=le|SpaceAfter=No
+6	estujòu	estujòu	NOUN	Nc	_	4	obj	_	Gloss=étui|SpaceAfter=No
+7	,	,	PUNCT	F	_	6	punct	_	Gloss=,
+8	e	e	CCONJ	Cc	_	9	cc	_	Gloss=et
+9	partiscoc	partir	VERB	Vm	_	3	conj	_	Gloss=partir|SpaceAfter=No
+10	.	.	PUNCT	F	_	9	punct	_	Gloss=.
+
+# sent_id = Blader_Agenais_languedocien.conllu.s45
+# text = Los dus frairs se separèron e s'en anèron, un al levant e l'autreal cochant.
+# tags = ASAP, check annotation of un l' autre
+1	Los	lo	DET	Da	_	3	det	_	Gloss=_
+2	dus	2	NUM	Dk	_	3	nummod	_	Gloss=_
+3	frairs	frair	NOUN	Nc	_	5	nsubj	_	Gloss=_
+4	se	se	PRON	Px	_	5	expl	_	Gloss=_
+5	separèron	separar	VERB	Vm	_	0	root	_	Gloss=_
+6	e	e	CCONJ	Cc	_	9	cc	_	Gloss=_
+7	s'	se	PRON	Px	_	9	nsubj	_	Gloss=_|SpaceAfter=No
+8	en	en	PRON	Pp	_	9	obj	_	Gloss=_
+9	anèron	anar	VERB	Vm	_	5	conj	_	Gloss=_|SpaceAfter=No
+10	,	,	PUNCT	F	_	9	punct	_	Gloss=_
+11	un	un	PRON	Da	_	9	conj	_	Gloss=_
+12-13	al	_	_	_	_	_	_	_	_
+12	a	a	ADP	Sp	_	14	case	_	Gloss=à
+13	lo	lo	DET	Da	_	14	det	_	Gloss=le
+14	levant	levant	NOUN	Nc	_	11	orphan	_	Gloss=_
+15	e	e	CCONJ	Cc	_	17	cc	_	Gloss=_
+16	l'	lo	DET	Da	_	17	det	_	Gloss=_|SpaceAfter=No
+17	autre	autre	PRON	Ai	_	14	conj	_	Gloss=_|SpaceAfter=No
+18-19	al	_	_	_	_	_	_	_	_
+18	a	a	ADP	Sp	_	20	case	_	Gloss=à
+19	lo	lo	DET	Da	_	20	det	_	Gloss=le
+20	cochant	cochar	NOUN	Nc	_	17	orphan	_	Gloss=_|SpaceAfter=No
+21	.	.	PUNCT	F	_	20	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s93
+# text = -Ah ! mon Diu ! li serà arribat malur.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Ah	Ah	INTJ	I	_	9	discourse	_	Gloss=_
+3	!	!	PUNCT	F	_	2	punct	_	Gloss=_
+4	mon	mon	DET	Ds	_	5	det	_	Gloss=_
+5	Diu	Diu	NOUN	Nc	_	9	vocative	_	Gloss=_
+6	!	!	PUNCT	F	_	5	punct	_	Gloss=_
+7	li	li	PRON	Pp	_	9	iobj	_	Gloss=_
+8	serà	èsser	AUX	Vm	_	9	aux	_	Gloss=_
+9	arribat	arribar	VERB	Vm	_	0	root	_	Gloss=_
+10	malur	malur	NOUN	Nc	_	9	obj	_	Gloss=_|SpaceAfter=No
+11	.	.	PUNCT	F	_	10	punct	_	Gloss=_
+
+# sent_id = Blader_Contes_gascon.conllu.s27
+# text = Alavetz, escopiscoc la pluma, e suu còp, tornèc òme.
+1	Alavetz	alavetz	ADV	Rg	_	3	advmod	_	Gloss=alors|SpaceAfter=No
+2	,	,	PUNCT	F	_	1	punct	_	Gloss=,
+3	escopiscoc	escopir	VERB	Vm	_	0	root	_	Gloss=cracher
+4	la	lo	DET	Da	_	5	det	_	Gloss=le
+5	pluma	pluma	NOUN	Nc	_	3	obj	_	Gloss=plume|SpaceAfter=No
+6	,	,	PUNCT	F	_	5	punct	_	Gloss=,
+7	e	e	CCONJ	Cc	_	12	cc	_	Gloss=et
+8-9	suu	_	_	_	_	_	_	_	_
+8	sus	sus	ADP	Sp	_	10	case	_	Gloss=sur
+9	lo	lo	DET	Da	_	10	det	_	Gloss=le
+10	còp	còp	NOUN	Nc	_	12	obl	_	Gloss=coup|SpaceAfter=No
+11	,	,	PUNCT	F	_	10	punct	_	Gloss=,
+12	tornèc	tornar	VERB	Vm	_	3	conj	_	Gloss=redevenir
+13	òme	òme	NOUN	Nc	_	12	obj	_	Gloss=homme|SpaceAfter=No
+14	.	.	PUNCT	F	_	13	punct	_	Gloss=.
+
+# sent_id = Blader_Agenais_languedocien.conllu.s5
+# text = -Non, Gròs Peis.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Non	non	ADV	Rg	_	0	root	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	Gròs	gròs	ADJ	Af	_	5	amod	_	Gloss=_
+5	Peis	peis	NOUN	Nc	_	2	parataxis	_	Gloss=_|SpaceAfter=No
+6	.	.	PUNCT	F	_	5	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s74
+# text = La nòça durèt dinca miejanèit, e al prumèr son de campana, tot lo monde s'anguèt cochar.
+1	La	lo	DET	Da	_	2	det	_	Gloss=_
+2	nòça	nòça	NOUN	Nc	_	3	nsubj	_	Gloss=_
+3	durèt	durar	VERB	Vm	_	0	root	_	Gloss=_
+4	dinca	dinca	ADP	Sp	_	5	case	_	Gloss=_
+5	miejanèit	miejanèit	NOUN	Nc	_	3	obl	_	Gloss=_|SpaceAfter=No
+6	,	,	PUNCT	F	_	5	punct	_	Gloss=_
+7	e	e	CCONJ	Cc	_	18	cc	_	Gloss=_
+8	al	a_lo	ADP	SDa	_	10	case	_	Gloss=_
+9	prumèr	prumér	ADJ	Ao	_	10	amod	_	Gloss=_
+10	son	son	NOUN	Nc	_	18	obl	_	Gloss=_
+11	de	de	ADP	Sp	_	12	case	_	Gloss=_
+12	campana	campana	NOUN	Nc	_	10	nmod	_	Gloss=_|SpaceAfter=No
+13	,	,	PUNCT	F	_	12	punct	_	Gloss=_
+14	tot	tot	DET	Ai	_	16	det	_	Gloss=_
+15	lo	lo	DET	Da	_	16	det	_	Gloss=_
+16	monde	monde	NOUN	Nc	_	18	nsubj	_	Gloss=_
+17	s'	se	PRON	Px	_	19	expl	_	Gloss=_|SpaceAfter=No
+18	anguèt	anar	VERB	Vm	_	3	conj	_	Gloss=_
+19	cochar	cochar	VERB	Vm	_	18	xcomp	_	Gloss=_|SpaceAfter=No
+20	.	.	PUNCT	F	_	19	punct	_	Gloss=_
+
+# sent_id = Ganhaire_Sorne_limousin.conllu.s10
+# text = Daus uelhs coma de las bolas espieren lo comissari sens lo mendre regret, e doàs aurelhas s'esflacasseren coma per dire bravò.
+1	Daus	un	DET	Di	_	2	det	_	Gloss=un
+2	uelhs	uelh	NOUN	Nc	_	7	nsubj	_	Gloss=œil
+3	coma	coma	SCONJ	Cs	_	7	mark	_	Gloss=comme
+4	de	de	DET	Da	_	6	det	_	Gloss=de|MWE=de_las
+5	las	lo	DET	Da	_	6	det	_	Gloss=le
+6	bolas	bola	NOUN	Nc	_	2	acl	_	Gloss=boule
+7	espieren	espiar	VERB	Vm	_	0	root	_	Gloss=épier
+8	lo	lo	DET	Da	_	9	det	_	Gloss=le
+9	comissari	comissari	NOUN	Nc	_	7	obj	_	Gloss=commissaire
+10	sens	sens	ADP	Sp	_	13	case	_	Gloss=sans
+11	lo	lo	DET	Da	_	13	det	_	Gloss=le
+12	mendre	mendre	ADJ	Af	_	13	amod	_	Gloss=moindre
+13	regret	regret	NOUN	Nc	_	7	obl	_	Gloss=regret|SpaceAfter=No
+14	,	,	PUNCT	F	_	13	punct	_	Gloss=,
+15	e	e	CCONJ	Cc	_	17	cc	_	Gloss=et
+16	doàs	2	NUM	Dk	_	17	nummod	_	Gloss=2
+17	aurelhas	aurelha	NOUN	Nc	_	19	nsubj	_	Gloss=oreille
+18	s'	se	PRON	Px	_	19	expl	_	Gloss=se|SpaceAfter=No
+19	esflacasseren	esflacassar	VERB	Vm	_	7	conj	_	Gloss=ébrouer
+20	coma	coma	SCONJ	Cs	_	22	mark	_	Gloss=comme
+21	per	per	ADP	Sp	_	22	mark	_	Gloss=pour
+22	dire	dire	VERB	Vm	_	19	advcl	_	Gloss=dire
+23	bravò	bravò	INTJ	I	_	22	parataxis	_	Gloss=bravo|SpaceAfter=No
+24	.	.	PUNCT	F	_	23	punct	_	Gloss=.
+
+# sent_id = Blader_Agenais_languedocien.conllu.s60
+# text = Vos podetz enqüèra sauvar pendent que me minjarà.
+1	Vos	vos	PRON	Px	_	4	obj	_	Gloss=_
+2	podetz	podar	VERB	Vm	_	0	root	_	Gloss=_
+3	enqüèra	enqüèra	ADV	Rg	_	2	advmod	_	Gloss=_
+4	sauvar	sauvar	VERB	Vm	_	2	xcomp	_	Gloss=_
+5	pendent	pendent	ADP	Sp	ExtPos=SCONJ	8	mark	_	Gloss=_|MWE=pendent_que
+6	que	que	SCONJ	Cs	_	5	fixed	_	Gloss=_
+7	me	me	PRON	Pp	_	8	obj	_	Gloss=_
+8	minjarà	minjar	VERB	Vm	_	2	advcl	_	Gloss=_|SpaceAfter=No
+9	.	.	PUNCT	F	_	8	punct	_	Gloss=_
+
+# sent_id = Ganhaire_Vautres_limousin.conllu.s1
+# text = Mas bien segur !
+1	Mas	mas	CCONJ	Cc	_	3	cc	_	Gloss=mais
+2	bien	bien	ADV	Rg	_	3	advmod	_	Gloss=bien
+3	segur	segur	ADJ	Af	_	0	root	_	Gloss=sûr
+4	!	!	PUNCT	F	_	3	punct	_	Gloss=!
+
+# sent_id = Blader_Agenais_languedocien.conllu.s79
+# text = Lo vòli crompar per me repausar quan anirèi a la cassa.
+1	Lo	lo	PRON	Pp	_	2	obj	_	Gloss=_
+2	vòli	voler	VERB	Vm	_	0	root	_	Gloss=_
+3	crompar	crompar	VERB	Vm	_	2	xcomp	_	Gloss=_
+4	per	per	ADP	Sp	_	6	mark	_	Gloss=_
+5	me	me	PRON	Pp	_	6	obj	_	Gloss=_
+6	repausar	repausar	VERB	Vm	_	2	advcl	_	Gloss=_
+7	quan	quan	SCONJ	Cs	_	8	mark	_	Gloss=_
+8	anirèi	anar	VERB	Vm	_	6	ccomp	_	Gloss=_
+9	a	a	ADP	Sp	_	11	case	_	Gloss=_
+10	la	lo	DET	Pp	_	11	det	_	Gloss=_
+11	cassa	cassar	NOUN	Nc	_	8	obl	_	Gloss=_|SpaceAfter=No
+12	.	.	PUNCT	F	_	11	punct	_	Gloss=_
+
+# sent_id = Blader_Contes_gascon.conllu.s25
+# text = Au bon moment, lo hilh deu rei se botèc la pluma dens la boca.
+1-2	Au	_	_	_	_	_	_	_	_
+1	a	a	ADP	Sp	_	4	case	_	Gloss=à
+2	lo	lo	DET	Da	_	4	det	_	Gloss=le
+3	bon	bon	ADJ	Af	_	4	amod	_	Gloss=bon
+4	moment	moment	NOUN	Nc	_	12	obl	_	Gloss=moment|SpaceAfter=No
+5	,	,	PUNCT	F	_	4	punct	_	Gloss=,
+6	lo	lo	DET	Da	_	7	det	_	Gloss=le
+7	hilh	hilh	NOUN	Nc	_	12	nsubj	_	Gloss=fils
+8-9	deu	_	_	_	_	_	_	_	_
+8	de	de	ADP	Sp	_	10	case	_	Gloss=de
+9	lo	lo	DET	Da	_	10	det	_	Gloss=le
+10	rei	rei	NOUN	Nc	_	7	nmod	_	Gloss=roi
+11	se	se	PRON	Px	_	12	iobj	_	Gloss=se
+12	botèc	botar	VERB	Vm	_	0	root	_	Gloss=mettre
+13	la	lo	DET	Da	_	14	det	_	Gloss=le
+14	pluma	pluma	NOUN	Nc	_	12	obj	_	Gloss=plume
+15	dens	dens	ADP	Sp	_	17	case	_	Gloss=dans
+16	la	lo	DET	Da	_	17	det	_	Gloss=le
+17	boca	boca	NOUN	Nc	_	12	obl	_	Gloss=bouche|SpaceAfter=No
+18	.	.	PUNCT	F	_	17	punct	_	Gloss=.
+
+# sent_id = Blader_Agenais_languedocien.conllu.s36
+# text = Al cap de vint  ans, los dus bessons prenguèron cadun un chival e un can, e s'armèron per anar córrer lo monde.
+1-2	Al	_	_	_	_	_	_	_	_
+1	a	a	ADP	Sp	_	3	case	_	Gloss=_
+2	lo	lo	DET	Da	_	3	det	_	Gloss=_
+3	cap	cap	NOUN	Nc	_	11	obl	_	Gloss=_
+4	de	de	ADP	Sp	_	6	case	_	Gloss=_
+5	vint	20	NUM	Dk	_	6	nummod	_	Gloss=_
+6	ans	an	NOUN	Nc	_	3	nmod	_	Gloss=_|SpaceAfter=No
+7	,	,	PUNCT	F	_	6	punct	_	Gloss=_
+8	los	lo	DET	Da	_	10	det	_	Gloss=_
+9	dus	2	NUM	Dk	_	10	nummod	_	Gloss=_
+10	bessons	besson	NOUN	Nc	_	11	nsubj	_	Gloss=_
+11	prenguèron	prene	VERB	Vm	_	0	root	_	Gloss=_
+12	cadun	cadun	PRON	Pi	_	11	obl	_	Gloss=_
+13	un	un	DET	Da	_	14	det	_	Gloss=_
+14	chival	chival	NOUN	Nc	_	11	obj	_	Gloss=_
+15	e	e	CCONJ	Cc	_	17	cc	_	Gloss=_
+16	un	un	DET	Da	_	17	det	_	Gloss=_
+17	can	can	NOUN	Nc	_	14	conj	_	Gloss=_|SpaceAfter=No
+18	,	,	PUNCT	F	_	17	punct	_	Gloss=_
+19	e	e	CCONJ	Cc	_	21	cc	_	Gloss=_
+20	s'	se	PRON	Px	_	21	expl	_	Gloss=_|SpaceAfter=No
+21	armèron	armar	VERB	Vm	_	11	conj	_	Gloss=_
+22	per	per	ADP	Sp	_	23	mark	_	Gloss=_
+23	anar	anar	VERB	Vm	_	21	xcomp	_	Gloss=_
+24	córrer	córrer	VERB	Vm	_	23	xcomp	_	Gloss=_
+25	lo	lo	DET	Da	_	26	det	_	Gloss=_
+26	monde	monde	NOUN	Nc	_	24	obj	_	Gloss=_|SpaceAfter=No
+27	.	.	PUNCT	F	_	26	punct	_	Gloss=_
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s11
+# text = Mas degun los coneissiá pas.
+1	Mas	mas	CCONJ	Cc	_	4	cc	_	Gloss=_
+2	degun	degun	PRON	Pi	_	4	nsubj	_	Gloss=_
+3	los	lo	PRON	Pp	_	4	obj	_	Gloss=_
+4	coneissiá	conéisser	VERB	Vm	_	0	root	_	Gloss=_
+5	pas	pas	ADV	Rg	_	4	advmod	_	Gloss=_|SpaceAfter=No
+6	.	.	PUNCT	F	_	5	punct	_	Gloss=_
+
+# sent_id = Ganhaire_Sorne_limousin.conllu.s11
+# text = Un chameu!
+1	Un	un	DET	Da	_	2	det	_	Gloss=un
+2	chameu	chameu	NOUN	Nc	_	0	root	_	Gloss=chameau|SpaceAfter=No
+3	!	!	PUNCT	F	_	2	punct	_	Gloss=!
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s1
+# text = -Alara, escampilhatz-vos sus tota la tèrra.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Alara	alara	ADV	Rg	_	4	advmod	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	escampilhatz	escampilhar	VERB	Vm	_	0	root	_	Gloss=_|SpaceAfter=No
+5	-vos	vos	PRON	Pp	_	4	obj	_	Gloss=_
+6	sus	sus	ADP	Sp	_	9	case	_	Gloss=_
+7	tota	tot	DET	Ai	_	9	det	_	Gloss=_
+8	la	lo	DET	Da	_	9	det	_	Gloss=_
+9	tèrra	tèrra	NOUN	Nc	_	4	obl	_	Gloss=_|SpaceAfter=No
+10	.	.	PUNCT	F	_	9	punct	_	Gloss=_
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s4
+# text = Tendretz los poders que ieu teni.
+1	Tendretz	tendre	VERB	Vm	_	0	root	_	Gloss=_
+2	los	lo	DET	Da	_	3	det	_	Gloss=_
+3	poders	poder	NOUN	Nc	_	1	obj	_	Gloss=_
+4	que	que	PRON	Pr	_	6	obj	_	Gloss=_
+5	ieu	ieu	PRON	Pp	_	6	nsubj	_	Gloss=_
+6	teni	téner	VERB	Vm	_	3	acl	_	Gloss=_|SpaceAfter=No
+7	.	.	PUNCT	F	_	6	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s49
+# text = -Cèrtas, avem plan rason d'èstre en dòl e de plorar.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Cèrtas	cèrtas	ADV	Rg	_	4	advmod	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	avem	aver	VERB	Vm	_	0	root	_	Gloss=_
+5	plan	plan	ADV	Rg	_	4	advmod	_	Gloss=_
+6	rason	rason	NOUN	Nc	_	4	obj	_	Gloss=_
+7	d'	de	ADP	Sp	_	10	mark	_	Gloss=_|SpaceAfter=No
+8	èstre	èstre	AUX	Vm	_	10	cop	_	Gloss=_
+9	en	en	ADP	Sp	_	10	case	_	Gloss=_
+10	dòl	dòl	NOUN	Nc	_	4	xcomp	_	Gloss=_
+11	e	e	CCONJ	Cc	_	13	cc	_	Gloss=_
+12	de	de	ADP	Sp	_	13	mark	_	Gloss=_
+13	plorar	plorar	VERB	Vm	_	10	conj	_	Gloss=_|SpaceAfter=No
+14	.	.	PUNCT	F	_	13	punct	_	Gloss=_
+
+# sent_id = Blader_Contes_gascon.conllu.s30
+# text = Lo rei susava de paur.
+1	Lo	lo	DET	Da	_	2	det	_	Gloss=le
+2	rei	rei	NOUN	Nc	_	3	nsubj	_	Gloss=roi
+3	susava	susar	VERB	Vm	_	0	root	_	Gloss=suer
+4	de	de	ADP	Sp	_	5	case	_	Gloss=de
+5	paur	paur	NOUN	Nc	_	3	obl	_	Gloss=peur|SpaceAfter=No
+6	.	.	PUNCT	F	_	5	punct	_	Gloss=.
+
+# sent_id = Blader_Agenais_languedocien.conllu.s14
+# text = -Òme, daisha-me anar.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Òme	òme	NOUN	Nc	_	0	root	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	daisha	daishar	VERB	Vm	_	2	parataxis	_	Gloss=_|SpaceAfter=No
+5	-me	me	PRON	Pp	_	4	obj	_	Gloss=_
+6	anar	anar	VERB	Vm	_	4	xcomp	_	Gloss=_|SpaceAfter=No
+7	.	.	PUNCT	F	_	6	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s46
+# text = Pendent tres jorns e tres nèits, l'ainat caminèt dins un gran bòsc, sens res veire ni res entendre que los ausèls del cièl e las bèstias sauvatjas.
+1	Pendent	pendent	ADP	Sp	_	3	case	_	Gloss=_
+2	tres	3	NUM	Dk	_	3	nummod	_	Gloss=_
+3	jorns	jorn	NOUN	Nc	_	10	obl	_	Gloss=_
+4	e	e	CCONJ	Cc	_	6	cc	_	Gloss=_
+5	tres	3	NUM	Dk	_	6	nummod	_	Gloss=_
+6	nèits	nèit	NOUN	Nc	_	3	conj	_	Gloss=_|SpaceAfter=No
+7	,	,	PUNCT	F	_	6	punct	_	Gloss=_
+8	l'	lo	DET	Da	_	9	det	_	Gloss=_|SpaceAfter=No
+9	ainat	ainat	NOUN	Nc	_	10	nsubj	_	Gloss=_
+10	caminèt	caminar	VERB	Vm	_	0	root	_	Gloss=_
+11	dins	dins	ADP	Sp	_	14	case	_	Gloss=_
+12	un	un	DET	Da	_	14	det	_	Gloss=_
+13	gran	gran	ADJ	Nc	_	14	amod	_	Gloss=_
+14	bòsc	bòsc	NOUN	Nc	_	10	obl	_	Gloss=_|SpaceAfter=No
+15	,	,	PUNCT	F	_	14	punct	_	Gloss=_
+16	sens	sens	ADP	Sp	_	18	mark	_	Gloss=_
+17	res	res	PRON	Pi	_	18	obj	_	Gloss=_
+18	veire	veire	VERB	Vm	_	10	advcl	_	Gloss=_
+19	ni	ni	CCONJ	Cc	_	21	cc	_	Gloss=_
+20	res	res	PRON	Pi	_	21	obj	_	Gloss=_
+21	entendre	entendre	VERB	Vm	_	18	conj	_	Gloss=_
+22	que	que	ADV	Cs	_	24	advmod	_	Gloss=_
+23	los	lo	DET	Da	_	24	det	_	Gloss=_
+24	ausèls	ausèl	NOUN	Nc	_	17	nmod	_	Gloss=_
+25-26	del	_	_	_	_	_	_	_	_
+25	de	de	ADP	Sp	_	27	case	_	Gloss=de
+26	lo	lo	DET	Da	_	27	det	_	Gloss=le
+27	cièl	cièl	NOUN	Nc	_	24	nmod	_	Gloss=_
+28	e	e	CCONJ	Cc	_	30	cc	_	Gloss=_
+29	las	lo	DET	Da	_	30	det	_	Gloss=_
+30	bèstias	bèstia	NOUN	Nc	_	24	conj	_	Gloss=_
+31	sauvatjas	sauvatja	ADJ	Af	_	30	amod	_	Gloss=_|SpaceAfter=No
+32	.	.	PUNCT	F	_	31	punct	_	Gloss=_
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s24
+# text = Mon Dieu, se me desliuratz d'aquí me farai sòr de convent.
+1	Mon	mon	DET	Ds	_	2	det	_	Gloss=_
+2	Dieu	Dieu	NOUN	Nc	_	10	vocative	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	se	se	SCONJ	Cs	_	6	mark	_	Gloss=_
+5	me	me	PRON	Pp	_	6	obj	_	Gloss=_
+6	desliuratz	desliurar	VERB	Vm	_	10	advcl	_	Gloss=_
+7	d'	de	ADP	Sp	_	8	case	_	Gloss=_|SpaceAfter=No
+8	aquí	aquí	ADV	Rg	_	6	obl	_	Gloss=_
+9	me	me	PRON	Pp	_	10	obj	_	Gloss=_
+10	farai	far	VERB	Vm	_	0	root	_	Gloss=_
+11	sòr	sòr	NOUN	Nc	_	10	obj	_	Gloss=_
+12	de	de	ADP	Sp	_	13	case	_	Gloss=_
+13	convent	convent	NOUN	Nc	_	11	nmod	_	Gloss=_|SpaceAfter=No
+14	.	.	PUNCT	F	_	13	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s38
+# text = -Frair, ça diguèt l'ainat dels bessons, es ací que nos cal separar.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Frair	frair	NOUN	Nc	_	5	parataxis	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	ça	ça	PRON	Pi	_	5	obj	_	Gloss=_
+5	diguèt	dire	VERB	Vm	_	0	root	_	Gloss=_
+6	l'	lo	DET	Da	_	7	det	_	Gloss=_|SpaceAfter=No
+7	ainat	ainat	NOUN	Nc	_	5	nsubj	_	Gloss=_
+8-9	dels	_	_	_	_	_	_	_	_
+8	de	de	ADP	Sp	_	10	case	_	Gloss=de
+9	los	lo	DET	Da	_	10	det	_	Gloss=le
+10	bessons	besson	NOUN	Nc	_	7	nmod	_	Gloss=_|SpaceAfter=No
+11	,	,	PUNCT	F	_	10	punct	_	Gloss=_
+12	es	èsser	AUX	Vm	_	13	cop	_	Gloss=_
+13	ací	ací	ADV	Rg	_	5	parataxis	_	Gloss=_
+14	que	que	SCONJ	Cs	_	16	mark	_	Gloss=_
+15	nos	nos	PRON	Pp	_	16	obj	_	Gloss=_
+16	cal	caler	VERB	Vm	_	13	xcomp	_	Gloss=_
+17	separar	separar	VERB	Vm	_	16	xcomp	_	Gloss=_|SpaceAfter=No
+18	.	.	PUNCT	F	_	17	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s77
+# text = La dama s'abilhèt e seguisquèt son marit a la promenada.
+1	La	lo	DET	Da	_	2	det	_	Gloss=_
+2	dama	dama	NOUN	Nc	_	4	nsubj	_	Gloss=_
+3	s'	se	PRON	Px	_	4	obj	_	Gloss=_|SpaceAfter=No
+4	abilhèt	abilhar	VERB	Vm	_	0	root	_	Gloss=_
+5	e	e	CCONJ	Cc	_	6	cc	_	Gloss=_
+6	seguisquèt	seguir	VERB	Vm	_	4	conj	_	Gloss=_
+7	son	son	DET	Ds	_	8	det	_	Gloss=_
+8	marit	marit	NOUN	Nc	_	6	obj	_	Gloss=_
+9	a	a	ADP	Sp	_	11	case	_	Gloss=_
+10	la	lo	DET	Da	_	11	det	_	Gloss=_
+11	promenada	promenada	NOUN	Nc	_	6	obl	_	Gloss=_|SpaceAfter=No
+12	.	.	PUNCT	F	_	11	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s9
+# text = L'òme daishèt  anar lo Gròs Peis, que l'ensenhèt un endret ont prenguèt de peis tan que volguèt.
+1	L'	lo	DET	Da	_	2	det	_	Gloss=_|SpaceAfter=No
+2	òme	òme	NOUN	Nc	_	3	nsubj	_	Gloss=_
+3	daishèt	daishar	VERB	Vm	_	0	root	_	Gloss=_
+4	anar	anar	VERB	Vm	_	3	xcomp	_	Gloss=_
+5	lo	lo	DET	Da	_	7	det	_	Gloss=_
+6	Gròs	gròs	ADJ	Af	_	7	amod	_	Gloss=_
+7	Peis	peis	NOUN	Nc	_	4	obj	_	Gloss=_|SpaceAfter=No
+8	,	,	PUNCT	F	_	7	punct	_	Gloss=_
+9	que	que	PRON	Pr	_	11	nsubj	_	Gloss=_
+10	l'	lo	PRON	Pp	_	11	iobj	_	Gloss=_|SpaceAfter=No
+11	ensenhèt	ensenhar	VERB	Vm	_	7	acl	_	Gloss=_
+12	un	un	DET	Da	_	13	det	_	Gloss=_
+13	endret	endret	NOUN	Nc	_	11	obj	_	Gloss=_
+14	ont	ont	PRON	Pr	_	15	obl	_	Gloss=_
+15	prenguèt	prene	VERB	Vm	_	13	acl	_	Gloss=_
+16	de	de	DET	Dp	_	17	det	_	Gloss=_
+17	peis	peis	NOUN	Nc	_	15	obj	_	Gloss=_
+18	tan	tan	ADV	Rq	_	15	advmod	_	Gloss=_
+19	que	que	SCONJ	Pr	_	20	mark	_	Gloss=_
+20	volguèt	voler	VERB	Vm	_	17	acl	_	Gloss=_|SpaceAfter=No
+21	.	.	PUNCT	F	_	20	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s13
+# text = Te vòli portar a ma femna que te farà còire e te minjarem ensemble.
+1	Te	te	PRON	Px	_	2	nsubj	_	Gloss=_
+2	vòli	voler	VERB	Vm	_	0	root	_	Gloss=_
+3	portar	portar	VERB	Vm	_	2	xcomp	_	Gloss=_
+4	a	a	ADP	Sp	_	6	case	_	Gloss=_
+5	ma	mon	DET	Ds	_	6	det	_	Gloss=_
+6	femna	femna	NOUN	Nc	_	3	obl	_	Gloss=_
+7	que	que	PRON	Pr	_	9	nsubj	_	Gloss=_
+8	te	te	PRON	Px	_	9	expl	_	Gloss=_
+9	farà	far	VERB	Vm	_	6	acl	_	Gloss=_
+10	còire	còire	VERB	Vm	_	9	xcomp	_	Gloss=_
+11	e	e	CCONJ	Cc	_	13	cc	_	Gloss=_
+12	te	te	PRON	Px	_	13	obj	_	Gloss=_
+13	minjarem	minjar	VERB	Vm	_	9	conj	_	Gloss=_
+14	ensemble	ensemble	ADV	Rg	_	13	advmod	_	Gloss=_|SpaceAfter=No
+15	.	.	PUNCT	F	_	14	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s19
+# text = - Escota, mon òme.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_
+2	Escota	escotar	VERB	Vm	_	0	root	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	mon	mon	DET	Ds	_	5	det	_	Gloss=_
+5	òme	òme	NOUN	Nc	_	2	vocative	_	Gloss=_|SpaceAfter=No
+6	.	.	PUNCT	F	_	5	punct	_	Gloss=_
+
+# sent_id = Barsoti_Niston_provencal.conllu.s1
+# text = Puei, sabètz, se fins a cinc ans avètz gaire de sovenirs, après un pichòt saup chifrar e pòu jutjar de son sicut.
+1	Puei	puèi	ADV	Rg	_	3	advmod	_	Gloss=puis|SpaceAfter=No
+2	,	,	PUNCT	F	_	1	punct	_	Gloss=,
+3	sabètz	saber	VERB	Vm	_	0	root	_	Gloss=savoir|SpaceAfter=No
+4	,	,	PUNCT	F	_	3	punct	_	Gloss=,
+5	se	se	SCONJ	Cs	_	10	mark	_	Gloss=si
+6	fins	fins	ADP	Sp	ExtPos=ADP	9	case	_	Gloss=jusqu’à|MWE=fins_a
+7	a	a	ADP	Sp	_	6	fixed	_	Gloss=à
+8	cinc	5	NUM	Dk	_	9	nummod	_	Gloss=5
+9	ans	an	NOUN	Nc	_	10	obl	_	Gloss=an
+10	avètz	aver	VERB	Vm	_	18	advcl	_	Gloss=avoir
+11	gaire	gaire	ADV	Rq	ExtPos=DET	13	det	_	Gloss=peu
+12	de	de	ADP	Sp	_	11	fixed	_	Gloss=de
+13	sovenirs	sovenir	NOUN	Nc	_	10	obj	_	Gloss=souvenir|SpaceAfter=No
+14	,	,	PUNCT	F	_	13	punct	_	Gloss=,
+15	après	aprèp	ADV	Sp	_	18	advmod	_	Gloss=après
+16	un	un	DET	Da	_	17	det	_	Gloss=un
+17	pichòt	pichòt	NOUN	Nc	_	18	nsubj	_	Gloss=petit
+18	saup	saupre	VERB	Vm	_	3	parataxis	_	Gloss=savoir
+19	chifrar	chifrar	VERB	Vm	_	18	xcomp	_	Gloss=réfléchir
+20	e	e	CCONJ	Cc	_	21	cc	_	Gloss=et
+21	pòu	poder	VERB	Vm	_	18	conj	_	Gloss=pouvoir
+22	jutjar	jutjar	VERB	Vm	_	21	xcomp	_	Gloss=juger
+23	de	de	ADP	Sp	_	25	case	_	Gloss=de
+24	son	son	DET	Ds	_	25	det	_	Gloss=son
+25	sicut	sicut	NOUN	Nc	_	22	obl	_	Gloss=point|SpaceAfter=No
+26	.	.	PUNCT	F	_	25	punct	_	Gloss=.
+
+# sent_id = Blader_Agenais_languedocien.conllu.s44
+# text = - Frair, aquò es convengut, ça diguèt lo capdèth dels bessons.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_
+2	Frair	frair	NOUN	Nc	_	6	vocative	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	aquò	aquò	PRON	Pd	_	6	nsubj	_	Gloss=_
+5	es	èsser	AUX	Vm	_	6	aux	_	Gloss=_
+6	convengut	convenir	VERB	Vm	_	9	parataxis	_	Gloss=_|SpaceAfter=No
+7	,	,	PUNCT	F	_	6	punct	_	Gloss=_
+8	ça	ça	PRON	Rg	_	9	obl	_	Gloss=_
+9	diguèt	dire	VERB	Vm	_	0	root	_	Gloss=_
+10	lo	lo	DET	Da	_	11	det	_	Gloss=_
+11	capdèth	capdèth	NOUN	Nc	_	9	nsubj	_	Gloss=_
+12-13	dels	_	_	_	_	_	_	_	_
+12	de	de	ADP	Sp	_	14	case	_	Gloss=de
+13	los	lo	DET	Da	_	14	det	_	Gloss=le
+14	bessons	besson	NOUN	Nc	_	11	nmod	_	Gloss=_|SpaceAfter=No
+15	.	.	PUNCT	F	_	14	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s34
+# text = Los dus canhòts, los dus polins e los dus bessons venguèron grands dinca l'atge de vint ans.
+1	Los	lo	DET	Da	_	3	det	_	Gloss=_
+2	dus	2	NUM	Dk	_	3	nummod	_	Gloss=_
+3	canhòts	canhòt	NOUN	Nc	_	12	nsubj	_	Gloss=_|SpaceAfter=No
+4	,	,	PUNCT	F	_	3	punct	_	Gloss=_
+5	los	lo	DET	Da	_	7	det	_	Gloss=_
+6	dus	2	NUM	Dk	_	7	nummod	_	Gloss=_
+7	polins	polin	NOUN	Nc	_	3	conj	_	Gloss=_
+8	e	e	CCONJ	Cc	_	11	cc	_	Gloss=_
+9	los	lo	DET	Da	_	11	det	_	Gloss=_
+10	dus	2	NUM	Dk	_	11	nummod	_	Gloss=_
+11	bessons	besson	NOUN	Af	_	3	conj	_	Gloss=_
+12	venguèron	vengar	VERB	Vm	_	0	root	_	Gloss=_
+13	grands	grand	ADJ	Af	_	12	xcomp	_	Gloss=_
+14	dinca	dinca	ADP	Sp	_	16	case	_	Gloss=_
+15	l'	lo	DET	Da	_	16	det	_	Gloss=_|SpaceAfter=No
+16	atge	atge	NOUN	Nc	_	13	obl	_	Gloss=_
+17	de	de	ADP	Sp	_	19	case	_	Gloss=_
+18	vint	20	NUM	Dk	_	19	nummod	_	Gloss=_
+19	ans	an	NOUN	Nc	_	16	nmod	_	Gloss=_|SpaceAfter=No
+20	.	.	PUNCT	F	_	19	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s72
+# text = Te l'as plan ganhada.
+1	Te	te	PRON	Px	_	5	iobj	_	Gloss=_
+2	l'	lo	PRON	Pp	_	5	obj	_	Gloss=_|SpaceAfter=No
+3	as	aver	AUX	Vm	_	5	aux	_	Gloss=_
+4	plan	plan	ADV	Rg	_	5	advmod	_	Gloss=_
+5	ganhada	ganhar	VERB	Vm	_	0	root	_	Gloss=_|SpaceAfter=No
+6	.	.	PUNCT	F	_	5	punct	_	Gloss=_
+
+# sent_id = Blader_Contes_gascon.conllu.s7
+# text = Dens sièis mesis, serèi pas mès mestressa au castèth.
+1	Dens	dens	ADP	Sp	_	3	case	_	Gloss=dans
+2	sièis	6	NUM	Dk	_	3	nummod	_	Gloss=6
+3	mesis	mes	NOUN	Nc	_	8	obl	_	Gloss=mois|SpaceAfter=No
+4	,	,	PUNCT	F	_	3	punct	_	Gloss=,
+5	serèi	estar	AUX	Vm	_	8	cop	_	Gloss=être
+6	pas	pas	ADV	Rg	_	7	advmod	_	Gloss=pas
+7	mès	mès	ADV	Rq	_	8	advmod	_	Gloss=plus
+8	mestressa	mestressa	NOUN	Nc	_	0	root	_	Gloss=maîtresse
+9	au	a_lo	DET	Da	_	10	det	_	Gloss=à_le
+10	castèth	castèth	NOUN	Nc	_	8	obl	_	Gloss=château|SpaceAfter=No
+11	.	.	PUNCT	F	_	10	punct	_	Gloss=.
+
+# sent_id = Blader_Agenais_languedocien.conllu.s76
+# text = -Femna, abilha -te, e anem nos promenar dins la campanha.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Femna	femna	NOUN	Nc	_	4	vocative	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	abilha	abilhar	VERB	Vm	_	0	root	_	Gloss=_
+5	-te	te	PRON	Pp	_	4	obj	_	Gloss=_|SpaceAfter=No
+6	,	,	PUNCT	F	_	5	punct	_	Gloss=_
+7	e	e	CCONJ	Cc	_	8	cc	_	Gloss=_
+8	anem	anar	VERB	Vm	_	4	conj	_	Gloss=_
+9	nos	nos	PRON	Pp	_	10	expl	_	Gloss=_
+10	promenar	promenar	VERB	Vm	_	8	xcomp	_	Gloss=_
+11	dins	dins	ADP	Sp	_	13	case	_	Gloss=_
+12	la	lo	DET	Da	_	13	det	_	Gloss=_
+13	campanha	campanha	NOUN	Nc	_	10	obl	_	Gloss=_|SpaceAfter=No
+14	.	.	PUNCT	F	_	13	punct	_	Gloss=_
+
+# sent_id = Ganhaire_Sorne_limousin.conllu.s12
+# text = La gelosia ajudant, un meschent geste es leu fait ;
+1	La	lo	DET	Da	_	3	det	_	Gloss=le
+2	gelosia	gelosia	DET	Da	_	3	det	_	Gloss=jalousie
+3	ajudant	ajudar	VERB	Vm	_	10	advcl	_	Gloss=aider|SpaceAfter=No
+4	,	,	PUNCT	F	_	3	punct	_	Gloss=,
+5	un	un	DET	Da	_	7	det	_	Gloss=un
+6	meschent	meschent	ADJ	Af	_	7	amod	_	Gloss=méchant
+7	geste	geste	NOUN	Nc	_	10	nsubj	_	Gloss=geste
+8	es	èsser	AUX	Va	_	10	aux	_	Gloss=être
+9	leu	leu	ADV	Rg	_	10	advmod	_	Gloss=vite
+10	fait	faire	VERB	Vm	_	0	root	_	Gloss=faire
+11	;	;	PUNCT	F	_	10	punct	_	Gloss=;
+
+# sent_id = Blader_Agenais_languedocien.conllu.s21
+# text = Ne vòli minjar.
+1	Ne	ne	PRON	Pp	_	3	obj	_	Gloss=_
+2	vòli	voler	VERB	Vm	_	0	root	_	Gloss=_
+3	minjar	minjar	VERB	Vm	_	2	xcomp	_	Gloss=_|SpaceAfter=No
+4	.	.	PUNCT	F	_	3	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s73
+# text = L'ainat dels bessons menèt sul còp la domaisèla a la glèisa e l'esposèt.
+1	L'	lo	DET	Da	_	2	det	_	Gloss=_|SpaceAfter=No
+2	ainat	ainat	NOUN	Nc	_	5	nsubj	_	Gloss=_
+3	dels	de_los	ADP	Sp	_	4	case	_	Gloss=_
+4	bessons	besson	NOUN	Nc	_	2	nmod	_	Gloss=_
+5	menèt	menar	VERB	Vm	_	0	root	_	Gloss=_
+6	sul	sul	ADP	SDa	_	7	case	_	Gloss=_
+7	còp	còp	NOUN	Nc	_	5	obl	_	Gloss=_
+8	la	lo	DET	Da	_	9	det	_	Gloss=_
+9	domaisèla	domaisèla	NOUN	Nc	_	5	obj	_	Gloss=_
+10	a	a	ADP	Sp	_	12	case	_	Gloss=_
+11	la	lo	DET	Da	_	12	det	_	Gloss=_
+12	glèisa	glèisa	NOUN	Nc	_	5	obl	_	Gloss=_
+13	e	e	CCONJ	Cc	_	15	cc	_	Gloss=_
+14	l'	lo	PRON	Pp	_	15	obj	_	Gloss=_|SpaceAfter=No
+15	esposèt	esposar	VERB	Vm	_	5	conj	_	Gloss=_|SpaceAfter=No
+16	.	.	PUNCT	F	_	15	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s47
+# text = Enfin, arribèt dins una vila ont totas las gents èran en dòl e ploravan.
+1	Enfin	enfin	ADV	Rg	_	3	advmod	_	Gloss=_|SpaceAfter=No
+2	,	,	PUNCT	F	_	1	punct	_	Gloss=_
+3	arribèt	arribar	VERB	Vm	_	0	root	_	Gloss=_
+4	dins	dins	ADP	Sp	_	6	case	_	Gloss=_
+5	una	un	DET	Da	_	6	det	_	Gloss=_
+6	vila	vila	NOUN	Nc	_	3	obl	_	Gloss=_
+7	ont	ont	PRON	Pr	_	13	obl	_	Gloss=_
+8	totas	tot	DET	Ai	_	10	det	_	Gloss=_
+9	las	lo	DET	Da	_	10	det	_	Gloss=_
+10	gents	gent	NOUN	Nc	_	13	nsubj	_	Gloss=_
+11	èran	èsser	AUX	Vm	_	13	cop	_	Gloss=_
+12	en	en	ADP	Sp	_	13	case	_	Gloss=_
+13	dòl	dòl	NOUN	Nc	_	6	acl	_	Gloss=_
+14	e	e	CCONJ	Cc	_	15	cc	_	Gloss=_
+15	ploravan	plorar	VERB	Vm	_	13	conj	_	Gloss=_|SpaceAfter=No
+16	.	.	PUNCT	F	_	15	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s56
+# text = L'ainat dels bessons estiflèt son can, tirèt son espasa, e partisquèt pel bòsc al gran galòp de son chival.
+1	L'	lo	DET	Da	_	2	det	_	Gloss=_|SpaceAfter=No
+2	ainat	ainat	NOUN	Nc	_	6	nsubj	_	Gloss=_
+3-4	dels	_	_	_	_	_	_	_	_
+3	de	de	ADP	Sp	_	5	case	_	Gloss=de
+4	los	lo	DET	Da	_	5	det	_	Gloss=le
+5	bessons	besson	NOUN	Nc	_	2	nmod	_	Gloss=_
+6	estiflèt	estiflar	VERB	Vm	_	0	root	_	Gloss=_
+7	son	son	DET	Ds	_	8	det	_	Gloss=_
+8	can	can	NOUN	Nc	_	6	obj	_	Gloss=_|SpaceAfter=No
+9	,	,	PUNCT	F	_	8	punct	_	Gloss=_
+10	tirèt	tirar	VERB	Vm	_	6	conj	_	Gloss=_
+11	son	son	DET	Ds	_	12	det	_	Gloss=_
+12	espasa	espasa	NOUN	Nc	_	10	obj	_	Gloss=_|SpaceAfter=No
+13	,	,	PUNCT	F	_	12	punct	_	Gloss=_
+14	e	e	CCONJ	Cc	_	15	cc	_	Gloss=_
+15	partisquèt	partir	VERB	Vm	_	6	conj	_	Gloss=_
+16-17	pel	_	_	_	_	_	_	_	_
+16	per	per	ADP	Sp	_	18	case	_	Gloss=pour
+17	lo	lo	DET	Da	_	18	det	_	Gloss=le
+18	bòsc	bòsc	NOUN	Nc	_	15	obl	_	Gloss=_
+19-20	al	_	_	_	_	_	_	_	_
+19	a	a	ADP	Sp	_	22	case	_	Gloss=à
+20	lo	lo	DET	Da	_	22	det	_	Gloss=le
+21	gran	gran	ADJ	Af	_	22	amod	_	Gloss=_
+22	galòp	galòp	NOUN	Nc	_	15	obl	_	Gloss=_
+23	de	de	ADP	Sp	_	25	case	_	Gloss=_
+24	son	son	DET	Ds	_	25	det	_	Gloss=_
+25	chival	chival	NOUN	Nc	_	22	nmod	_	Gloss=_|SpaceAfter=No
+26	.	.	PUNCT	F	_	25	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s15
+# text = T'ensenharèi un endret ont prendràs de peis tan que vodràs.
+1	T'	te	PRON	Px	_	2	iobj	_	Gloss=_|SpaceAfter=No
+2	ensenharèi	ensenhar	VERB	Vm	_	0	root	_	Gloss=_
+3	un	un	DET	Da	_	4	det	_	Gloss=_
+4	endret	endret	NOUN	Nc	_	2	obj	_	Gloss=_
+5	ont	ont	PRON	Pr	_	6	obl	_	Gloss=_
+6	prendràs	prene	VERB	Vm	_	4	acl	_	Gloss=_
+7	de	de	DET	Dp	_	8	det	_	Gloss=_
+8	peis	peis	NOUN	Nc	_	6	obj	_	Gloss=_
+9	tan	tan	ADV	Rq	_	6	advmod	_	Gloss=_
+10	que	que	SCONJ	Pr	_	11	mark	_	Gloss=_
+11	vodràs	voler	VERB	Vm	_	8	acl	_	Gloss=_|SpaceAfter=No
+12	.	.	PUNCT	F	_	11	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s11
+# text = -Òme, ça diguèt lo Gròs Peis, daisha-me anar.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Òme	òme	NOUN	Nc	_	0	root	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	ça	ça	PRON	Pi	_	5	obj	_	Gloss=_
+5	diguèt	dire	VERB	Vm	_	2	parataxis	_	Gloss=_
+6	lo	lo	DET	Da	_	8	det	_	Gloss=_
+7	Gròs	gròs	ADJ	Af	_	8	amod	_	Gloss=_
+8	Peis	peis	NOUN	Nc	_	5	nsubj	_	Gloss=_|SpaceAfter=No
+9	,	,	PUNCT	F	_	8	punct	_	Gloss=_
+10	daisha	daishar	VERB	Vm	_	2	parataxis	_	Gloss=_|SpaceAfter=No
+11	-me	me	PRON	Pp	_	10	obj	_	Gloss=_
+12	anar	anar	VERB	Vm	_	10	xcomp	_	Gloss=_|SpaceAfter=No
+13	.	.	PUNCT	F	_	12	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s29
+# text = Èi contat tot a ma femna, que m'a recomandat de te portar se tornavi te prene, pr'amòr que te vòl minjar.
+1	Èi	aver	AUX	Vm	_	2	aux	_	Gloss=_
+2	contat	contar	VERB	Vm	_	0	root	_	Gloss=_
+3	tot	tot	PRON	Pi	_	2	obj	_	Gloss=_
+4	a	a	ADP	Sp	_	6	case	_	Gloss=_
+5	ma	mon	DET	Ds	_	6	det	_	Gloss=_
+6	femna	femna	NOUN	Nc	_	2	obl	_	Gloss=_|SpaceAfter=No
+7	,	,	PUNCT	F	_	6	punct	_	Gloss=_
+8	que	que	PRON	Pr	_	11	nsubj	_	Gloss=_
+9	m'	me	PRON	Pp	_	11	iobj	_	Gloss=_|SpaceAfter=No
+10	a	aver	AUX	Vm	_	11	aux	_	Gloss=_
+11	recomandat	recomandar	VERB	Vm	_	6	acl	_	Gloss=_
+12	de	de	ADP	Sp	_	14	mark	_	Gloss=_
+13	te	te	PRON	Px	_	14	obj	_	Gloss=_
+14	portar	portar	VERB	Vm	_	11	xcomp	_	Gloss=_
+15	se	se	SCONJ	Px	_	16	mark	_	Gloss=_
+16	tornavi	tornar	VERB	Vm	_	11	advcl	_	Gloss=_
+17	te	te	PRON	Px	_	18	obj	_	Gloss=_
+18	prene	prene	VERB	Vm	_	16	xcomp	_	Gloss=_|SpaceAfter=No
+19	,	,	PUNCT	F	_	18	punct	_	Gloss=_
+20	pr'	per	ADP	Sp	ExtPos=SCONJ	24	mark	_	Gloss=pour|MWE=pr'amòr_que|SpaceAfter=No
+21	amòr	amòr	NOUN	Nc	_	20	fixed	_	Gloss=amour
+22	que	que	SCONJ	Cs	_	20	fixed	_	Gloss=que
+23	te	te	PRON	Px	_	25	obj	_	Gloss=_
+24	vòl	voler	VERB	Vm	_	11	advcl	_	Gloss=_
+25	minjar	minjar	VERB	Vm	_	24	xcomp	_	Gloss=_|SpaceAfter=No
+26	.	.	PUNCT	F	_	25	punct	_	Gloss=_
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s37
+# text = E aital cada nuèch dempuèi vint ans que s'èran maridats.
+1	E	e	CCONJ	Cc	_	2	cc	_	Gloss=_
+2	aital	aital	ADV	Rg	_	0	root	_	Gloss=_
+3	cada	cada	DET	Da	_	4	det	_	Gloss=_
+4	nuèch	nuèch	NOUN	Nc	_	2	obl	_	Gloss=_
+5	dempuèi	dempuèi	ADP	Sp	_	7	case	_	Gloss=_
+6	vint	20	NUM	Dk	_	7	nummod	_	Gloss=_
+7	ans	an	NOUN	Nc	_	2	obl	_	Gloss=_
+8	que	que	PRON	Pr	_	11	obl	_	Gloss=_
+9	s'	se	PRON	Px	_	11	obj	_	Gloss=_|SpaceAfter=No
+10	èran	èsser	AUX	Vm	_	11	aux	_	Gloss=_
+11	maridats	maridar	VERB	Vm	_	7	acl	_	Gloss=_|SpaceAfter=No
+12	.	.	PUNCT	F	_	11	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s55
+# text = -Diu t'assiste, brave gojat, e te garde de malur !
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Diu	Diu	PROPN	Np	_	4	nsubj	_	Gloss=_
+3	t'	te	PRON	Px	_	4	obj	_	Gloss=_|SpaceAfter=No
+4	assiste	assistar	VERB	Vm	_	0	root	_	Gloss=_|SpaceAfter=No
+5	,	,	PUNCT	F	_	4	punct	_	Gloss=_
+6	brave	brave	ADJ	Af	_	7	amod	_	Gloss=_
+7	gojat	gojat	NOUN	Nc	_	4	vocative	_	Gloss=_|SpaceAfter=No
+8	,	,	PUNCT	F	_	7	punct	_	Gloss=_
+9	e	e	CCONJ	Cc	_	11	cc	_	Gloss=_
+10	te	te	PRON	Px	_	11	obj	_	Gloss=_
+11	garde	gardar	VERB	Vm	_	4	conj	_	Gloss=_
+12	de	de	ADP	Sp	_	13	case	_	Gloss=_
+13	malur	malur	NOUN	Nc	_	11	iobj	_	Gloss=_
+14	!	!	PUNCT	F	_	13	punct	_	Gloss=_
+
+# sent_id = Ganhaire_Sorne_limousin.conllu.s6
+# text = Darnaudguilhem, aurá, aviá tirat una chadiera rasís lo liech e semblava lo bon vielh tonton vengut en vesita.
+1	Darnaudguilhem	Darnaudguilhem	PROPN	Np	_	6	nsubj	_	Gloss=Darnaudguilhem|SpaceAfter=No
+2	,	,	PUNCT	F	_	1	punct	_	Gloss=,
+3	aurá	aurá	ADV	Rg	_	6	advmod	_	Gloss=maintenant|SpaceAfter=No
+4	,	,	PUNCT	F	_	3	punct	_	Gloss=,
+5	aviá	aver	AUX	Va	_	6	aux	_	Gloss=avoir
+6	tirat	tirar	VERB	Vm	_	0	root	_	Gloss=tirer
+7	una	un	DET	Da	_	8	det	_	Gloss=un
+8	chadiera	chadiera	NOUN	Nc	_	6	obj	_	Gloss=chaise
+9	rasís	rasís	ADP	Sp	_	11	case	_	Gloss=au_ras_de
+10	lo	lo	DET	Da	_	11	det	_	Gloss=le
+11	liech	liech	NOUN	Nc	_	6	obl	_	Gloss=lit
+12	e	e	CCONJ	Cc	_	13	cc	_	Gloss=et
+13	semblava	semblar	VERB	Vm	_	6	conj	_	Gloss=sembler
+14	lo	lo	DET	Da	_	17	det	_	Gloss=le
+15	bon	bon	ADJ	Af	_	17	amod	_	Gloss=bon
+16	vielh	vielh	ADJ	Af	_	17	amod	_	Gloss=vieux
+17	tonton	tonton	NOUN	Nc	_	13	xcomp	_	Gloss=tonton
+18	vengut	venir	VERB	Vm	_	17	acl	_	Gloss=venir
+19	en	en	ADP	Sp	_	20	case	_	Gloss=en
+20	vesita	vesita	NOUN	Nc	_	18	obl	_	Gloss=visite|SpaceAfter=No
+21	.	.	PUNCT	F	_	20	punct	_	Gloss=.
+
+# sent_id = Blader_Contes_gascon.conllu.s23
+# text = Quauque jorn serà nòste mèstre.
+1	Quauque	qualque	DET	Da	_	2	det	_	Gloss=quelque
+2	jorn	jorn	NOUN	Nc	_	5	obl	_	Gloss=jour
+3	serà	estar	AUX	Vm	_	5	cop	_	Gloss=être
+4	nòste	nòste	DET	Ds	_	5	det	_	Gloss=notre
+5	mèstre	mèstre	NOUN	Nc	_	0	root	_	Gloss=maître|SpaceAfter=No
+6	.	.	PUNCT	F	_	5	punct	_	Gloss=.
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s14
+# text = Malaür per l'òme que passava !
+1	Malaür	malaür	NOUN	Nc	_	0	root	_	Gloss=_
+2	per	per	ADP	Sp	_	4	case	_	Gloss=_
+3	l'	lo	DET	Da	_	4	det	_	Gloss=_|SpaceAfter=No
+4	òme	òme	NOUN	Nc	_	1	nmod	_	Gloss=_
+5	que	que	PRON	Pr	_	6	nsubj	_	Gloss=_
+6	passava	passar	VERB	Vm	_	4	acl	_	Gloss=_
+7	!	!	PUNCT	F	_	6	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s57
+# text = Al cap de tres oras de corsa, trobèt  ligada  al pè d'un casse, la domaisèla bèla coma lo jorn.
+1-2	Al	_	_	_	_	_	_	_	_
+1	a	a	ADP	Sp	_	3	case	_	Gloss=_
+2	lo	lo	DET	Da	_	3	det	_	Gloss=_
+3	cap	cap	NOUN	NC	_	10	obl	_	Gloss=_
+4	de	de	ADP	Sp	_	6	case	_	Gloss=_
+5	tres	3	NUM	Dk	_	6	nummod	_	Gloss=_
+6	oras	ora	NOUN	Nc	_	3	nmod	_	Gloss=_
+7	de	de	ADP	Sp	_	8	case	_	Gloss=_
+8	corsa	corsa	NOUN	Nc	_	6	nmod	_	Gloss=_|SpaceAfter=No
+9	,	,	PUNCT	F	_	8	punct	_	Gloss=_
+10	trobèt	trobar	VERB	Vm	_	0	root	_	Gloss=_
+11	ligada	ligar	VERB	Vm	_	10	xcomp	_	Gloss=_
+12-13	al	_	_	_	_	_	_	_	_
+12	a	a	ADP	Sp	_	14	case	_	Gloss=à
+13	lo	lo	DET	Da	_	14	det	_	Gloss=le
+14	pè	pè	NOUN	Nc	_	10	obl	_	Gloss=_
+15	d'	de	ADP	Sp	_	17	case	_	Gloss=_|SpaceAfter=No
+16	un	un	DET	Da	_	17	det	_	Gloss=_
+17	casse	casse	NOUN	Nc	_	14	nmod	_	Gloss=_|SpaceAfter=No
+18	,	,	PUNCT	F	_	17	punct	_	Gloss=_
+19	la	lo	DET	Da	_	20	det	_	Gloss=_
+20	domaisèla	domaisèla	NOUN	Nc	_	10	obj	_	Gloss=_
+21	bèla	bèl	ADJ	Af	_	20	amod	_	Gloss=_
+22	coma	coma	SCONJ	Cs	_	24	mark	_	Gloss=_
+23	lo	lo	DET	Da	_	24	det	_	Gloss=_
+24	jorn	jorn	NOUN	Nc	_	21	advcl	_	Gloss=_|SpaceAfter=No
+25	.	.	PUNCT	F	_	24	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s1
+# text = Los dus Bessons
+1	Los	los	DET	Da	_	2	det	_	Gloss=_
+2	dus	2	NUM	Ak	_	3	nummod	_	Gloss=_
+3	Bessons	besson	NOUN	Nc	_	0	root	_	Gloss=_
+
+# sent_id = Blader_Contes_gascon.conllu.s12
+# text = Mès ès enqüèra tròp joen entà te maridar.
+1	Mès	mès	CCONJ	Rg	_	5	cc	_	Gloss=mais
+2	ès	estar	AUX	Vm	_	5	cop	_	Gloss=être
+3	enqüèra	enqüèra	ADV	Rg	_	4	advmod	_	Gloss=encore
+4	tròp	tròp	ADV	Rg	_	5	advmod	_	Gloss=trop
+5	joen	joen	ADJ	Af	_	0	root	_	Gloss=jeune
+6	entà	entà	ADP	Sp	_	8	mark	_	Gloss=pour
+7	te	te	PRON	Px	_	8	obj	_	Gloss=te
+8	maridar	maridar	VERB	Vm	_	5	advcl	_	Gloss=marier|SpaceAfter=No
+9	.	.	PUNCT	F	_	8	punct	_	Gloss=.
+
+# sent_id = Blader_Agenais_languedocien.conllu.s22
+# text = Lo lendoman, l'òme tornèt a la pesca, e tornèt prene lo Gròs Peis.
+1	Lo	lo	DET	Da	_	2	det	_	Gloss=_
+2	lendoman	lendoman	NOUN	Nc	_	6	obl	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	l'	lo	DET	Da	_	5	det	_	Gloss=_|SpaceAfter=No
+5	òme	òme	NOUN	Nc	_	6	nsubj	_	Gloss=_
+6	tornèt	tornar	VERB	Vm	_	0	root	_	Gloss=_
+7	a	a	ADP	Sp	_	9	case	_	Gloss=_
+8	la	lo	DET	Da	_	9	det	_	Gloss=_
+9	pesca	pesca	NOUN	Nc	_	6	obl	_	Gloss=_|SpaceAfter=No
+10	,	,	PUNCT	F	_	9	punct	_	Gloss=_
+11	e	e	CCONJ	Cc	_	12	cc	_	Gloss=_
+12	tornèt	tornar	VERB	Vm	_	6	conj	_	Gloss=_
+13	prene	prene	VERB	Vm	_	12	xcomp	_	Gloss=_
+14	lo	lo	DET	Da	_	16	det	_	Gloss=_
+15	Gròs	gròs	ADJ	Af	_	16	amod	_	Gloss=_
+16	Peis	peis	NOUN	Nc	_	13	obj	_	Gloss=_|SpaceAfter=No
+17	.	.	PUNCT	F	_	16	punct	_	Gloss=_
+
+# sent_id = Blader_Contes_gascon.conllu.s6
+# text = -A !
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=-|SpaceAfter=No
+2	A	a	INTJ	I	_	0	root	_	Gloss=
+3	!	!	PUNCT	F	_	2	punct	_	Gloss=!
+
+# sent_id = Blader_Agenais_languedocien.conllu.s4
+# text = -Òme, ça diguèt lo Gròs Peis, daisha-me anar.
+# tags = ASAP
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Òme	òme	NOUN	Nc	_	0	root	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	ça	ça	PRON	Pi	_	5	obj	_	Gloss=_
+5	diguèt	díser	VERB	Vm	_	2	parataxis	_	Gloss=_
+6	lo	lo	DET	Da	_	8	det	_	Gloss=_
+7	Gròs	gròs	ADJ	Af	_	8	amod	_	Gloss=_
+8	Peis	peis	NOUN	Nc	_	5	nsubj	_	Gloss=_|SpaceAfter=No
+9	,	,	PUNCT	F	_	8	punct	_	Gloss=_
+10	daisha	daishar	VERB	Vm	_	2	parataxis	_	Gloss=_|SpaceAfter=No
+11	-me	me	PRON	Pp	_	10	obj	_	Gloss=_
+12	anar	anar	VERB	Vm	_	10	xcomp	_	Gloss=_|SpaceAfter=No
+13	.	.	PUNCT	F	_	12	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s65
+# text = Pendent tres oras de relòtge, l'ainat dels bessons combatèt la Granda Bèstia a sèt caps e finisquèt per la parçar part e part.
+1	Pendent	pendent	ADP	Sp	_	3	case	_	Gloss=_
+2	tres	3	NUM	Dk	_	3	nummod	_	Gloss=_
+3	oras	ora	NOUN	Nc	_	12	obl	_	Gloss=_
+4	de	de	ADP	Sp	_	5	case	_	Gloss=_
+5	relòtge	relòtge	NOUN	Nc	_	3	nmod	_	Gloss=_|SpaceAfter=No
+6	,	,	PUNCT	F	_	5	punct	_	Gloss=_
+7	l'	lo	DET	Da	_	8	det	_	Gloss=_|SpaceAfter=No
+8	ainat	ainat	NOUN	Nc	_	12	nsubj	_	Gloss=_
+9-10	dels	_	_	_	_	_	_	_	_
+9	de	de	ADP	Sp	_	11	case	_	Gloss=de
+10	los	lo	DET	Da	_	11	det	_	Gloss=le
+11	bessons	besson	NOUN	Nc	_	8	nmod	_	Gloss=_
+12	combatèt	combatre	VERB	Vm	_	0	root	_	Gloss=_
+13	la	lo	DET	Da	_	15	det	_	Gloss=_
+14	Granda	grand	ADJ	Af	_	15	amod	_	Gloss=_
+15	Bèstia	bèstia	NOUN	Nc	_	12	obj	_	Gloss=_
+16	a	a	ADP	Sp	_	18	case	_	Gloss=_
+17	sèt	7	NUM	Dk	_	18	nummod	_	Gloss=_
+18	caps	cap	NOUN	Nc	_	15	nmod	_	Gloss=_
+19	e	e	CCONJ	Cc	_	20	cc	_	Gloss=_
+20	finisquèt	finir	VERB	Vm	_	12	conj	_	Gloss=_
+21	per	per	ADP	Sp	_	23	mark	_	Gloss=_
+22	la	lo	PRON	Pp	_	23	obj	_	Gloss=_
+23	parçar	parçar	VERB	Vm	_	20	advcl	_	Gloss=_
+24	part	part	NOUN	Nc	_	23	obl	_	Gloss=_
+25	e	e	CCONJ	Cc	_	26	cc	_	Gloss=_
+26	part	part	NOUN	Nc	_	24	conj	_	Gloss=_|SpaceAfter=No
+27	.	.	PUNCT	F	_	26	punct	_	Gloss=_
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s13
+# text = Mai d'un còp se sonavan un l'autre, s'atropelavan coma de lops.
+1	Mai	mai	ADV	Rq	ExtPos=ADP	4	case	_	Gloss=_
+2	d'	de	ADP	Sp	_	1	fixed	_	Gloss=_|SpaceAfter=No
+3	un	un	DET	Da	_	4	det	_	Gloss=_
+4	còp	còp	NOUN	Nc	_	6	obl	_	Gloss=_
+5	se	se	PRON	Px	_	6	obj	_	Gloss=_
+6	sonavan	sonar	VERB	Vm	_	0	root	_	Gloss=_
+7	un	un	PRON	Da	ExtPos=ADV	6	advmod	_	Gloss=_
+8	l'	lo	DET	Da	_	7	fixed	_	Gloss=_|SpaceAfter=No
+9	autre	autre	PRON	Af	_	7	fixed	_	Gloss=_|SpaceAfter=No
+10	,	,	PUNCT	F	_	9	punct	_	Gloss=_
+11	s'	se	PRON	Px	_	12	obj	_	Gloss=_|SpaceAfter=No
+12	atropelavan	atropelar	VERB	Vm	_	6	conj	_	Gloss=_
+13	coma	coma	SCONJ	Cs	_	15	mark	_	Gloss=_
+14	de	de	DET	Da	_	15	det	_	Gloss=_
+15	lops	lop	NOUN	Nc	_	12	advcl	_	Gloss=_|SpaceAfter=No
+16	.	.	PUNCT	F	_	15	punct	_	Gloss=_
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s15
+# text = Un ser, après la sopa, una filha de La Pruniá partiguèt per La Ribièira que l'esperavan per velhar : se devián plumar las aucas.
+1	Un	un	DET	Da	_	2	det	_	Gloss=_
+2	ser	ser	NOUN	Nc	_	13	obl	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	après	Après	ADP	Sp	_	6	case	_	Gloss=_
+5	la	lo	DET	Da	_	6	det	_	Gloss=_
+6	sopa	sopa	NOUN	Nc	_	13	obl	_	Gloss=_|SpaceAfter=No
+7	,	,	PUNCT	F	_	6	punct	_	Gloss=_
+8	una	un	DET	Da	_	9	det	_	Gloss=_
+9	filha	filha	NOUN	Nc	_	13	nsubj	_	Gloss=_
+10	de	de	ADP	Sp	_	12	case	_	Gloss=_
+11	La	lo	DET	Da	_	12	det	_	Gloss=_
+12	Pruniá	pruniá	NOUN	Nc	_	9	nmod	_	Gloss=_
+13	partiguèt	partir	VERB	Vm	_	0	root	_	Gloss=_
+14	per	per	ADP	Sp	_	16	case	_	Gloss=_
+15	La	lo	DET	Da	_	16	det	_	Gloss=_
+16	Ribièira	ribièira	NOUN	Nc	_	13	obl	_	Gloss=_
+17	que	que	SCONJ	Pr	_	19	nsubj	_	Gloss=_
+18	l'	lo	PRON	Px	_	19	obj	_	Gloss=_|SpaceAfter=No
+19	esperavan	esperar	VERB	Vm	_	13	advcl	_	Gloss=_
+20	per	per	ADP	Sp	_	21	mark	_	Gloss=_
+21	velhar	velhar	VERB	Vm	_	19	xcomp	_	Gloss=_
+22	:	:	PUNCT	F	_	21	punct	_	Gloss=_
+23	se	se	PRON	Px	_	24	expl	_	Gloss=_
+24	devián	deure	VERB	Vm	_	13	parataxis	_	Gloss=_
+25	plumar	plumar	VERB	Vm	_	24	xcomp	_	Gloss=_
+26	las	lo	DET	Da	_	27	det	_	Gloss=_
+27	aucas	auca	NOUN	Nc	_	24	nsubj	_	Gloss=_|SpaceAfter=No
+28	.	.	PUNCT	F	_	27	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s16
+# text = L'òme daishèt anar lo Gròs Peis, que l'ensenhèt un endret ont prenguèt de peis tan que volguèt.
+1	L'	lo	DET	Da	_	2	det	_	Gloss=_|SpaceAfter=No
+2	òme	òme	NOUN	Nc	_	3	nsubj	_	Gloss=_
+3	daishèt	daishar	VERB	Vm	_	0	root	_	Gloss=_
+4	anar	anar	VERB	Vm	_	3	xcomp	_	Gloss=_
+5	lo	lo	DET	Da	_	7	det	_	Gloss=_
+6	Gròs	gròs	ADJ	Af	_	7	amod	_	Gloss=_
+7	Peis	peis	NOUN	Nc	_	4	obj	_	Gloss=_|SpaceAfter=No
+8	,	,	PUNCT	F	_	7	punct	_	Gloss=_
+9	que	que	PRON	Pr	_	11	nsubj	_	Gloss=_
+10	l'	lo	PRON	Pp	_	11	iobj	_	Gloss=_|SpaceAfter=No
+11	ensenhèt	ensenhar	VERB	Vm	_	7	acl	_	Gloss=_
+12	un	un	DET	Da	_	13	det	_	Gloss=_
+13	endret	endret	NOUN	Nc	_	11	obj	_	Gloss=_
+14	ont	ont	PRON	Pr	_	15	obl	_	Gloss=_
+15	prenguèt	prene	VERB	Vm	_	13	acl	_	Gloss=_
+16	de	de	DET	Dp	_	17	det	_	Gloss=_
+17	peis	peis	NOUN	Nc	_	15	obj	_	Gloss=_
+18	tan	tan	ADV	Rq	_	15	advmod	_	Gloss=_|MWE=tan_que
+19	que	que	SCONJ	Cs	_	20	mark	_	Gloss=_
+20	volguèt	voler	VERB	Vm	_	15	advcl	_	Gloss=_|SpaceAfter=No
+21	.	.	PUNCT	F	_	20	punct	_	Gloss=_
+
+# sent_id = Barsoti_Niston_provencal.conllu.s3
+# text = Per exemple de 1936.
+1	Per	per	ADP	Sp	_	2	case	_	Gloss=par
+2	exemple	exemple	NOUN	Nc	_	0	root	_	Gloss=exemple
+3	de	de	ADP	Sp	_	4	case	_	Gloss=de
+4	1936	1936	NOUN	Nc	_	2	orphan	_	Gloss=1936|SpaceAfter=No
+5	.	.	PUNCT	F	_	4	punct	_	Gloss=.
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s3
+# text = Lo jorn, viuretz coma los autres òmes, mas cada nuèch tornaretz Dracs.
+1	Lo	lo	DET	Da	_	2	det	_	Gloss=_
+2	jorn	jorn	NOUN	Nc	_	4	obl	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	viuretz	viure	VERB	Vm	_	0	root	_	Gloss=_
+5	coma	coma	SCONJ	Cs	_	8	mark	_	Gloss=_
+6	los	lo	DET	Da	_	8	det	_	Gloss=_
+7	autres	autre	ADJ	Af	_	8	amod	_	Gloss=_
+8	òmes	òme	NOUN	Nc	_	4	advcl	_	Gloss=_|SpaceAfter=No
+9	,	,	PUNCT	F	_	8	punct	_	Gloss=_
+10	mas	mas	CCONJ	Cc	_	13	cc	_	Gloss=_
+11	cada	cada	DET	Da	_	12	det	_	Gloss=_
+12	nuèch	nuèch	NOUN	Nc	_	13	obl	_	Gloss=_
+13	tornaretz	tornar	VERB	Vm	_	4	conj	_	Gloss=_
+14	Dracs	drac	NOUN	Nc	_	13	xcomp	_	Gloss=_|SpaceAfter=No
+15	.	.	PUNCT	F	_	14	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s66
+# text = Alòrs li derreguèt las sèt lengas que metèt dins son mochoèr.
+1	Alòrs	alòrs	ADV	Rg	_	3	advmod	_	Gloss=_
+2	li	li	PRON	Pp	_	3	iobj	_	Gloss=_
+3	derreguèt	derregar	VERB	Vm	_	0	root	_	Gloss=_
+4	las	lo	DET	Da	_	6	det	_	Gloss=_
+5	sèt	7	NUM	Nk	_	6	nummod	_	Gloss=_
+6	lengas	lenga	NOUN	Nc	_	3	obj	_	Gloss=_
+7	que	que	PRON	Pr	_	8	obj	_	Gloss=_
+8	metèt	metre	VERB	Vm	_	6	acl	_	Gloss=_
+9	dins	dins	ADP	Sp	_	11	case	_	Gloss=_
+10	son	son	DET	Ds	_	11	det	_	Gloss=_
+11	mochoèr	mochoèr	NOUN	Nc	_	8	obl	_	Gloss=_|SpaceAfter=No
+12	.	.	PUNCT	F	_	11	punct	_	Gloss=_
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s12
+# text = Lo jorn trabalhavan amb los autres òmes ; e coma los autres òmes, manjavan e bevián.
+1	Lo	lo	DET	Da	_	2	det	_	Gloss=_
+2	jorn	jorn	NOUN	Nc	_	3	obl	_	Gloss=_
+3	trabalhavan	trabalhar	VERB	Vm	_	0	root	_	Gloss=_
+4	amb	amb	ADP	Sp	_	7	case	_	Gloss=_
+5	los	lo	DET	Da	_	7	det	_	Gloss=_
+6	autres	autre	ADJ	Af	_	7	amod	_	Gloss=_
+7	òmes	òme	NOUN	Nc	_	3	obl	_	Gloss=_
+8	;	;	PUNCT	F	_	7	punct	_	Gloss=_
+9	e	e	CCONJ	Cc	_	15	cc	_	Gloss=_
+10	coma	coma	SCONJ	Cs	_	15	mark	_	Gloss=_
+11	los	lo	DET	Da	_	13	det	_	Gloss=_
+12	autres	autre	ADJ	Af	_	13	amod	_	Gloss=_
+13	òmes	òme	NOUN	Nc	_	15	advcl	_	Gloss=_|SpaceAfter=No
+14	,	,	PUNCT	F	_	13	punct	_	Gloss=_
+15	manjavan	manjar	VERB	Vm	_	3	conj	_	Gloss=_
+16	e	e	CCONJ	Cc	_	17	cc	_	Gloss=_
+17	bevián	beure	VERB	Vm	_	15	conj	_	Gloss=_|SpaceAfter=No
+18	.	.	PUNCT	F	_	17	punct	_	Gloss=_
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s7
+# text = Pertot ont serez ieu serai.
+1	Pertot	pertot	ADV	Rg	_	0	root	_	Gloss=_
+2	ont	ont	PRON	Rg	_	1	acl	_	Gloss=_
+3	serez	èsser	AUX	Vm	_	2	cop	_	Gloss=_
+4	ieu	ieu	PRON	Pp	_	1	nsubj	_	Gloss=_
+5	serai	èsser	AUX	Vm	_	1	cop	_	Gloss=_|SpaceAfter=No
+6	.	.	PUNCT	F	_	5	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s25
+# text = Te vòli portar a ma femna que te farà còire, e te minjarem ensemble.
+1	Te	te	PRON	Px	_	2	obj	_	Gloss=_
+2	vòli	voler	VERB	Vm	_	0	root	_	Gloss=_
+3	portar	portar	VERB	Vm	_	2	xcomp	_	Gloss=_
+4	a	a	ADP	Sp	_	6	case	_	Gloss=_
+5	ma	mon	DET	Ds	_	6	det	_	Gloss=_
+6	femna	femna	NOUN	Nc	_	3	obl	_	Gloss=_
+7	que	que	PRON	Pr	_	9	nsubj	_	Gloss=_
+8	te	te	PRON	Px	_	9	obj	_	Gloss=_
+9	farà	far	VERB	Vm	_	6	acl	_	Gloss=_
+10	còire	còire	VERB	Vm	_	9	xcomp	_	Gloss=_|SpaceAfter=No
+11	,	,	PUNCT	F	_	10	punct	_	Gloss=_
+12	e	e	CCONJ	Cc	_	14	cc	_	Gloss=_
+13	te	te	PRON	Px	_	14	obj	_	Gloss=_
+14	minjarem	minjar	VERB	Vm	_	2	conj	_	Gloss=_
+15	ensemble	ensemble	ADV	Rg	_	14	advmod	_	Gloss=_|SpaceAfter=No
+16	.	.	PUNCT	F	_	15	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s8
+# text = T'ensenharèi un endret ont prendràs de peis tan que vodràs.
+1	T'	te	PRON	Px	_	2	iobj	_	Gloss=_|SpaceAfter=No
+2	ensenharèi	ensenhar	VERB	Vm	_	0	root	_	Gloss=_
+3	un	un	DET	Da	_	4	det	_	Gloss=_
+4	endret	endret	NOUN	Nc	_	2	obj	_	Gloss=_
+5	ont	ont	PRON	Pr	_	6	obl	_	Gloss=_
+6	prendràs	prene	VERB	Vm	_	4	acl	_	Gloss=_
+7	de	de	DET	Dp	_	8	det	_	Gloss=_
+8	peis	peis	NOUN	Nc	_	6	obj	_	Gloss=_
+9	tan	tan	ADV	Rq	_	6	advmod	_	Gloss=_
+10	que	que	SCONJ	Cs	_	11	mark	_	Gloss=_
+11	vodràs	voler	VERB	Vm	_	8	acl	_	Gloss=_|SpaceAfter=No
+12	.	.	PUNCT	F	_	11	punct	_	Gloss=_
+
+# sent_id = Blader_Contes_gascon.conllu.s31
+# text = ça que la èra un òme fòrt e hardit.
+1	ça	ça	ADV	Rg	ExtPos=ADV	6	advmod	_	Gloss=?|MWE=ça_que_la
+2	que	que	CCONJ	Cc	_	1	fixed	_	Gloss=que
+3	la	la	ADV	Rg	_	1	fixed	_	Gloss=là
+4	èra	èsser	AUX	Vm	_	6	cop	_	Gloss=être
+5	un	un	DET	Da	_	6	det	_	Gloss=un
+6	òme	òme	NOUN	Nc	_	0	root	_	Gloss=homme
+7	fòrt	fòrt	ADJ	Af	_	6	amod	_	Gloss=fort
+8	e	e	CCONJ	Cc	_	9	cc	_	Gloss=et
+9	hardit	hardit	ADJ	Af	_	7	conj	_	Gloss=hardi|SpaceAfter=No
+10	.	.	PUNCT	F	_	9	punct	_	Gloss=.
+
+# sent_id = Blader_Agenais_languedocien.conllu.s91
+# text = - Sabètz ont es anat ? ça disiá a tot lo monde.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_
+2	Sabètz	saber	VERB	Vm	_	0	root	_	Gloss=_
+3	ont	ont	ADV	Rt	_	5	advmod	_	Gloss=_
+4	es	èsser	AUX	Vm	_	5	aux	_	Gloss=_
+5	anat	anar	VERB	Vm	_	2	ccomp	_	Gloss=_
+6	?	?	PUNCT	F	_	5	punct	_	Gloss=_
+7	ça	ça	PRON	Pi	_	8	expl	_	Gloss=_
+8	disiá	dire	VERB	Vm	_	2	parataxis	_	Gloss=_
+9	a	a	ADP	Sp	_	12	case	_	Gloss=_
+10	tot	tot	DET	Ai	_	12	det	_	Gloss=_
+11	lo	lo	DET	Da	_	12	det	_	Gloss=_
+12	monde	monde	NOUN	Nc	_	8	obl	_	Gloss=_|SpaceAfter=No
+13	.	.	PUNCT	F	_	12	punct	_	Gloss=_
+
+# sent_id = Blader_Contes_gascon.conllu.s8
+# text = Ac veiram.
+1	Ac	ac	PRON	Pp	_	2	obj	_	Gloss=le
+2	veiram	véder	VERB	Vm	_	0	root	_	Gloss=voir|SpaceAfter=No
+3	.	.	PUNCT	F	_	2	punct	_	Gloss=.
+
+# sent_id = Barsoti_Niston_provencal.conllu.s4
+# text = La guèrra, se n'en parlava gaire que ren se passava, e alevat que mon paire èra mobilisat, que ma maire que me veniá veire en cò de ma grand, rintrava sovent de tard o partiá d'ora per son trabalh dei trams, m'avisavi de ren.
+1	La	lo	DET	Da	_	2	det	_	Gloss=le
+2	guèrra	guèrra	NOUN	Nc	_	6	dislocated	_	Gloss=guerre|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=,
+4	se	se	PRON	Px	_	6	expl	_	Gloss=on
+5	n'en	ne	PRON	Pp	_	6	iobj	_	Gloss=en
+6	parlava	parlar	VERB	Vm	_	0	root	_	Gloss=parler
+7	gaire	gaire	ADV	Rq	_	6	advmod	_	Gloss=peu
+8	que	que	SCONJ	Cs	_	11	mark	_	Gloss=car
+9	ren	ren	PRON	Pi	_	11	nsubj	_	Gloss=rien
+10	se	se	PRON	Px	_	11	expl	_	Gloss=se
+11	passava	passar	VERB	Vm	_	6	advcl	_	Gloss=passer|SpaceAfter=No
+12	,	,	PUNCT	F	_	11	punct	_	Gloss=,
+13	e	e	CCONJ	Cc	_	49	cc	_	Gloss=et
+14	alevat	alevat	ADP	Sp	ExtPos=SCONJ	19	mark	_	Gloss=sauf
+15	que	que	SCONJ	Cs	_	14	fixed	_	Gloss=que
+16	mon	mon	DET	Ds	_	17	det	_	Gloss=mon
+17	paire	paire	NOUN	Nc	_	19	nsubj	_	Gloss=père
+18	èra	èsser	AUX	Vm	_	19	aux	_	Gloss=être
+19	mobilisat	mobilisar	VERB	Vm	_	49	advcl	_	Gloss=mobiliser|SpaceAfter=No
+20	,	,	PUNCT	F	_	19	punct	_	Gloss=,
+21	que	que	SCONJ	Cs	_	34	mark	_	Gloss=que
+22	ma	mon	DET	Ds	_	23	det	_	Gloss=mon
+23	maire	maire	NOUN	Nc	_	34	nsubj	_	Gloss=mère
+24	que	que	PRON	Pr	_	26	nsubj	_	Gloss=qui
+25	me	me	PRON	Pp	_	27	obj	_	Gloss=me
+26	veniá	venir	VERB	Vm	_	23	acl	_	Gloss=venir
+27	veire	veire	VERB	Vm	_	26	xcomp	_	Gloss=voir
+28	en	en	ADP	Sp	_	29	case	_	Gloss=chez
+29	cò	cò	NOUN	Nc	_	27	obl	_	Gloss=X
+30	de	de	ADP	Sp	_	32	case	_	Gloss=X
+31	ma	mon	DET	Ds	_	32	det	_	Gloss=mon
+32	grand	grand	NOUN	Nc	_	29	nmod	_	Gloss=grand-mère|SpaceAfter=No
+33	,	,	PUNCT	F	_	32	punct	_	Gloss=,
+34	rintrava	rintrar	VERB	Vm	_	19	conj	_	Gloss=rentrer
+35	sovent	sovent	ADV	Rg	_	34	advmod	_	Gloss=souvent
+36	de	de	ADP	Sp	ExtPos=ADV	34	advmod	_	Gloss=de
+37	tard	tard	ADV	Rg	_	36	fixed	_	Gloss=tard
+38	o	o	CCONJ	Cc	_	39	cc	_	Gloss=ou
+39	partiá	partir	VERB	Vm	_	34	conj	_	Gloss=partir
+40	d'ora	d'ora	ADV	Rg	_	39	advmod	_	Gloss=tôt
+41	per	per	ADP	Sp	_	43	case	_	Gloss=pour
+42	son	son	DET	Ds	_	43	det	_	Gloss=son
+43	trabalh	trabalh	NOUN	Nc	_	39	obl	_	Gloss=travail
+44-45	dei	_	_	_	_	_	_	_	_
+44	de	de	ADP	Sp	_	46	case	_	Gloss=de
+45	lei	lo	DET	Da	_	46	det	_	Gloss=le
+46	trams	tram	NOUN	Nc	_	43	nmod	_	Gloss=tram|SpaceAfter=No
+47	,	,	PUNCT	F	_	46	punct	_	Gloss=,
+48	m'	me	PRON	Pp	_	49	expl	_	Gloss=me|SpaceAfter=No
+49	avisavi	avisar	VERB	Vm	_	6	conj	_	Gloss=apercevoir
+50	de	de	ADP	Sp	_	51	case	_	Gloss=de
+51	ren	ren	PRON	Pi	_	49	obl	_	Gloss=rien|SpaceAfter=No
+52	.	.	PUNCT	F	_	51	punct	_	Gloss=.
+
+# sent_id = Blader_Agenais_languedocien.conllu.s30
+# text = -E ben, òme, perque divi  èstre minjat, quan saràs rintrat dins ton ostal, donaràs mon cap a ta canha, ma coa a ta cabala e mon ventre a ta femna.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	E	e	CCONJ	Cs	_	19	cc	_	Gloss=_
+3	ben	ben	ADV	Rg	_	19	discourse	_	Gloss=_|SpaceAfter=No
+4	,	,	PUNCT	F	_	3	punct	_	Gloss=_
+5	òme	òme	NOUN	Nc	_	19	vocative	_	Gloss=_|SpaceAfter=No
+6	,	,	PUNCT	F	_	5	punct	_	Gloss=_
+7	perque	perque	SCONJ	Pt	_	8	mark	_	Gloss=_
+8	divi	déver	VERB	Vm	_	19	advcl	_	Gloss=_
+9	èstre	èstre	AUX	Vm	_	10	aux	_	Gloss=_
+10	minjat	minjar	VERB	Vm	_	8	xcomp	_	Gloss=_|SpaceAfter=No
+11	,	,	PUNCT	F	_	10	punct	_	Gloss=_
+12	quan	quan	SCONJ	Cs	_	14	mark	_	Gloss=_
+13	saràs	èstre	AUX	Vm	_	14	aux	_	Gloss=_
+14	rintrat	rintrar	VERB	Vm	_	19	advcl	_	Gloss=_
+15	dins	dins	ADP	Sp	_	17	case	_	Gloss=_
+16	ton	ton	DET	Ds	_	17	det	_	Gloss=_
+17	ostal	ostal	NOUN	Nc	_	14	obl	_	Gloss=_|SpaceAfter=No
+18	,	,	PUNCT	F	_	17	punct	_	Gloss=_
+19	donaràs	donar	VERB	Vm	_	0	root	_	Gloss=_
+20	mon	mon	DET	Ds	_	21	det	_	Gloss=_
+21	cap	cap	NOUN	Nc	_	19	obj	_	Gloss=_
+22	a	a	ADP	Sp	_	24	case	_	Gloss=_
+23	ta	ton	DET	Ds	_	24	det	_	Gloss=_
+24	canha	canha	NOUN	Nc	_	19	obl	_	Gloss=_|SpaceAfter=No
+25	,	,	PUNCT	F	_	24	punct	_	Gloss=_
+26	ma	mon	DET	Ds	_	27	det	_	Gloss=_
+27	coa	coa	NOUN	Nc	_	19	orphan	_	Gloss=_
+28	a	a	ADP	Sp	_	30	case	_	Gloss=_
+29	ta	ton	DET	Ds	_	30	det	_	Gloss=_
+30	cabala	cabala	NOUN	Nc	_	27	obl	_	Gloss=_
+31	e	e	CCONJ	Cc	_	33	cc	_	Gloss=_
+32	mon	mon	DET	Ds	_	33	det	_	Gloss=_
+33	ventre	ventre	NOUN	Nc	_	19	orphan	_	Gloss=_
+34	a	a	ADP	Sp	_	36	case	_	Gloss=_
+35	ta	ton	DET	Ds	_	36	det	_	Gloss=_
+36	femna	femna	NOUN	Nc	_	33	obl	_	Gloss=_|SpaceAfter=No
+37	.	.	PUNCT	F	_	36	punct	_	Gloss=_
+
+# sent_id = Barsoti_Niston_provencal.conllu.s15
+# text = Me restèt dins la mementa aquel incendi gigant.
+1	Me	me	PRON	Pp	_	2	iobj	_	Gloss=me
+2	restèt	restar	VERB	Vm	_	0	root	_	Gloss=rester
+3	dins	dins	ADP	Sp	_	5	case	_	Gloss=dans
+4	la	lo	DET	Da	_	5	det	_	Gloss=le
+5	mementa	mementa	NOUN	Nc	_	2	obl	_	Gloss=mémoire
+6	aquel	aquel	DET	Dd	_	7	det	_	Gloss=ce
+7	incendi	incendi	NOUN	Nc	_	2	obj	_	Gloss=incendie
+8	gigant	gigant	ADJ	Af	_	7	amod	_	Gloss=géant|SpaceAfter=No
+9	.	.	PUNCT	F	_	8	punct	_	Gloss=.
+
+# sent_id = Blader_Contes_gascon.conllu.s20
+# text = Qué i a entà vòste servici ?
+1	Qué	qué	PRON	Pt	_	3	obj	_	Gloss=que
+2	i	i	PRON	Pp	_	3	expl	_	Gloss=y
+3	a	aver	VERB	Vm	_	0	root	_	Gloss=avoir
+4	entà	entà	ADP	Sp	_	6	case	_	Gloss=pour
+5	vòste	vòste	DET	Ds	_	6	det	_	Gloss=votre
+6	servici	servici	NOUN	Nc	_	3	obl	_	Gloss=service
+7	?	?	PUNCT	F	_	6	punct	_	Gloss=?
+
+# sent_id = Blader_Agenais_languedocien.conllu.s20
+# text = Se tornas prene aquel Gròs Peis, pòrta-me-lo.
+1	Se	se	SCONJ	Px	_	2	mark	_	Gloss=_
+2	tornas	tornar	VERB	Vm	_	8	advcl	_	Gloss=_
+3	prene	prene	VERB	Vm	_	2	xcomp	_	Gloss=_
+4	aquel	aquel	DET	Dd	_	6	det	_	Gloss=_
+5	Gròs	gròs	ADJ	Af	_	6	amod	_	Gloss=_
+6	Peis	peis	NOUN	Nc	_	3	obj	_	Gloss=_|SpaceAfter=No
+7	,	,	PUNCT	F	_	6	punct	_	Gloss=_
+8	pòrta	portar	VERB	Vm	_	0	root	_	Gloss=_|SpaceAfter=No
+9	-me	me	PRON	Pp	_	8	iobj	_	Gloss=_|SpaceAfter=No
+10	-lo	lo	PRON	Pp	_	8	obj	_	Gloss=_|SpaceAfter=No
+11	.	.	PUNCT	F	_	10	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s10
+# text = Lo lendoman, l'òme tornèt a la pesca e tornèt prene lo Gròs Peis.
+1	Lo	lo	DET	Da	_	2	det	_	Gloss=_
+2	lendoman	lendoman	NOUN	Nc	_	6	obl	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	l'	lo	DET	Da	_	5	det	_	Gloss=_|SpaceAfter=No
+5	òme	òme	NOUN	Nc	_	6	nsubj	_	Gloss=_
+6	tornèt	tornar	VERB	Vm	_	0	root	_	Gloss=_
+7	a	a	ADP	Sp	_	9	case	_	Gloss=_
+8	la	lo	DET	Da	_	9	det	_	Gloss=_
+9	pesca	pesca	NOUN	Nc	_	6	obl	_	Gloss=_
+10	e	e	CCONJ	Cc	_	11	cc	_	Gloss=_
+11	tornèt	tornar	VERB	Vm	_	6	conj	_	Gloss=_
+12	prene	prene	VERB	Vm	_	11	xcomp	_	Gloss=_
+13	lo	lo	DET	Da	_	15	det	_	Gloss=_
+14	Gròs	gròs	ADJ	Af	_	15	amod	_	Gloss=_
+15	Peis	peis	NOUN	Nc	_	12	obj	_	Gloss=_|SpaceAfter=No
+16	.	.	PUNCT	F	_	15	punct	_	Gloss=_
+
+# sent_id = Blader_Contes_gascon.conllu.s21
+# text = -Rei, dempús sos dètz-e-sèt ans, vòste hilh s'es perdut, dens las maishantas companhas.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=-|SpaceAfter=No
+2	Rei	rei	NOUN	Nc	_	13	vocative	_	Gloss=roi|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=,
+4	dempús	dempús	ADP	Sp	_	7	case	_	Gloss=depuis
+5	sos	son	DET	Ds	_	7	det	_	Gloss=son
+6	dètz-e-sèt	17	NUM	Dk	_	7	nummod	_	Gloss=17
+7	ans	an	NOUN	Nc	_	13	obl	_	Gloss=an|SpaceAfter=No
+8	,	,	PUNCT	F	_	7	punct	_	Gloss=,
+9	vòste	vòste	DET	Ds	_	10	det	_	Gloss=votre
+10	hilh	hilh	NOUN	Nc	_	13	nsubj	_	Gloss=fils
+11	s'	se	PRON	Px	_	13	obj	_	Gloss=se|SpaceAfter=No
+12	es	èsser	AUX	Va	_	13	aux	_	Gloss=être
+13	perdut	pèrder	VERB	Vm	_	0	root	_	Gloss=perdre|SpaceAfter=No
+14	,	,	PUNCT	F	_	13	punct	_	Gloss=,
+15	dens	dens	ADP	Sp	_	18	case	_	Gloss=dans
+16	las	lo	DET	Da	_	18	det	_	Gloss=le
+17	maishantas	maishant	ADJ	Af	_	18	amod	_	Gloss=mauvais
+18	companhas	companha	NOUN	Nc	_	13	obl	_	Gloss=compagnie|SpaceAfter=No
+19	.	.	PUNCT	F	_	18	punct	_	Gloss=.
+
+# sent_id = Blader_Agenais_languedocien.conllu.s59
+# text = Entendi los critz de la Granda Bèstia a sèt caps que s'apròcha.
+1	Entendi	entendre	VERB	Vm	_	0	root	_	Gloss=_
+2	los	lo	DET	Da	_	3	det	_	Gloss=_
+3	critz	critz	NOUN	Nc	_	1	obj	_	Gloss=_
+4	de	de	ADP	Sp	_	7	case	_	Gloss=_
+5	la	lo	DET	Da	_	7	det	_	Gloss=_
+6	Granda	grand	ADJ	Af	_	7	amod	_	Gloss=_
+7	Bèstia	bèstia	NOUN	Nc	_	3	nmod	_	Gloss=_
+8	a	a	ADP	Sp	_	10	case	_	Gloss=_
+9	sèt	7	NUM	Dk	_	10	nummod	_	Gloss=_
+10	caps	cap	NOUN	Nc	_	7	nmod	_	Gloss=_
+11	que	que	PRON	Pr	_	13	nsubj	_	Gloss=_
+12	s'	se	PRON	Px	_	13	expl	_	Gloss=_|SpaceAfter=No
+13	apròcha	aprochar	VERB	Vm	_	7	acl	_	Gloss=_|SpaceAfter=No
+14	.	.	PUNCT	F	_	13	punct	_	Gloss=_
+
+# sent_id = Barsoti_Niston_provencal.conllu.s2
+# text = Me rèstan pasmens quauquei sovenirs d'avans cinc ans.
+1	Me	me	PRON	Pp	_	2	iobj	_	Gloss=me
+2	rèstan	restar	VERB	Vm	_	0	root	_	Gloss=rester
+3	pasmens	pasmens	ADV	Rg	_	2	advmod	_	Gloss=toutefois
+4	quauquei	quauque	DET	Pi	_	5	det	_	Gloss=quelque
+5	sovenirs	sovenir	NOUN	Nc	_	2	obj	_	Gloss=souvenir
+6	d'	de	ADP	Sp	_	9	case	_	Gloss=de|SpaceAfter=No
+7	avans	avans	ADP	Sp	_	9	case	_	Gloss=avant
+8	cinc	5	NUM	Dk	_	9	nummod	_	Gloss=5
+9	ans	an	NOUN	Nc	_	5	nmod	_	Gloss=an|SpaceAfter=No
+10	.	.	PUNCT	F	_	9	punct	_	Gloss=.
+
+# sent_id = Barsoti_Niston_provencal.conllu.s6
+# text = E pasmens, se volèm demorar objectius, aguessiam lo remembre de tot çò que se passava a aqueu moment, seriá probable pas tant idillic.
+1	E	e	CCONJ	Cc	_	26	cc	_	Gloss=et
+2	pasmens	pasmens	ADV	Rg	_	26	advmod	_	Gloss=pourtant|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=,
+4	se	se	SCONJ	Cs	_	5	mark	_	Gloss=si
+5	volèm	voler	VERB	Vm	_	26	advcl	_	Gloss=vouloir
+6	demorar	demorar	VERB	Vm	_	5	xcomp	_	Gloss=rester
+7	objectius	objectiu	ADJ	Af	_	6	xcomp	_	Gloss=objectif|SpaceAfter=No
+8	,	,	PUNCT	F	_	7	punct	_	Gloss=,
+9	aguessiam	aver	VERB	Vm	_	26	advcl	_	Gloss=avoir
+10	lo	lo	DET	Da	_	11	det	_	Gloss=le
+11	remembre	remembre	NOUN	Nc	_	9	obj	_	Gloss=souvenir
+12	de	de	ADP	Sp	_	14	case	_	Gloss=de
+13	tot	tot	DET	Ai	_	14	det	_	Gloss=tout
+14	çò	çò	PRON	Pd	_	11	nmod	_	Gloss=ce
+15	que	que	PRON	Pr	_	17	nsubj	_	Gloss=qui
+16	se	se	PRON	Px	_	17	expl	_	Gloss=se
+17	passava	passar	VERB	Vm	_	14	acl	_	Gloss=passer
+18	a	a	ADP	Sp	_	20	case	_	Gloss=à
+19	aqueu	aqueu	DET	Dd	_	20	det	_	Gloss=ce
+20	moment	moment	NOUN	Nc	_	17	obl	_	Gloss=moment|SpaceAfter=No
+21	,	,	PUNCT	F	_	20	punct	_	Gloss=,
+22	seriá	èsser	AUX	Vm	_	26	cop	_	Gloss=être
+23	probable	probable	ADV	Af	_	26	advmod	_	Gloss=probable
+24	pas	pas	ADV	Rg	_	26	advmod	_	Gloss=pas
+25	tant	tant	ADV	Rq	_	26	advmod	_	Gloss=autant
+26	idillic	idillic	ADJ	Af	_	0	root	_	Gloss=idyllique|SpaceAfter=No
+27	.	.	PUNCT	F	_	26	punct	_	Gloss=.
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s10
+# text = Alara, d'aquel temps, i aviá de Dracs pertot.
+1	Alara	alara	ADV	Rg	_	8	advmod	_	Gloss=_|SpaceAfter=No
+2	,	,	PUNCT	F	_	1	punct	_	Gloss=_
+3	d'	de	ADP	Sp	_	5	case	_	Gloss=_|SpaceAfter=No
+4	aquel	aquel	DET	Dd	_	5	det	_	Gloss=_
+5	temps	temps	NOUN	Nc	_	8	obl	_	Gloss=_|SpaceAfter=No
+6	,	,	PUNCT	F	_	5	punct	_	Gloss=_
+7	i	i	PRON	Pp	_	8	expl	_	Gloss=_
+8	aviá	Aver	VERB	Vm	_	0	root	_	Gloss=_
+9	de	de	DET	Sp	_	10	det	_	Gloss=_
+10	Dracs	drac	NOUN	Nc	_	8	obj	_	Gloss=_
+11	pertot	pertot	ADV	Rg	_	8	advmod	_	Gloss=_|SpaceAfter=No
+12	.	.	PUNCT	F	_	11	punct	_	Gloss=_
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s16
+# text = Una clamor se levèt sus Viaur, aval a La Calquièira.
+1	Una	un	DET	Da	_	2	det	_	Gloss=_
+2	clamor	clamor	NOUN	Nc	_	4	nsubj	_	Gloss=_
+3	se	se	PRON	Px	_	4	expl	_	Gloss=_
+4	levèt	levar	VERB	Vm	_	0	root	_	Gloss=_
+5	sus	sus	ADP	Sp	_	6	case	_	Gloss=_
+6	Viaur	Viaur	PROPN	Np	_	4	obl	_	Gloss=_|SpaceAfter=No
+7	,	,	PUNCT	F	_	6	punct	_	Gloss=_
+8	aval	aval	ADV	Rg	_	11	advmod	_	Gloss=_
+9	a	a	ADP	Sp	_	11	case	_	Gloss=_
+10	La	lo	DET	Da	_	11	det	_	Gloss=_
+11	Calquièira	calquièira	PROPN	Nc	_	4	obl	_	Gloss=_|SpaceAfter=No
+12	.	.	PUNCT	F	_	11	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s2
+# text = I aviá un còp un òme que passava tot son temps a pescar.
+1	I	i	PRON	Pp	_	2	expl	_	Gloss=_
+2	aviá	aver	VERB	Vm	_	0	root	_	Gloss=_
+3	un	un	DET	Da	_	4	det	_	Gloss=_
+4	còp	còp	NOUN	Nc	_	2	obl	_	Gloss=_
+5	un	un	DET	Da	_	6	det	_	Gloss=_
+6	òme	òme	NOUN	Nc	_	2	obj	_	Gloss=_
+7	que	que	PRON	Pr	_	8	nsubj	_	Gloss=_
+8	passava	passar	VERB	Vm	_	6	acl	_	Gloss=_
+9	tot	tot	DET	Af	_	11	det	_	Gloss=_
+10	son	son	DET	Ds	_	11	det	_	Gloss=_
+11	temps	temps	NOUN	Nc	_	8	obj	_	Gloss=_
+12	a	a	ADP	Sp	_	13	mark	_	Gloss=_
+13	pescar	pescar	VERB	Vm	_	8	xcomp	_	Gloss=_|SpaceAfter=No
+14	.	.	PUNCT	F	_	13	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s50
+# text = I a dins lo bòsc tot pròche una Granda Bèstia a sèt caps, que nos pren cada an la plus bèla  de nòstras joenas filhas.
+1	I	i	PRON	Pp	_	2	expl	_	Gloss=_
+2	a	aver	VERB	Vm	_	0	root	_	Gloss=_
+3	dins	dins	ADP	Sp	_	5	case	_	Gloss=_
+4	lo	lo	DET	Da	_	5	det	_	Gloss=_
+5	bòsc	bòsc	NOUN	Nc	_	2	obl	_	Gloss=_
+6	tot	tot	ADV	Rq	_	7	advmod	_	Gloss=_
+7	pròche	pròche	ADJ	Af	_	5	amod	_	Gloss=_
+8	una	un	DET	Da	_	10	det	_	Gloss=_
+9	Granda	grand	ADJ	Af	_	10	amod	_	Gloss=_
+10	Bèstia	bèstia	NOUN	Nc	_	2	obj	_	Gloss=_
+11	a	a	ADP	Sp	_	13	case	_	Gloss=_
+12	sèt	7	NUM	Dk	_	13	nummod	_	Gloss=_
+13	caps	cap	NOUN	Nc	_	10	nmod	_	Gloss=_|SpaceAfter=No
+14	,	,	PUNCT	F	_	13	punct	_	Gloss=_
+15	que	que	PRON	Pr	_	17	nsubj	_	Gloss=_
+16	nos	nos	PRON	Pp	_	17	iobj	_	Gloss=_
+17	pren	prene	VERB	Vm	_	10	acl	_	Gloss=_
+18	cada	cada	DET	Da	_	19	det	_	Gloss=_
+19	an	an	NOUN	Nc	_	17	obl	_	Gloss=_
+20	la	lo	DET	Da	_	22	det	_	Gloss=_
+21	plus	plus	ADV	Rg	_	22	advmod	_	Gloss=_
+22	bèla	bèl	ADJ	Af	_	17	obj	_	Gloss=_
+23	de	de	ADP	Sp	_	26	case	_	Gloss=_
+24	nòstras	nòstre	DET	Ds	_	26	det	_	Gloss=_
+25	joenas	joen	ADJ	Af	_	26	amod	_	Gloss=_
+26	filhas	filha	NOUN	Nc	_	22	obl	_	Gloss=_|SpaceAfter=No
+27	.	.	PUNCT	F	_	26	punct	_	Gloss=_
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s25
+# text = Es aital que la trobèt a mièjanuèch l'enfant de Cerièis qu'èra vengut per saquejar las asclas.
+1	Es	èsser	VERB	Vm	_	0	root	_	Gloss=_
+2	aital	aital	ADV	Rg	_	1	advmod	_	Gloss=_
+3	que	que	SCONJ	Cs	_	5	mark	_	Gloss=_
+4	la	lo	PRON	Px	_	5	obj	_	Gloss=_
+5	trobèt	trobar	VERB	Vm	_	1	ccomp	_	Gloss=_
+6	a	a	ADP	Sp	_	7	case	_	Gloss=_
+7	mièjanuèch	mièjanuèch	NOUN	Nc	_	5	obl	_	Gloss=_
+8	l'	lo	DET	Da	_	9	det	_	Gloss=_|SpaceAfter=No
+9	enfant	enfant	NOUN	Nc	_	5	nsubj	_	Gloss=_
+10	de	de	ADP	Sp	_	11	case	_	Gloss=_
+11	Cerièis	cerièir	PROPN	Nc	_	9	nmod	_	Gloss=_
+12	qu'	que	PRON	Pr	_	14	nsubj	_	Gloss=_|SpaceAfter=No
+13	èra	èsser	AUX	Vm	_	14	aux	_	Gloss=_
+14	vengut	venir	VERB	Vm	_	9	acl	_	Gloss=_
+15	per	per	ADP	Sp	_	16	mark	_	Gloss=_
+16	saquejar	saquejar	VERB	Vm	_	14	advcl	_	Gloss=_
+17	las	lo	DET	Da	_	18	det	_	Gloss=_
+18	asclas	ascla	NOUN	Nc	_	16	obj	_	Gloss=_|SpaceAfter=No
+19	.	.	PUNCT	F	_	18	punct	_	Gloss=_
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s18
+# text = La filha cridèt :
+1	La	lo	DET	Da	_	2	det	_	Gloss=_
+2	filha	filha	NOUN	Nc	_	3	nsubj	_	Gloss=_
+3	cridèt	cridar	VERB	Vm	_	0	root	_	Gloss=_
+4	:	:	PUNCT	F	_	3	punct	_	Gloss=_
+
+# sent_id = Barsoti_Niston_provencal.conllu.s7
+# text = Comprenguèri pas çò que me disiá que sabiá ren que l'italian e qu'a l'ostau, nautrei parlaviam ren que francitan.
+1	Comprenguèri	comprendre	VERB	Vm	_	0	root	_	Gloss=comprendre
+2	pas	pas	ADV	Rg	_	1	advmod	_	Gloss=pas
+3	çò	çò	PRON	Pd	_	1	obj	_	Gloss=ce
+4	que	que	PRON	Pr	_	6	nsubj	_	Gloss=qui
+5	me	me	PRON	Pp	_	6	iobj	_	Gloss=me
+6	disiá	dire	VERB	Vm	_	3	acl	_	Gloss=dire
+7	que	que	SCONJ	Cs	_	8	mark	_	Gloss=car
+8	sabiá	saber	VERB	Vm	_	1	advcl	_	Gloss=connaître
+9	ren	ren	ADV	Pi	_	10	advmod	_	Gloss=rien
+10	que	que	ADV	Cs	_	8	advmod	_	Gloss=que
+11	l'	lo	DET	Da	_	12	det	_	Gloss=le|SpaceAfter=No
+12	italian	italian	NOUN	Nc	_	8	obj	_	Gloss=italien
+13	e	e	CCONJ	Cc	_	20	cc	_	Gloss=et
+14	qu'	que	SCONJ	Cs	_	20	mark	_	Gloss=que|SpaceAfter=No
+15	a	a	ADP	Sp	_	17	case	_	Gloss=à
+16	l'	lo	DET	Da	_	17	det	_	Gloss=le|SpaceAfter=No
+17	ostau	ostau	NOUN	Nc	_	20	obl	_	Gloss=maison|SpaceAfter=No
+18	,	,	PUNCT	F	_	17	punct	_	Gloss=,
+19	nautrei	nautrei	PRON	Pp	_	20	nsubj	_	Gloss=nous
+20	parlaviam	parlar	VERB	Vm	_	8	conj	_	Gloss=parler
+21	ren	ren	ADV	Pi	_	22	advmod	_	Gloss=rien
+22	que	que	ADV	Cs	_	20	advmod	_	Gloss=que
+23	francitan	francitan	NOUN	Nc	_	20	obj	_	Gloss=francitan|SpaceAfter=No
+24	.	.	PUNCT	F	_	23	punct	_	Gloss=.
+
+# sent_id = Blader_Contes_gascon.conllu.s24
+# text = Hasètz-lo castigar, afin que se corregisca e qu'aujam un bon rei, quan siatz mòrt.
+1	Hasètz	hèr	VERB	Vm	_	0	root	_	Gloss=faire|SpaceAfter=No
+2	-lo	lo	PRON	Pp	_	3	obj	_	Gloss=le
+3	castigar	castigar	VERB	Vm	_	1	xcomp	_	Gloss=punit|SpaceAfter=No
+4	,	,	PUNCT	F	_	3	punct	_	Gloss=,
+5	afin	afin	ADV	Rg	ExtPos=SCONJ	8	mark	_	Gloss=afin
+6	que	que	SCONJ	Cs	_	5	fixed	_	Gloss=que
+7	se	se	PRON	Px	_	8	obj	_	Gloss=se
+8	corregisca	corregir	VERB	Vm	_	1	advcl	_	Gloss=corriger
+9	e	e	CCONJ	Cc	_	11	cc	_	Gloss=et
+10	qu'	que	SCONJ	Cs	_	11	mark	_	Gloss=que|SpaceAfter=No
+11	aujam	aver	VERB	Vm	_	1	conj	_	Gloss=avoir
+12	un	un	DET	Da	_	14	det	_	Gloss=un
+13	bon	bon	ADJ	Af	_	14	amod	_	Gloss=bon
+14	rei	rei	NOUN	Nc	_	11	obj	_	Gloss=roi|SpaceAfter=No
+15	,	,	PUNCT	F	_	14	punct	_	Gloss=,
+16	quan	quan	SCONJ	Cs	_	18	mark	_	Gloss=quand
+17	siatz	èsser	AUX	Vm	_	18	cop	_	Gloss=être
+18	mòrt	mòrt	ADJ	Af	_	11	advcl	_	Gloss=mort|SpaceAfter=No
+19	.	.	PUNCT	F	_	18	punct	_	Gloss=.
+
+# sent_id = Blader_Agenais_languedocien.conllu.s33
+# text = Al temps volgut, la canha fasquèt dus canhòts, la cabala dus polins e la femna dus bessons.
+1-2	Al	_	_	_	_	_	_	_	_
+1	a	a	ADP	Sp	_	3	case	_	Gloss=à
+2	lo	lo	DET	Da	_	3	det	_	Gloss=le
+3	temps	temps	NOUN	Nc	_	8	obl	_	Gloss=_
+4	volgut	voler	VERB	Vm	_	3	acl	_	Gloss=_|SpaceAfter=No
+5	,	,	PUNCT	F	_	4	punct	_	Gloss=_
+6	la	lo	DET	Da	_	7	det	_	Gloss=_
+7	canha	canha	NOUN	Nc	_	8	nsubj	_	Gloss=_
+8	fasquèt	far	VERB	Vm	_	0	root	_	Gloss=_
+9	dus	2	NUM	Dk	_	10	nummod	_	Gloss=_
+10	canhòts	canhòt	NOUN	Nc	_	8	obj	_	Gloss=_|SpaceAfter=No
+11	,	,	PUNCT	F	_	10	punct	_	Gloss=_
+12	la	lo	DET	Da	_	13	det	_	Gloss=_
+13	cabala	cabala	NOUN	Nc	_	8	conj	_	Gloss=_
+14	dus	2	NUM	Dk	_	15	nummod	_	Gloss=_
+15	polins	polin	NOUN	Nc	_	13	orphan	_	Gloss=_
+16	e	e	CCONJ	Cc	_	18	cc	_	Gloss=_
+17	la	lo	DET	Da	_	18	det	_	Gloss=_
+18	femna	femna	NOUN	Nc	_	8	conj	_	Gloss=_
+19	dus	2	NUM	Dk	_	20	nummod	_	Gloss=_
+20	bessons	besson	NOUN	Nc	_	18	orphan	_	Gloss=_|SpaceAfter=No
+21	.	.	PUNCT	F	_	20	punct	_	Gloss=_
+
+# sent_id = Barsoti_Niston_provencal.conllu.s11
+# text = Mai l'òme a de besonh d'ideau e d'illusions per far avans, mai que mai quora va mau qu'aquò vos laissa l'esperança.
+1	Mai	mai	ADV	Cc	_	4	cc	_	Gloss=mais
+2	l'	lo	DET	Da	_	3	det	_	Gloss=le|SpaceAfter=No
+3	òme	òme	NOUN	Nc	_	4	nsubj	_	Gloss=homme
+4	a	aver	VERB	Vm	_	0	root	_	Gloss=avoir
+5	de	de	ADP	Sp	_	6	case	_	Gloss=de
+6	besonh	besonh	NOUN	Nc	_	4	obl	_	Gloss=besoin
+7	d'	de	ADP	Sp	_	8	case	_	Gloss=de|SpaceAfter=No
+8	ideau	ideau	NOUN	Nc	_	6	nmod	_	Gloss=idéal
+9	e	e	CCONJ	Cc	_	11	cc	_	Gloss=et
+10	d'	de	ADP	Sp	_	11	case	_	Gloss=de|SpaceAfter=No
+11	illusions	illusion	NOUN	Nc	_	8	conj	_	Gloss=illusion
+12	per	per	ADP	Sp	_	13	mark	_	Gloss=pour
+13	far	far	VERB	Vm	_	4	advcl	_	Gloss=faire
+14	avans	avans	ADV	Rg	_	13	advmod	_	Gloss=avant|SpaceAfter=No
+15	,	,	PUNCT	F	_	14	punct	_	Gloss=,
+16	mai	mai	ADV	Rq	ExtPos=ADV	20	advmod	_	Gloss=plus|MWE=mai_que_mai
+17	que	que	SCONJ	Cs	_	16	fixed	_	Gloss=que
+18	mai	mai	SCONJ	Cs	_	16	fixed	_	Gloss=plus
+19	quora	quòra	SCONJ	Cs	_	20	mark	_	Gloss=quand
+20	va	anar	VERB	Vm	_	4	advcl	_	Gloss=aller
+21	mau	mau	ADV	Rg	_	20	advmod	_	Gloss=mal
+22	qu'	que	SCONJ	Cs	_	25	mark	_	Gloss=que|SpaceAfter=No
+23	aquò	aquò	PRON	Pd	_	25	nsubj	_	Gloss=cela
+24	vos	vos	PRON	Pp	_	25	iobj	_	Gloss=vous
+25	laissa	laissar	VERB	Vm	_	4	advcl	_	Gloss=laisser
+26	l'	lo	DET	Da	_	27	det	_	Gloss=le|SpaceAfter=No
+27	esperança	esperança	NOUN	Nc	_	25	obj	_	Gloss=espoir|SpaceAfter=No
+28	.	.	PUNCT	F	_	27	punct	_	Gloss=.
+
+# sent_id = Blader_Contes_gascon.conllu.s14
+# text = Ua hantauma l'espiava.
+1	Ua	un	DET	Da	_	2	det	_	Gloss=un
+2	hantauma	hantauma	NOUN	Nc	_	4	nsubj	_	Gloss=fantôme
+3	l'	lo	PRON	Pp	_	4	obj	_	Gloss=le|SpaceAfter=No
+4	espiava	espiar	VERB	Vm	_	0	root	_	Gloss=épier|SpaceAfter=No
+5	.	.	PUNCT	F	_	4	punct	_	Gloss=.
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s28
+# text = Avián pas gaire de ben, tenián solament un parelh de vacas magras.
+1	Avián	aver	VERB	Vm	_	0	root	_	Gloss=_
+2	pas	pas	ADV	Rg	_	1	advmod	_	Gloss=_
+3	gaire	gaire	ADV	Rq	ExtPos=DET	5	det	_	Gloss=_|MWE=gaire_de
+4	de	de	ADP	Sp	_	3	fixed	_	Gloss=_
+5	ben	ben	NOUN	Nc	_	1	obj	_	Gloss=_|SpaceAfter=No
+6	,	,	PUNCT	F	_	5	punct	_	Gloss=_
+7	tenián	téner	VERB	Vm	_	1	conj	_	Gloss=_
+8	solament	solament	ADV	Rg	_	7	advmod	_	Gloss=_
+9	un	un	DET	Da	_	10	det	_	Gloss=_
+10	parelh	parelh	NOUN	Nc	_	7	obj	_	Gloss=_
+11	de	de	ADP	Sp	_	12	case	_	Gloss=_
+12	vacas	vaca	NOUN	Nc	_	10	nmod	_	Gloss=_
+13	magras	magre	ADJ	Af	_	12	amod	_	Gloss=_|SpaceAfter=No
+14	.	.	PUNCT	F	_	13	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s61
+# text = -Domaisèla, sèi pas vengut ací per fuger.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Domaisèla	domaisèla	NOUN	Nc	_	6	vocative	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	sèi	èstre	AUX	Vm	_	6	aux	_	Gloss=_
+5	pas	pas	ADV	Rg	_	6	advmod	_	Gloss=_
+6	vengut	venir	VERB	Vm	_	0	root	_	Gloss=_
+7	ací	ací	ADV	Rg	_	6	advmod	_	Gloss=_
+8	per	per	ADP	Sp	_	9	mark	_	Gloss=_
+9	fuger	fuger	VERB	Vm	_	6	advcl	_	Gloss=_|SpaceAfter=No
+10	.	.	PUNCT	F	_	9	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s37
+# text = Caminèron longtemps, longtemps, longtemps, dinca quatre camins  ont i avia una crotz de pèira.
+1	Caminèron	caminar	VERB	Vm	_	0	root	_	Gloss=_
+2	longtemps	longtemps	ADV	Rg	_	1	advmod	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	longtemps	longtemps	ADV	Rg	_	1	advmod	_	Gloss=_|SpaceAfter=No
+5	,	,	PUNCT	F	_	4	punct	_	Gloss=_
+6	longtemps	longtemps	ADV	Rg	_	1	advmod	_	Gloss=_|SpaceAfter=No
+7	,	,	PUNCT	F	_	6	punct	_	Gloss=_
+8	dinca	dinca	ADP	Sp	_	10	case	_	Gloss=_
+9	quatre	4	NUM	Dk	_	10	nummod	_	Gloss=_
+10	camins	camin	NOUN	Nc	_	1	obl	_	Gloss=_
+11	ont	ont	ADV	Rx	_	13	advmod	_	Gloss=_
+12	i	i	PRON	Pp	_	13	expl	_	Gloss=_
+13	avia	aviar	VERB	Vm	_	10	acl	_	Gloss=_
+14	una	un	DET	Da	_	15	det	_	Gloss=_
+15	crotz	crotz	NOUN	Nc	_	13	obj	_	Gloss=_
+16	de	de	ADP	Sp	_	17	case	_	Gloss=_
+17	pèira	pèira	NOUN	Nc	_	15	nmod	_	Gloss=_|SpaceAfter=No
+18	.	.	PUNCT	F	_	17	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s52
+# text = Per fòrça a calgut  aubeir, e aqueste matin sèm anats dins lo bòsc ligar al pè d'un casse una domaisèla bèla coma lo jorn.
+1	Per	per	ADP	Sp	_	2	case	_	Gloss=_
+2	fòrça	fòrça	NOUN	Nc	_	4	obl	_	Gloss=_
+3	a	aver	AUX	Vm	_	4	aux	_	Gloss=_
+4	calgut	caler	VERB	Vm	_	0	root	_	Gloss=_
+5	aubeir	aubeir	VERB	Vm	_	4	xcomp	_	Gloss=_|SpaceAfter=No
+6	,	,	PUNCT	F	_	5	punct	_	Gloss=_
+7	e	e	CCONJ	Cc	_	11	cc	_	Gloss=_
+8	aqueste	aqueste	DET	Dd	_	9	det	_	Gloss=_
+9	matin	matin	NOUN	Nc	_	11	obl	_	Gloss=_
+10	sèm	èsser	AUX	Vm	_	11	aux	_	Gloss=_
+11	anats	anar	VERB	Vm	_	4	conj	_	Gloss=_
+12	dins	dins	ADP	Sp	_	14	case	_	Gloss=_
+13	lo	lo	DET	Da	_	14	det	_	Gloss=_
+14	bòsc	bòsc	NOUN	Nc	_	11	obl	_	Gloss=_
+15	ligar	ligar	VERB	Vm	_	11	advcl	_	Gloss=_
+16-17	al	_	_	_	_	_	_	_	_
+16	a	a	ADP	Sp	_	18	case	_	Gloss=à
+17	lo	lo	DET	Da	_	18	det	_	Gloss=le
+18	pè	pè	NOUN	Nc	_	15	obl	_	Gloss=_
+19	d'	de	ADP	Sp	_	21	case	_	Gloss=_|SpaceAfter=No
+20	un	un	DET	Da	_	21	det	_	Gloss=_
+21	casse	casse	NOUN	Nc	_	18	nmod	_	Gloss=_
+22	una	un	DET	Da	_	23	det	_	Gloss=_
+23	domaisèla	domaisèla	NOUN	Nc	_	15	obj	_	Gloss=_
+24	bèla	bèl	ADJ	Af	_	23	amod	_	Gloss=_
+25	coma	coma	SCONJ	Cs	_	27	mark	_	Gloss=_
+26	lo	lo	DET	Da	_	27	det	_	Gloss=_
+27	jorn	jorn	NOUN	Nc	_	24	obl	_	Gloss=_|SpaceAfter=No
+28	.	.	PUNCT	F	_	27	punct	_	Gloss=_
+
+# sent_id = Ganhaire_Sorne_limousin.conllu.s2
+# text = E quò fuguet entau, en virar las pajas d'un det descorat, que tombet sus la ficha d'Alfa dau Centaure;
+1	E	e	CCONJ	Cc	_	4	cc	_	Gloss=et
+2	quò	quò	PRON	Pd	_	4	nsubj	_	Gloss=cela
+3	fuguet	èsser	AUX	Vm	_	4	cop	_	Gloss=être
+4	entau	entau	ADV	Rg	_	0	root	_	Gloss=ainsi|SpaceAfter=No
+5	,	,	PUNCT	F	_	4	punct	_	Gloss=,
+6	en	en	ADP	Sp	_	7	mark	_	Gloss=en
+7	virar	virar	VERB	Vm	_	16	advcl	_	Gloss=tourner
+8	las	lo	DET	Da	_	9	det	_	Gloss=le
+9	pajas	paja	NOUN	Nc	_	7	obj	_	Gloss=page
+10	d'	de	ADP	Sp	_	12	case	_	Gloss=de|SpaceAfter=No
+11	un	un	DET	Da	_	12	det	_	Gloss=un
+12	det	det	NOUN	Nc	_	9	nmod	_	Gloss=doigt
+13	descorat	descorar	VERB	Vm	_	12	acl	_	Gloss=dégouter|SpaceAfter=No
+14	,	,	PUNCT	F	_	13	punct	_	Gloss=,
+15	que	que	ADP	Pr	_	16	mark	_	Gloss=que
+16	tombet	tombar	VERB	Vm	_	4	ccomp	_	Gloss=tomber
+17	sus	sus	ADP	Sp	_	19	case	_	Gloss=sur
+18	la	lo	DET	Da	_	19	det	_	Gloss=le
+19	ficha	ficha	NOUN	Nc	_	16	obl	_	Gloss=fiche
+20	d'	de	ADP	Sp	_	21	case	_	Gloss=de|SpaceAfter=No
+21	Alfa	Alfa	PROPN	Np	_	19	nmod	_	Gloss=Alpha|NamedType=LOC-B
+22	dau	de_lo	ADP	Sp	_	23	case	_	Gloss=de_le|NamedType=LOC-I
+23	Centaure	Centaure	PROPN	Np	_	21	nmod	_	Gloss=Centaure|NamedType=LOC-I|SpaceAfter=No
+24	;	;	PUNCT	F	_	23	punct	_	Gloss=;
+
+# sent_id = Barsoti_Niston_provencal.conllu.s14
+# text = èra per evitar que lei vitras se rompèsson ambé lo bofar e lei vibracions dei bombas venguèsson a tombar.
+1	èra	èsser	AUX	Vm	_	3	cop	_	Gloss=être
+2	per	per	ADP	Sp	_	3	mark	_	Gloss=pour
+3	evitar	evitar	VERB	Vm	_	0	root	_	Gloss=éviter
+4	que	que	SCONJ	Cs	_	8	mark	_	Gloss=que
+5	lei	lo	DET	Da	_	6	det	_	Gloss=le
+6	vitras	vitra	NOUN	Nc	_	8	nsubj	_	Gloss=vitres
+7	se	se	PRON	Px	_	8	expl	_	Gloss=se
+8	rompèsson	rompre	VERB	Vm	_	3	ccomp	_	Gloss=rompre
+9	ambé	ambé	ADP	Sp	_	11	case	_	Gloss=avec
+10	lo	lo	DET	Pp	_	11	det	_	Gloss=le
+11	bofar	bofar	NOUN	Nc	_	8	obl	_	Gloss=souffle
+12	e	e	CCONJ	Cc	_	18	cc	_	Gloss=et
+13	lei	lo	DET	Da	_	14	det	_	Gloss=le
+14	vibracions	vibracion	NOUN	Nc	_	18	nsubj	_	Gloss=vibration
+15-16	dei	_	_	_	_	_	_	_	_
+15	de	de	ADP	Sp	_	17	case	_	Gloss=de
+16	lei	lo	DET	Da	_	17	det	_	Gloss=le
+17	bombas	bomba	NOUN	Nc	_	14	nmod	_	Gloss=bombe
+18	venguèsson	venir	VERB	Vm	_	8	conj	_	Gloss=venir
+19	a	a	ADP	Sp	_	20	mark	_	Gloss=à
+20	tombar	tombar	VERB	Vm	_	18	xcomp	_	Gloss=tomber|SpaceAfter=No
+21	.	.	PUNCT	F	_	20	punct	_	Gloss=.
+
+# sent_id = Blader_Agenais_languedocien.conllu.s75
+# text = Lo lendoman matin, al punt del jorn, lo marit revelhèt sa femna.
+1	Lo	lo	DET	Da	_	2	det	_	Gloss=_
+2	lendoman	lendoman	NOUN	Nc	_	12	obl	_	Gloss=_
+3	matin	matin	NOUN	Nc	_	2	compound	_	Gloss=_|SpaceAfter=No
+4	,	,	PUNCT	F	_	3	punct	_	Gloss=_
+5	al	a_lo	ADP	SDa	_	6	case	_	Gloss=_
+6	punt	punt	NOUN	Nc	_	12	obl	_	Gloss=_
+7	del	de_lo	ADP	SDa	_	8	case	_	Gloss=_
+8	jorn	jorn	NOUN	Nc	_	6	nmod	_	Gloss=_|SpaceAfter=No
+9	,	,	PUNCT	F	_	8	punct	_	Gloss=_
+10	lo	lo	DET	Da	_	11	det	_	Gloss=_
+11	marit	marit	NOUN	Nc	_	12	nsubj	_	Gloss=_
+12	revelhèt	revelhar	VERB	Vm	_	0	root	_	Gloss=_
+13	sa	son	DET	Ds	_	14	det	_	Gloss=_
+14	femna	femna	NOUN	Nc	_	12	obj	_	Gloss=_|SpaceAfter=No
+15	.	.	PUNCT	F	_	14	punct	_	Gloss=_
+
+# sent_id = Ganhaire_Sorne_limousin.conllu.s8
+# text = Dins la nuech dau dimecres 23 au dijòus 24 de setembre, lo còrs d'André Levasseur, conegut jos lo nom d'Azram, es descubert au pè d'una paret calcària de trenta uech metres de naut, au luòc dich lo Plat a Barba, rasís Peiramaura, comuna de Crassac.
+1	Dins	dins	ADP	Sp	_	3	case	_	Gloss=dans
+2	la	lo	DET	Da	_	3	det	_	Gloss=le
+3	nuech	nuech	NOUN	Nc	_	29	obl	_	Gloss=nuit
+4-5	dau	_	_	_	_	_	_	_	_
+4	de	de	ADP	Sp	_	6	case	_	Gloss=de
+5	lo	lo	DET	Da	_	6	det	_	Gloss=le
+6	dimecres	dimecres	NOUN	Nc	_	3	nmod	_	Gloss=mercredi
+7	23	23	NUM	Nk	_	6	flat	_	Gloss=23
+8-9	au	_	_	_	_	_	_	_	_
+8	a	a	ADP	Sp	_	10	case	_	Gloss=à
+9	lo	lo	DET	Da	_	10	det	_	Gloss=le
+10	dijòus	dijòus	NOUN	Nc	_	6	nmod	_	Gloss=jeudi
+11	24	24	NUM	Nk	_	10	flat	_	Gloss=24
+12	de	de	ADP	Sp	_	13	case	_	Gloss=de
+13	setembre	setembre	NOUN	Nc	_	10	nmod	_	Gloss=septembre|SpaceAfter=No
+14	,	,	PUNCT	F	_	13	punct	_	Gloss=,
+15	lo	lo	DET	Da	_	16	det	_	Gloss=le
+16	còrs	còr	NOUN	Nc	_	29	nsubj	_	Gloss=coeur
+17	d'	de	ADP	Sp	_	18	case	_	Gloss=de|SpaceAfter=No
+18	André	André	PROPN	Np	_	16	nmod	_	Gloss=André
+19	Levasseur	Levasseur	PROPN	Np	_	18	flat	_	Gloss=Levasseur|SpaceAfter=No
+20	,	,	PUNCT	F	_	19	punct	_	Gloss=,
+21	conegut	conéisser	VERB	Vm	_	19	acl	_	Gloss=connaître
+22	jos	jos	ADP	Sp	_	24	case	_	Gloss=sous
+23	lo	lo	DET	Da	_	24	det	_	Gloss=le
+24	nom	nom	NOUN	Nc	_	21	obl	_	Gloss=nom
+25	d'	de	ADP	Sp	_	26	case	_	Gloss=de|SpaceAfter=No
+26	Azram	Azram	PROPN	Np	_	24	nmod	_	Gloss=Azram|SpaceAfter=No
+27	,	,	PUNCT	F	_	26	punct	_	Gloss=,
+28	es	èsser	AUX	Va	_	29	aux	_	Gloss=être
+29	descubert	descubrir	VERB	Vm	_	0	root	_	Gloss=découvrir
+30-31	au	_	_	_	_	_	_	_	_
+30	a	a	ADP	Sp	_	32	case	_	Gloss=à
+31	lo	lo	DET	Da	_	32	det	_	Gloss=le
+32	pè	pè	NOUN	Nc	_	29	obl	_	Gloss=pied
+33	d'	de	ADP	Sp	_	35	case	_	Gloss=de|SpaceAfter=No
+34	una	un	DET	Da	_	35	det	_	Gloss=un
+35	paret	paret	NOUN	Nc	_	32	nmod	_	Gloss=mur
+36	calcària	calcari	ADJ	Af	_	35	amod	_	Gloss=calcaire
+37	de	de	ADP	Sp	_	40	case	_	Gloss=de
+38	trenta	30	NUM	Dk	_	40	nummod	_	Gloss=trente|MWE=trenta_uech
+39	uech	8	NUM	Dk	_	38	flat	_	Gloss=huit
+40	metres	metre	NOUN	Nc	_	35	nmod	_	Gloss=mètre
+41	de	de	ADP	Sp	_	42	case	_	Gloss=de
+42	naut	naut	NOUN	Nc	_	40	nmod	_	Gloss=haut|SpaceAfter=No
+43	,	,	PUNCT	F	_	42	punct	_	Gloss=,
+44-45	au	_	_	_	_	_	_	_	_
+44	a	a	ADP	Sp	_	46	case	_	Gloss=à
+45	lo	lo	DET	Da	_	46	det	_	Gloss=le
+46	luòc	luòc	NOUN	Nc	_	29	obl	_	Gloss=lieu|NamedType=LOC-B
+47	dich	dire	VERB	Vm	_	46	amod	_	Gloss=dire|NamedType=LOC-I
+48	lo	lo	DET	Da	_	49	det	_	Gloss=le|NamedType=LOC-I
+49	Plat	Plat	PROPN	Np	_	46	flat	_	Gloss=Plat|NamedType=LOC-I
+50	a	a	ADP	Sp	_	51	case	_	Gloss=a|NamedType=LOC-I
+51	Barba	Barba	PROPN	Np	_	49	nmod	_	Gloss=Barba|NamedType=LOC-I|SpaceAfter=No
+52	,	,	PUNCT	F	_	51	punct	_	Gloss=,
+53	rasís	rasís	ADP	Sp	_	54	case	_	Gloss=au_ras_de
+54	Peiramaura	Peiramaura	PROPN	Np	_	29	obl	_	Gloss=Peiramaura|NamedType=LOC|SpaceAfter=No
+55	,	,	PUNCT	F	_	54	punct	_	Gloss=,
+56	comuna	comuna	NOUN	Nc	_	54	nmod	_	Gloss=commune|NamedType=LOC-B
+57	de	de	ADP	Sp	_	58	case	_	Gloss=de|NamedType=LOC-I
+58	Crassac	Crassac	PROPN	Np	_	56	nmod	_	Gloss=Crassac|NamedType=LOC-I|SpaceAfter=No
+59	.	.	PUNCT	F	_	58	punct	_	Gloss=.
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s33
+# text = L'òme se siesiá al canton del fuòc.
+1	L'	lo	DET	Da	_	2	det	_	Gloss=_|SpaceAfter=No
+2	òme	òme	NOUN	Nc	_	4	nsubj	_	Gloss=_
+3	se	se	PRON	Px	_	4	expl	_	Gloss=_
+4	siesiá	siesir	VERB	Vm	_	0	root	_	Gloss=_
+5-6	al	_	_	_	_	_	_	_	_
+5	a	a	ADP	Sp	_	7	case	_	Gloss=à
+6	lo	lo	DET	Da	_	7	det	_	Gloss=le
+7	canton	canton	NOUN	Nc	_	4	obl	_	Gloss=_
+8-9	del	_	_	_	_	_	_	_	_
+8	de	de	ADP	Sp	_	10	case	_	Gloss=de
+9	lo	lo	DET	Da	_	10	det	_	Gloss=le
+10	fuòc	fuòc	NOUN	Nc	_	7	nmod	_	Gloss=_|SpaceAfter=No
+11	.	.	PUNCT	F	_	10	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s18
+# text = - Ièr e anèit èi pres un Gròs Peis que m'a demandat de lo daishar anar, e que m'a ensenhat un endret ont èi pres de peis tan qu'èi volgut.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_
+2	Ièr	ièr	ADV	Rg	_	6	advmod	_	Gloss=_
+3	e	e	CCONJ	Cc	_	4	cc	_	Gloss=_
+4	anèit	anèit	ADV	Rg	_	2	conj	_	Gloss=_
+5	èi	aver	AUX	Vm	_	6	aux	_	Gloss=_
+6	pres	prene	VERB	Vm	_	0	root	_	Gloss=_
+7	un	un	DET	Da	_	9	det	_	Gloss=_
+8	Gròs	gròs	ADJ	Af	_	9	amod	_	Gloss=_
+9	Peis	peis	NOUN	Nc	_	6	obj	_	Gloss=_
+10	que	que	PRON	Pr	_	13	nsubj	_	Gloss=_
+11	m'	me	PRON	Pp	_	13	iobj	_	Gloss=_|SpaceAfter=No
+12	a	aver	AUX	Vm	_	13	aux	_	Gloss=_
+13	demandat	demandar	VERB	Vm	_	9	acl	_	Gloss=_
+14	de	de	ADP	Sp	_	16	mark	_	Gloss=_
+15	lo	lo	PRON	Da	_	17	obj	_	Gloss=_
+16	daishar	daishar	VERB	Vm	_	13	xcomp	_	Gloss=_
+17	anar	anar	VERB	Vm	_	16	xcomp	_	Gloss=_|SpaceAfter=No
+18	,	,	PUNCT	F	_	17	punct	_	Gloss=_
+19	e	e	CCONJ	Cc	_	23	cc	_	Gloss=_
+20	que	que	PRON	Pr	_	23	nsubj	_	Gloss=_
+21	m'	me	PRON	Pp	_	23	iobj	_	Gloss=_|SpaceAfter=No
+22	a	aver	AUX	Vm	_	23	aux	_	Gloss=_
+23	ensenhat	ensenhar	VERB	Vm	_	13	conj	_	Gloss=_
+24	un	un	DET	Da	_	25	det	_	Gloss=_
+25	endret	endret	NOUN	Nc	_	23	obj	_	Gloss=_
+26	ont	ont	ADV	Rx	_	28	obl	_	Gloss=_
+27	èi	aver	AUX	Vm	_	28	aux	_	Gloss=_
+28	pres	prene	VERB	Vm	_	25	acl	_	Gloss=_
+29	de	de	DET	Sp	_	30	det	_	Gloss=_
+30	peis	peis	NOUN	Nc	_	28	obj	_	Gloss=_
+31	tan	tan	ADV	Rq	_	28	advmod	_	Gloss=_|MWE=tan_que
+32	qu'	que	SCONJ	Cs	_	34	mark	_	Gloss=_|SpaceAfter=No
+33	èi	aver	AUX	Vm	_	34	aux	_	Gloss=_
+34	volgut	voler	VERB	Vm	_	28	advcl	_	Gloss=_|SpaceAfter=No
+35	.	.	PUNCT	F	_	34	punct	_	Gloss=_
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s2
+# text = Maridatz-vos amb las filhas pels ostals.
+1	Maridatz	maridar	VERB	Vm	_	0	root	_	Gloss=_|SpaceAfter=No
+2	-vos	vos	PRON	Pp	_	1	obj	_	Gloss=_
+3	amb	amb	ADP	Sp	_	5	case	_	Gloss=_
+4	las	lo	DET	Da	_	5	det	_	Gloss=_
+5	filhas	filha	NOUN	Nc	_	1	obl	_	Gloss=_
+6-7	pels	_	_	_	_	_	_	_	_
+6	per	per	ADP	Sp	_	8	case	_	Gloss=pour
+7	los	lo	DET	Da	_	8	det	_	Gloss=le
+8	ostals	ostal	NOUN	Nc	_	5	nmod	_	Gloss=_|SpaceAfter=No
+9	.	.	PUNCT	F	_	8	punct	_	Gloss=_
+
+# sent_id = Ganhaire_Sorne_limousin.conllu.s5
+# text = La conversacion s'engatget, pertant, un pauc rufa, mauplaniera, copada de longs silencis.
+1	La	lo	DET	Da	_	2	det	_	Gloss=le
+2	conversacion	conversacion	NOUN	Nc	_	4	nsubj	_	Gloss=conversation
+3	s'	se	PRON	Px	_	4	expl	_	Gloss=se|SpaceAfter=No
+4	engatget	engatjar	VERB	Vm	_	0	root	_	Gloss=engager|SpaceAfter=No
+5	,	,	PUNCT	F	_	4	punct	_	Gloss=,
+6	pertant	pertant	ADV	Rg	_	4	advmod	_	Gloss=pourtant|SpaceAfter=No
+7	,	,	PUNCT	F	_	6	punct	_	Gloss=,
+8	un	un	DET	Da	_	9	det	_	Gloss=un
+9	pauc	pauc	PRON	Pp	_	10	advcl	_	Gloss=peu
+10	rufa	rufe	ADJ	Af	_	4	xcomp	_	Gloss=rêche|SpaceAfter=No
+11	,	,	PUNCT	F	_	10	punct	_	Gloss=,
+12	mauplaniera	mauplanier	ADJ	Af	_	10	conj	_	Gloss=inégal|SpaceAfter=No
+13	,	,	PUNCT	F	_	12	punct	_	Gloss=,
+14	copada	copat	VERB	Vm	_	10	conj	_	Gloss=coupé
+15	de	de	ADP	Sp	_	17	case	_	Gloss=de
+16	longs	long	ADJ	Af	_	17	amod	_	Gloss=long
+17	silencis	silenci	NOUN	Nc	_	14	obl	_	Gloss=silence|SpaceAfter=No
+18	.	.	PUNCT	F	_	17	punct	_	Gloss=.
+
+# sent_id = Blader_Contes_gascon.conllu.s11
+# text = Caça, vèi córrer las vòtas, e balha-te bon temps.
+1	Caça	caçar	VERB	Vm	_	0	root	_	Gloss=chasser|SpaceAfter=No
+2	,	,	PUNCT	F	_	1	punct	_	Gloss=,
+3	vèi	anar	VERB	Va	_	1	conj	_	Gloss=aller
+4	córrer	córrer	VERB	Vm	_	3	xcomp	_	Gloss=courrir
+5	las	lo	DET	Da	_	6	det	_	Gloss=le
+6	vòtas	vòta	NOUN	Nc	_	4	obj	_	Gloss=fête|SpaceAfter=No
+7	,	,	PUNCT	F	_	6	punct	_	Gloss=,
+8	e	e	CCONJ	Cc	_	9	cc	_	Gloss=et
+9	balha	balhar	VERB	Vm	_	1	conj	_	Gloss=donner|SpaceAfter=No
+10	-te	te	PRON	Pp	_	9	iobj	_	Gloss=te
+11	bon	bon	ADJ	Af	_	12	amod	_	Gloss=bon
+12	temps	temps	NOUN	Nc	_	9	obj	_	Gloss=temps|SpaceAfter=No
+13	.	.	PUNCT	F	_	12	punct	_	Gloss=.
+
+# sent_id = Barsoti_Niston_provencal.conllu.s12
+# text = E fauguèt puei, alevat per lo pan, de mai en mai negre çò que durarà fins a 1947, que la causida dau fornier demorava liura, se far marcar en cò d'un especier o d'un maselier qu'i presentaviatz una carta dicha d'alimentacion per que vos levèsse lei tiquets correspondents a la racion atribuïda.
+1	E	e	CCONJ	Cc	_	2	cc	_	Gloss=et
+2	fauguèt	faler	VERB	Vm	_	0	root	_	Gloss=falloir
+3	puei	puei	ADV	Rg	_	2	advmod	_	Gloss=puis|SpaceAfter=No
+4	,	,	PUNCT	F	_	3	punct	_	Gloss=,
+5	alevat	alevat	ADP	Sp	_	8	case	_	Gloss=sauf
+6	per	per	ADP	Sp	_	8	case	_	Gloss=pour
+7	lo	lo	DET	Da	_	8	det	_	Gloss=le
+8	pan	pan	NOUN	Nc	_	32	obl	_	Gloss=pain|SpaceAfter=No
+9	,	,	PUNCT	F	_	8	punct	_	Gloss=,
+10	de	de	ADP	Sp	ExtPos=ADV	14	advmod	_	Gloss=de
+11	mai	mai	ADV	Rg	_	10	fixed	_	Gloss=plus
+12	en	en	ADP	Sp	_	10	fixed	_	Gloss=en
+13	mai	mai	ADV	Rg	_	10	fixed	_	Gloss=plus
+14	negre	negre	ADJ	Af	_	8	amod	_	Gloss=noir
+15	çò	çò	PRON	Pd	_	14	parataxis	_	Gloss=ce
+16	que	que	PRON	Pr	_	17	nsubj	_	Gloss=qui
+17	durarà	durar	VERB	Vm	_	15	acl	_	Gloss=durer
+18	fins	fins	ADP	Sp	ExtPos=ADP	20	case	_	Gloss=jusqu’à|MWE=fins_a
+19	a	a	ADP	Sp	_	18	fixed	_	Gloss=à
+20	1947	1947	NOUN	Nc	_	17	obl	_	Gloss=1947|SpaceAfter=No
+21	,	,	PUNCT	F	_	20	punct	_	Gloss=,
+22	que	que	SCONJ	Cs	_	28	mark	_	Gloss=que
+23	la	lo	DET	Da	_	24	det	_	Gloss=le
+24	causida	causida	NOUN	Nc	_	28	nsubj	_	Gloss=choix
+25-26	dau	_	_	_	_	_	_	_	_
+25	de	de	ADP	Sp	_	27	case	_	Gloss=de
+26	lo	lo	DET	Da	_	27	det	_	Gloss=le
+27	fornier	fornier	NOUN	Nc	_	24	nmod	_	Gloss=boulanger
+28	demorava	demorar	VERB	Vm	_	8	advcl	_	Gloss=rester
+29	liura	liure	ADJ	Af	_	28	xcomp	_	Gloss=libre|SpaceAfter=No
+30	,	,	PUNCT	F	_	29	punct	_	Gloss=,
+31	se	se	PRON	Px	_	32	obj	_	Gloss=se
+32	far	far	VERB	Vm	_	2	ccomp	_	Gloss=faire
+33	marcar	marcar	VERB	Vm	_	32	xcomp	_	Gloss=inscrire
+34	en	en	ADP	Sp	_	35	case	_	Gloss=chez
+35	cò	cò	NOUN	Nc	_	33	obl	_	Gloss=X
+36	d'	de	ADP	Sp	_	38	case	_	Gloss=X|SpaceAfter=No
+37	un	un	DET	Da	_	38	det	_	Gloss=un
+38	especier	especier	NOUN	Nc	_	35	nmod	_	Gloss=épicier
+39	o	o	CCONJ	Cc	_	42	cc	_	Gloss=ou
+40	d'	de	ADP	Sp	_	42	case	_	Gloss=de|SpaceAfter=No
+41	un	un	DET	Da	_	42	det	_	Gloss=un
+42	maselier	maselier	NOUN	Nc	_	38	conj	_	Gloss=boucher
+43	qu'	que	SCONJ	Pr	_	45	mark	_	Gloss=que|SpaceAfter=No
+44	i	i	PRON	Pp	_	45	iobj	_	Gloss=lui
+45	presentaviatz	presentar	VERB	Vm	_	42	acl	_	Gloss=présenter
+46	una	un	DET	Da	_	47	det	_	Gloss=un
+47	carta	carta	NOUN	Nc	_	45	obj	_	Gloss=carte
+48	dicha	dire	VERB	Vm	_	47	acl	_	Gloss=dire
+49	d'	de	ADP	Sp	_	50	case	_	Gloss=de|SpaceAfter=No
+50	alimentacion	alimentacion	NOUN	Nc	_	48	obl	_	Gloss=alimentation
+51	per	per	ADP	Sp	ExtPos=SCONJ	54	mark	_	Gloss=pour
+52	que	que	SCONJ	Cs	_	51	fixed	_	Gloss=que
+53	vos	vos	PRON	Pp	_	54	iobj	_	Gloss=vous
+54	levèsse	levar	VERB	Vm	_	45	advcl	_	Gloss=lever
+55	lei	lo	DET	Da	_	56	det	_	Gloss=le
+56	tiquets	tiquet	NOUN	Nc	_	54	obj	_	Gloss=ticket
+57	correspondents	correspondent	VERB	Af	_	56	acl	_	Gloss=correspondant
+58	a	a	ADP	Sp	_	60	case	_	Gloss=à
+59	la	lo	DET	Da	_	60	det	_	Gloss=le
+60	racion	racion	NOUN	Nc	_	57	obl	_	Gloss=ration
+61	atribuïda	atribuït	VERB	Vm	_	60	acl	_	Gloss=atribuer|SpaceAfter=No
+62	.	.	PUNCT	F	_	61	punct	_	Gloss=.
+
+# sent_id = Blader_Contes_gascon.conllu.s1
+# text = Enfin, lo rei i podoc pas mès ténguer.
+1	Enfin	enfin	ADV	Rg	_	6	advmod	_	Gloss=enfin|SpaceAfter=No
+2	,	,	PUNCT	F	_	1	punct	_	Gloss=,
+3	lo	lo	DET	Da	_	4	det	_	Gloss=le
+4	rei	rei	NOUN	Nc	_	6	nsubj	_	Gloss=roi
+5	i	i	PRON	Pp	_	6	obl	_	Gloss=y
+6	podoc	poder	VERB	Vm	_	0	root	_	Gloss=pouvoir
+7	pas	pas	ADV	Rg	_	8	advmod	_	Gloss=pas
+8	mès	mès	ADV	Rq	_	6	advmod	_	Gloss=plus
+9	ténguer	ténguer	VERB	Vm	_	6	xcomp	_	Gloss=tenir|SpaceAfter=No
+10	.	.	PUNCT	F	_	9	punct	_	Gloss=.
+
+# sent_id = Blader_Contes_gascon.conllu.s4
+# text = En efèct, sèt jorns après, lo rei d'un païs vesin arribava en vesita au castèth, dambe sa hilha, ua santa.
+1	En	en	ADP	Sp	ExtPos=ADV	14	advmod	_	Gloss=en
+2	efèct	efèct	NOUN	Nc	_	1	fixed	_	Gloss=effet|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=,
+4	sèt	7	NUM	Dk	_	5	nummod	_	Gloss=7
+5	jorns	jorn	NOUN	Nc	_	14	obl	_	Gloss=jour
+6	après	après	ADV	Sp	_	5	advmod	_	Gloss=après|SpaceAfter=No
+7	,	,	PUNCT	F	_	6	punct	_	Gloss=,
+8	lo	lo	DET	Da	_	9	det	_	Gloss=le
+9	rei	rei	NOUN	Nc	_	14	nsubj	_	Gloss=roi
+10	d'	de	ADP	Sp	_	12	case	_	Gloss=de|SpaceAfter=No
+11	un	un	DET	Da	_	12	det	_	Gloss=un
+12	païs	país	NOUN	Nc	_	9	nmod	_	Gloss=pays
+13	vesin	vesin	ADJ	Af	_	12	amod	_	Gloss=voisin
+14	arribava	arribar	VERB	Vm	_	0	root	_	Gloss=arriver
+15	en	en	ADP	Sp	_	16	case	_	Gloss=en
+16	vesita	vesita	NOUN	Nc	_	14	obl	_	Gloss=visite
+17-18	au	_	_	_	_	_	_	_	_
+17	a	a	ADP	Sp	_	19	case	_	Gloss=à
+18	lo	lo	DET	Da	_	19	det	_	Gloss=le
+19	castèth	castèth	NOUN	Nc	_	14	obl	_	Gloss=château|SpaceAfter=No
+20	,	,	PUNCT	F	_	19	punct	_	Gloss=,
+21	dambe	dambe	ADP	Sp	_	23	case	_	Gloss=avec
+22	sa	sa	DET	Ds	_	23	det	_	Gloss=sa
+23	hilha	hilha	NOUN	Nc	_	14	obl	_	Gloss=fille|SpaceAfter=No
+24	,	,	PUNCT	F	_	23	punct	_	Gloss=,
+25	ua	un	DET	Da	_	26	det	_	Gloss=un
+26	santa	santa	NOUN	Nc	_	23	appos	_	Gloss=sainte|SpaceAfter=No
+27	.	.	PUNCT	F	_	26	punct	_	Gloss=.
+
+# sent_id = Ganhaire_Sorne_limousin.conllu.s17
+# text = E lo paiavas ?
+1	E	e	CCONJ	Cc	_	3	cc	_	Gloss=et
+2	lo	lo	DET	Da	_	3	det	_	Gloss=le
+3	paiavas	paiar	VERB	Vm	_	0	root	_	Gloss=acquitter
+4	?	?	PUNCT	F	_	3	punct	_	Gloss=?
+
+# sent_id = Blader_Agenais_languedocien.conllu.s83
+# text = - Pan ! pan ! pan !
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_
+2	Pan	pan	INTJ	I	_	0	root	_	Gloss=_
+3	!	!	PUNCT	F	_	2	punct	_	Gloss=_
+4	pan	pan	INTJ	I	_	2	conj	_	Gloss=_
+5	!	!	PUNCT	F	_	4	punct	_	Gloss=_
+6	pan	pan	INTJ	I	_	2	conj	_	Gloss=_
+7	!	!	PUNCT	F	_	6	punct	_	Gloss=_
+
+# sent_id = Blader_Contes_gascon.conllu.s22
+# text = Es vengut jogaire, pintaire, maishant e hemnassèr.
+1	Es	èsser	AUX	Va	_	2	aux	_	Gloss=être
+2	vengut	venir	VERB	Vm	_	0	root	_	Gloss=devenir
+3	jogaire	jogaire	NOUN	Nc	_	2	xcomp	_	Gloss=joueur|SpaceAfter=No
+4	,	,	PUNCT	F	_	3	punct	_	Gloss=,
+5	pintaire	pintaire	NOUN	Nc	_	3	conj	_	Gloss=poivrot|SpaceAfter=No
+6	,	,	PUNCT	F	_	5	punct	_	Gloss=,
+7	maishant	maishant	NOUN	Af	_	3	conj	_	Gloss=méchant
+8	e	e	CCONJ	Cc	_	9	cc	_	Gloss=et
+9	hemnassèr	hemnassèr	NOUN	Af	_	3	conj	_	Gloss=coureur_de_jupons|SpaceAfter=No
+10	.	.	PUNCT	F	_	9	punct	_	Gloss=.
+
+# sent_id = Blader_Agenais_languedocien.conllu.s51
+# text = Ièr enqüèra, nos a fèit dire que vendriá nos minjar tots se non li en amenavan pas una.
+1	Ièr	ièr	ADV	Rg	_	6	advmod	_	Gloss=_
+2	enqüèra	enqüèra	ADV	Rg	_	1	advmod	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	nos	nos	PRON	Pp	_	6	iobj	_	Gloss=_
+5	a	aver	AUX	Sp	_	6	aux	_	Gloss=_
+6	fèit	far	VERB	Vm	_	0	root	_	Gloss=_
+7	dire	dire	VERB	Vm	_	6	xcomp	_	Gloss=_
+8	que	que	SCONJ	Cs	_	9	mark	_	Gloss=_
+9	vendriá	venir	VERB	Vm	_	7	ccomp	_	Gloss=_
+10	nos	nos	PRON	Pp	_	11	obj	_	Gloss=_
+11	minjar	minjar	VERB	Vm	_	9	xcomp	_	Gloss=_
+12	tots	tot	PRON	Pi	_	11	obl	_	Gloss=_
+13	se	se	SCONJ	Px	_	17	mark	_	Gloss=_
+14	non	non	ADV	Rp	_	17	advmod	_	Gloss=_
+15	li	li	PRON	Pp	_	17	iobj	_	Gloss=_
+16	en	en	PRON	Pp	_	19	nmod	_	Gloss=_
+17	amenavan	amenar	VERB	Vm	_	9	advcl	_	Gloss=_
+18	pas	pas	ADV	Rg	_	17	advmod	_	Gloss=_
+19	una	un	PRON	Pi	_	17	obj	_	Gloss=_|SpaceAfter=No
+20	.	.	PUNCT	F	_	19	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s12
+# text = -Non, Gròs Peis.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Non	non	ADV	Rg	_	0	root	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	Gròs	gròs	ADJ	Af	_	5	amod	_	Gloss=_
+5	Peis	peis	NOUN	Nc	_	2	parataxis	_	Gloss=_|SpaceAfter=No
+6	.	.	PUNCT	F	_	5	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s6
+# text = Te vòli portar a ma femna, que te farà còire e te minjarem ensemble.
+1	Te	te	PRON	Pp	_	3	obj	_	Gloss=_
+2	vòli	volar	VERB	Vm	_	0	root	_	Gloss=_
+3	portar	portar	VERB	Vm	_	2	xcomp	_	Gloss=_
+4	a	a	ADP	Sp	_	6	case	_	Gloss=_
+5	ma	mon	DET	Ds	_	6	det	_	Gloss=_
+6	femna	femna	NOUN	Nc	_	3	obl	_	Gloss=_|SpaceAfter=No
+7	,	,	PUNCT	F	_	6	punct	_	Gloss=_
+8	que	que	PRON	Pr	_	11	nsubj	_	Gloss=_
+9	te	te	PRON	Pp	_	10	obj	_	Gloss=_
+10	farà	far	VERB	V	_	6	acl	_	Gloss=_
+11	còire	còire	VERB	Vm	_	10	xcomp	_	Gloss=_
+12	e	e	CCONJ	Cc	_	14	cc	_	Gloss=_
+13	te	te	PRON	Px	_	14	obj	_	Gloss=_
+14	minjarem	minjar	VERB	Vm	_	11	conj	_	Gloss=_
+15	ensemble	ensemble	ADV	Rg	_	14	advmod	_	Gloss=_|SpaceAfter=No
+16	.	.	PUNCT	F	_	15	punct	_	Gloss=_
+
+# sent_id = Blader_Contes_gascon.conllu.s3
+# text = E ben ! jo te la causirèi.
+1	E	e	CCONJ	Cc	_	2	cc	_	Gloss=et
+2	ben	ben	ADV	Rg	_	0	root	_	Gloss=bien
+3	!	!	PUNCT	F	_	2	punct	_	Gloss=!
+4	jo	jo	PRON	Pp	_	7	dislocated	_	Gloss=je
+5	te	te	PRON	Pp	_	7	iobj	_	Gloss=te
+6	la	lo	PRON	Pp	_	7	obj	_	Gloss=le
+7	causirèi	causir	VERB	Vm	_	2	parataxis	_	Gloss=choisir|SpaceAfter=No
+8	.	.	PUNCT	F	_	7	punct	_	Gloss=.
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s31
+# text = Bevián una escudelada de bolhon, rosegavan una codena, o rufavan tres o quatre castanhas.
+1	Bevián	beure	VERB	Vm	_	0	root	_	Gloss=_
+2	una	un	DET	Da	_	3	det	_	Gloss=_
+3	escudelada	escudelada	NOUN	Nc	_	1	obj	_	Gloss=_
+4	de	de	ADP	Sp	_	5	case	_	Gloss=_
+5	bolhon	bolhon	NOUN	Nc	_	3	nmod	_	Gloss=_|SpaceAfter=No
+6	,	,	PUNCT	F	_	5	punct	_	Gloss=_
+7	rosegavan	rosegar	VERB	Vm	_	1	conj	_	Gloss=_
+8	una	un	DET	Da	_	9	det	_	Gloss=_
+9	codena	codena	NOUN	Nc	_	7	obj	_	Gloss=_|SpaceAfter=No
+10	,	,	PUNCT	F	_	9	punct	_	Gloss=_
+11	o	o	CCONJ	Cc	_	12	cc	_	Gloss=_
+12	rufavan	rufar	VERB	Vm	_	1	conj	_	Gloss=_
+13	tres	3	NUM	Dk	_	16	nummod	_	Gloss=_
+14	o	o	CCONJ	Cc	_	15	cc	_	Gloss=_
+15	quatre	4	NUM	Dk	_	13	conj	_	Gloss=_
+16	castanhas	castanha	NOUN	Nc	_	12	obj	_	Gloss=_|SpaceAfter=No
+17	.	.	PUNCT	F	_	16	punct	_	Gloss=_
+
+# sent_id = Ganhaire_Sorne_limousin.conllu.s14
+# text = En efiech, lo Mèstre de las Estelas aviá pres lo noveu vengut jos son ala e n'aviá leu fach son companhon de predileccion.
+1	En	en	ADP	Sp	ExtPos=ADV	10	discourse	_	Gloss=en
+2	efiech	efiech	NOUN	Nc	_	1	fixed	_	Gloss=effet|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=,
+4	lo	lo	DET	Da	_	5	det	_	Gloss=le
+5	Mèstre	mèstre	NOUN	Nc	_	10	nsubj	_	Gloss=maitre
+6	de	de	ADP	Sp	_	8	case	_	Gloss=de
+7	las	lo	DET	Da	_	8	det	_	Gloss=le
+8	Estelas	estela	NOUN	Nc	_	5	nmod	_	Gloss=étoile
+9	aviá	aver	AUX	Vm	_	10	aux	_	Gloss=avoir
+10	pres	prendre	VERB	Vm	_	0	root	_	Gloss=prendre
+11	lo	lo	DET	Da	_	13	det	_	Gloss=le
+12	noveu	noveu	ADJ	Af	_	13	amod	_	Gloss=nouveau
+13	vengut	vengut	NOUN	Nc	_	10	obj	_	Gloss=venu
+14	jos	jos	ADP	Sp	_	16	case	_	Gloss=sous
+15	son	son	DET	Ds	_	16	det	_	Gloss=son
+16	ala	ala	NOUN	Nc	_	10	obl	_	Gloss=aile
+17	e	e	CCONJ	Cc	_	21	cc	_	Gloss=et
+18	n'	ne	PRON	Pp	_	21	obl	_	Gloss=en|SpaceAfter=No
+19	aviá	aver	AUX	Va	_	21	aux	_	Gloss=avoir
+20	leu	leu	ADV	Rg	_	21	advmod	_	Gloss=vite
+21	fach	far	VERB	Vm	_	10	conj	_	Gloss=faire
+22	son	son	DET	Ds	_	23	det	_	Gloss=son
+23	companhon	companhon	NOUN	Nc	_	18	xcomp	_	Gloss=compagnon
+24	de	de	ADP	Sp	_	25	case	_	Gloss=de
+25	predileccion	predileccion	NOUN	Nc	_	23	nmod	_	Gloss=prédilection|SpaceAfter=No
+26	.	.	PUNCT	F	_	25	punct	_	Gloss=.
+
+# sent_id = Blader_Contes_gascon.conllu.s32
+# text = Doçament, plan doçament, devarèc a l'escuderia, serèc son melhor chivau, e partiscoc au galòp dens la nuèit negra.
+1	Doçament	doçament	ADV	Rg	_	6	advmod	_	Gloss=doucement|SpaceAfter=No
+2	,	,	PUNCT	F	_	1	punct	_	Gloss=,
+3	plan	plan	ADV	Rq	_	4	advmod	_	Gloss=très
+4	doçament	doçament	ADV	Rg	_	6	advmod	_	Gloss=doucement|SpaceAfter=No
+5	,	,	PUNCT	F	_	4	punct	_	Gloss=,
+6	devarèc	devarar	VERB	Vm	_	0	root	_	Gloss=descendre
+7	a	a	ADP	Sp	_	9	case	_	Gloss=à
+8	l'	lo	DET	Da	_	9	det	_	Gloss=le|SpaceAfter=No
+9	escuderia	escuderia	NOUN	Nc	_	6	obl	_	Gloss=écurie|SpaceAfter=No
+10	,	,	PUNCT	F	_	9	punct	_	Gloss=,
+11	serèc	serar	VERB	Vm	_	6	conj	_	Gloss=seller
+12	son	son	DET	Ds	_	14	det	_	Gloss=son
+13	melhor	melhor	ADJ	Af	_	14	amod	_	Gloss=meilleur
+14	chivau	chivau	NOUN	Nc	_	11	obj	_	Gloss=cheval|SpaceAfter=No
+15	,	,	PUNCT	F	_	14	punct	_	Gloss=,
+16	e	e	CCONJ	Cc	_	17	cc	_	Gloss=et
+17	partiscoc	partir	VERB	Vm	_	6	conj	_	Gloss=partir
+18-19	au	_	_	_	_	_	_	_	_
+18	a	a	ADP	Sp	_	20	case	_	Gloss=à
+19	lo	lo	DET	Da	_	20	det	_	Gloss=le
+20	galòp	galòp	NOUN	Nc	_	17	obl	_	Gloss=galop
+21	dens	dens	ADP	Sp	_	23	case	_	Gloss=dans
+22	la	lo	DET	Da	_	23	det	_	Gloss=le
+23	nuèit	nuèit	NOUN	Nc	_	17	obl	_	Gloss=nuit
+24	negra	negre	ADJ	Af	_	23	amod	_	Gloss=noir|SpaceAfter=No
+25	.	.	PUNCT	F	_	24	punct	_	Gloss=.
+
+# sent_id = Blader_Contes_gascon.conllu.s34
+# text = Pelegrin de Sent-Jacme-de-Compostèla
+1	Pelegrin	pelegrin	NOUN	Nc	_	0	root	_	Gloss=pèlerin
+2	de	de	ADP	Sp	_	3	case	_	Gloss=de
+3	Sent-Jacme-de-Compostèla	Sent-Jacme-de-Compostèla	PROPN	Np	_	1	nmod	_	Gloss=Saint-Jacques-de-Compostelle|NamedType=LOC|SpaceAfter=No
+
+# sent_id = Blader_Contes_gascon.conllu.s16
+# text = La Mar que canta, la Poma que dança e l'Auseron que ditz tot
+1	La	lo	DET	Da	_	2	det	_	Gloss=le
+2	Mar	mar	NOUN	Nc	_	0	root	_	Gloss=mer
+3	que	que	PRON	Px	_	4	nsubj	_	Gloss=qui
+4	canta	cantar	VERB	Vm	_	2	acl	_	Gloss=chanter|SpaceAfter=No
+5	,	,	PUNCT	F	_	4	punct	_	Gloss=,
+6	la	lo	DET	Da	_	7	det	_	Gloss=le
+7	Poma	poma	NOUN	Nc	_	2	conj	_	Gloss=pomme
+8	que	que	PRON	Px	_	9	nsubj	_	Gloss=qui
+9	dança	dançar	VERB	Vm	_	7	acl	_	Gloss=danser
+10	e	e	CCONJ	Cc	_	12	cc	_	Gloss=et
+11	l'	lo	DET	Da	_	12	det	_	Gloss=le|SpaceAfter=No
+12	Auseron	auseron	NOUN	Nc	_	2	conj	_	Gloss=oisillon
+13	que	que	PRON	Pr	_	14	nsubj	_	Gloss=qui
+14	ditz	dire	VERB	Vm	_	12	acl	_	Gloss=dire
+15	tot	tot	ADV	Rg	_	14	advmod	_	Gloss=tout
+
+# sent_id = Blader_Agenais_languedocien.conllu.s86
+# text = -La pòrta es en còr de casse e en fèr, ambe de bonas sarralhas e de farrolhs solides.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	La	lo	DET	Da	_	3	det	_	Gloss=_
+3	pòrta	pòrta	NOUN	Nc	_	6	nsubj	_	Gloss=_
+4	es	èsser	AUX	Vm	_	6	cop	_	Gloss=_
+5	en	en	ADP	Sp	_	6	case	_	Gloss=_
+6	còr	còr	NOUN	Nc	_	0	root	_	Gloss=_
+7	de	de	ADP	Sp	_	8	case	_	Gloss=_
+8	casse	casse	NOUN	Nc	_	6	nmod	_	Gloss=_
+9	e	e	CCONJ	Cc	_	11	cc	_	Gloss=_
+10	en	en	ADP	Sp	_	11	case	_	Gloss=_
+11	fèr	fèr	NOUN	Nc	_	6	conj	_	Gloss=_|SpaceAfter=No
+12	,	,	PUNCT	F	_	11	punct	_	Gloss=_
+13	ambe	ambe	ADP	Sp	_	16	case	_	Gloss=_
+14	de	de	DET	Da	_	16	det	_	Gloss=_
+15	bonas	bon	ADJ	Af	_	16	amod	_	Gloss=_
+16	sarralhas	sarralha	NOUN	Nc	_	6	nmod	_	Gloss=_
+17	e	e	CCONJ	Cc	_	19	cc	_	Gloss=_
+18	de	de	DET	Da	_	19	det	_	Gloss=_
+19	farrolhs	farrolh	NOUN	Nc	_	16	conj	_	Gloss=_
+20	solides	solide	ADJ	Af	_	19	amod	_	Gloss=_|SpaceAfter=No
+21	.	.	PUNCT	F	_	20	punct	_	Gloss=_
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s5
+# text = Los enfants vòstres los tendràn.
+1	Los	lo	DET	Da	_	2	det	_	Gloss=_
+2	enfants	enfant	NOUN	Nc	_	5	nsubj	_	Gloss=_
+3	vòstres	vòstre	ADJ	As	_	2	amod	_	Gloss=_
+4	los	lo	PRON	Pp	_	5	obj	_	Gloss=_
+5	tendràn	tendre	VERB	Vm	_	0	root	_	Gloss=_|SpaceAfter=No
+6	.	.	PUNCT	F	_	5	punct	_	Gloss=_
+
+# sent_id = Blader_Contes_gascon.conllu.s9
+# text = Après sopar, prengoc son hilh a part.
+1	Après	après	ADP	Sp	_	2	case	_	Gloss=après
+2	sopar	sopar	NOUN	Nc	_	4	obl	_	Gloss=dîner|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=,
+4	prengoc	préner	VERB	Vm	_	0	root	_	Gloss=prendre
+5	son	son	DET	Ds	_	6	det	_	Gloss=son
+6	hilh	hilh	NOUN	Nc	_	4	obj	_	Gloss=fils
+7	a	a	ADP	Sp	_	8	case	_	Gloss=à
+8	part	part	NOUN	Nc	_	4	obl	_	Gloss=part|SpaceAfter=No
+9	.	.	PUNCT	F	_	8	punct	_	Gloss=.
+
+# sent_id = Blader_Agenais_languedocien.conllu.s80
+# text = -Gardatz-vos -en bien, mon bon amic ; es un ostalet mal abitat.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Gardatz	gardar	VERB	Vm	_	0	root	_	Gloss=_|SpaceAfter=No
+3	-vos	vos	PRON	Pp	_	2	expl	_	Gloss=_
+4	-en	en	PRON	Pp	_	2	obl	_	Gloss=_
+5	bien	bien	ADV	Rg	_	2	advmod	_	Gloss=_|SpaceAfter=No
+6	,	,	PUNCT	F	_	5	punct	_	Gloss=_
+7	mon	mon	DET	Ds	_	9	det	_	Gloss=_
+8	bon	bon	ADJ	Af	_	9	amod	_	Gloss=_
+9	amic	amic	NOUN	Nc	_	2	vocative	_	Gloss=_
+10	;	;	PUNCT	F	_	9	punct	_	Gloss=_
+11	es	èsser	AUX	Vm	_	13	cop	_	Gloss=_
+12	un	un	DET	Da	_	13	det	_	Gloss=_
+13	ostalet	ostalet	NOUN	Nc	_	2	parataxis	_	Gloss=_
+14	mal	mal	ADV	Rg	_	15	advmod	_	Gloss=_
+15	abitat	abitar	VERB	Vm	_	13	acl	_	Gloss=_|SpaceAfter=No
+16	.	.	PUNCT	F	_	15	punct	_	Gloss=_
+
+# sent_id = Blader_Contes_gascon.conllu.s33
+# text = Ager, lo men galant que m'a hèit díser, per un sentjacaire, que me vengueré lèu cercar entà m'amiar dens son païs.
+1	Ager	Ager	ADV	Rg	_	9	advmod	_	Gloss=hier|SpaceAfter=No
+2	,	,	PUNCT	F	_	1	punct	_	Gloss=,
+3	lo	lo	DET	Da	_	5	det	_	Gloss=le
+4	men	men	DET	As	_	5	det	_	Gloss=mien
+5	galant	galant	NOUN	Nc	_	9	nsubj	_	Gloss=galant
+6	que	que	PART	Cs	_	9	discourse:enunc	_	Gloss=qui
+7	m'	me	PRON	Pp	_	9	iobj	_	Gloss=me|SpaceAfter=No
+8	a	aver	AUX	Va	_	9	aux	_	Gloss=avoir
+9	hèit	har	VERB	Vm	_	0	root	_	Gloss=faire
+10	díser	díser	VERB	Vm	_	9	xcomp	_	Gloss=dire|SpaceAfter=No
+11	,	,	PUNCT	F	_	10	punct	_	Gloss=,
+12	per	per	ADP	Sp	_	14	case	_	Gloss=par
+13	un	un	DET	Da	_	14	det	_	Gloss=un
+14	sentjacaire	sentjacaire	NOUN	Nc	_	10	obl	_	Gloss=pèlerin_jacquaire|SpaceAfter=No
+15	,	,	PUNCT	F	_	14	punct	_	Gloss=,
+16	que	que	SCONJ	Cs	_	18	mark	_	Gloss=que
+17	me	me	PRON	Pp	_	20	obj	_	Gloss=me
+18	vengueré	venir	VERB	Vm	_	10	ccomp	_	Gloss=venir
+19	lèu	lèu	ADV	Rg	_	20	advmod	_	Gloss=bientôt
+20	cercar	cercar	VERB	Vm	_	18	xcomp	_	Gloss=chercher
+21	entà	entà	SCONJ	Cs	_	23	mark	_	Gloss=afin_de
+22	m'	me	PRON	Pp	_	23	obj	_	Gloss=me|SpaceAfter=No
+23	amiar	amiar	VERB	Vm	_	20	advcl	_	Gloss=amener
+24	dens	dens	ADP	Sp	_	26	case	_	Gloss=dans
+25	son	son	DET	Ds	_	26	det	_	Gloss=son
+26	païs	païs	NOUN	Nc	_	23	obl	_	Gloss=pays|SpaceAfter=No
+27	.	.	PUNCT	F	_	26	punct	_	Gloss=.
+
+# sent_id = Blader_Agenais_languedocien.conllu.s17
+# text = Quan rentrèt a l'ostal, sa femna li diguèt : -Coma as fèit per prene tan de peis ièr e anèit ?
+1	Quan	quan	SCONJ	Cs	_	2	mark	_	Gloss=_
+2	rentrèt	rentrar	VERB	Vm	_	10	advcl	_	Gloss=_
+3	a	a	ADP	Sp	_	5	case	_	Gloss=_
+4	l'	lo	DET	Da	_	5	det	_	Gloss=_|SpaceAfter=No
+5	ostal	ostal	NOUN	Nc	_	2	obl	_	Gloss=_|SpaceAfter=No
+6	,	,	PUNCT	F	_	5	punct	_	Gloss=_
+7	sa	son	DET	Ds	_	8	det	_	Gloss=_
+8	femna	femna	NOUN	Nc	_	10	nsubj	_	Gloss=_
+9	li	li	PRON	Pp	_	10	iobj	_	Gloss=_
+10	diguèt	dire	VERB	Vm	_	0	root	_	Gloss=_
+11	:	:	PUNCT	F	_	10	punct	_	Gloss=_
+12	-	-	PUNCT	F	_	10	punct	_	Gloss=_|SpaceAfter=No
+13	Coma	coma	ADV	Cs	_	15	advmod	_	Gloss=_
+14	as	aver	AUX	Vm	_	15	aux	_	Gloss=_
+15	fèit	far	VERB	Vm	_	10	parataxis	_	Gloss=_
+16	per	per	ADP	Sp	_	17	mark	_	Gloss=_
+17	prene	prene	VERB	Vm	_	15	xcomp	_	Gloss=_
+18	tan	tan	ADV	Rq	_	17	advmod	_	Gloss=_
+19	de	de	DET	Dp	_	20	det	_	Gloss=_
+20	peis	peis	NOUN	Nc	_	17	obj	_	Gloss=_
+21	ièr	ièr	ADV	Rg	_	17	advmod	_	Gloss=_
+22	e	e	CCONJ	Cc	_	23	cc	_	Gloss=_
+23	anèit	amèit	ADV	Rg	_	21	conj	_	Gloss=_
+24	?	?	PUNCT	F	_	23	punct	_	Gloss=_
+
+# sent_id = Barsoti_Niston_provencal.conllu.s9
+# text = Una referéncia !
+1	Una	un	DET	Da	_	2	det	_	Gloss=un
+2	referéncia	referéncia	NOUN	Nc	_	0	root	_	Gloss=référence
+3	!	!	PUNCT	F	_	2	punct	_	Gloss=!
+
+# sent_id = Barsoti_Niston_provencal.conllu.s5
+# text = Quand siatz mossi aquestei sovenirs semblan sortits d'un temps senhat...
+1	Quand	quand	SCONJ	Cs	_	2	mark	_	Gloss=quand
+2	siatz	èsser	VERB	Vm	_	6	advcl	_	Gloss=être
+3	mossi	mòssi	NOUN	Nc	_	2	obj	_	Gloss=gamin
+4	aquestei	aqueste	DET	Dd	_	5	det	_	Gloss=ce
+5	sovenirs	sovenir	NOUN	Nc	_	6	nsubj	_	Gloss=souvenir
+6	semblan	semblar	VERB	Vm	_	0	root	_	Gloss=sembler
+7	sortits	sortir	VERB	Vm	_	6	xcomp	_	Gloss=sortir
+8	d'	de	ADP	Sp	_	10	case	_	Gloss=de|SpaceAfter=No
+9	un	un	DET	Da	_	10	det	_	Gloss=un
+10	temps	temps	NOUN	Nc	_	7	obl	_	Gloss=temps
+11	senhat	senhar	VERB	Vm	_	10	acl	_	Gloss=bénir|SpaceAfter=No
+12	...	...	PUNCT	F	_	11	punct	_	Gloss=…
+
+# sent_id = Blader_Agenais_languedocien.conllu.s39
+# text = M'en vau del costat del sorelh levant.
+1	M'	me	PRON	Pp	_	3	expl	_	Gloss=_|SpaceAfter=No
+2	en	en	PRON	Sp	_	3	expl	_	Gloss=_
+3	vau	anar	VERB	Vm	_	0	root	_	Gloss=_
+4-5	del	_	_	_	_	_	_	_	_
+4	de	de	ADP	Sp	_	6	case	_	Gloss=_
+5	lo	lo	DET	Da	_	6	det	_	Gloss=_
+6	costat	costat	NOUN	Nc	_	3	obl	_	Gloss=_
+7-8	del	_	_	_	_	_	_	_	_
+7	de	de	ADP	Sp	_	9	case	_	Gloss=_
+8	lo	lo	DET	Da	_	9	det	_	Gloss=_
+9	sorelh	sorelh	NOUN	Nc	_	6	obl	_	Gloss=_
+10	levant	levar	VERB	Vm	_	9	acl	_	Gloss=_|SpaceAfter=No
+11	.	.	PUNCT	F	_	10	punct	_	Gloss=_
+
+# sent_id = Blader_Contes_gascon.conllu.s5
+# text = Mès se pensava :
+1	Mès	mès	CCONJ	Cc	_	3	cc	_	Gloss=mais
+2	se	se	PRON	Px	_	3	expl	_	Gloss=se
+3	pensava	pensar	VERB	Vm	_	0	root	_	Gloss=penser
+4	:	:	PUNCT	F	_	3	punct	_	Gloss=:
+
+# sent_id = Blader_Agenais_languedocien.conllu.s82
+# text = L'ainat dels bessons respondèt res; mès ramenèt sa femna a la vila, e tornèt sol tustar a la pòrta de l'ostalet.
+1	L'	lo	DET	Da	_	2	det	_	Gloss=_|SpaceAfter=No
+2	ainat	ainat	NOUN	Nc	_	5	nsubj	_	Gloss=_
+3	dels	de_los	ADP	SDa	_	4	case	_	Gloss=_
+4	bessons	besson	NOUN	Nc	_	2	nmod	_	Gloss=_
+5	respondèt	respondre	VERB	Vm	_	0	root	_	Gloss=_
+6	res	res	PRON	Pi	_	5	obj	_	Gloss=_|SpaceAfter=No
+7	;	;	PUNCT	F	_	6	punct	_	Gloss=_
+8	mès	mès	CCONJ	Rg	_	9	cc	_	Gloss=_
+9	ramenèt	ramenar	VERB	Vm	_	5	conj	_	Gloss=_
+10	sa	son	DET	Ds	_	11	det	_	Gloss=_
+11	femna	femna	NOUN	Nc	_	9	obj	_	Gloss=_
+12	a	a	ADP	Sp	_	14	case	_	Gloss=_
+13	la	lo	DET	Da	_	14	det	_	Gloss=_
+14	vila	vila	NOUN	Nc	_	9	obl	_	Gloss=_|SpaceAfter=No
+15	,	,	PUNCT	F	_	14	punct	_	Gloss=_
+16	e	e	CCONJ	Cc	_	17	cc	_	Gloss=_
+17	tornèt	tornar	VERB	Vm	_	9	conj	_	Gloss=_
+18	sol	sol	ADV	Rg	_	17	advmod	_	Gloss=_
+19	tustar	tustar	VERB	Vm	_	17	xcomp	_	Gloss=_
+20	a	a	ADP	Sp	_	22	case	_	Gloss=_
+21	la	lo	DET	Da	_	22	det	_	Gloss=_
+22	pòrta	pòrta	NOUN	Nc	_	19	obl	_	Gloss=_
+23	de	de	ADP	Sp	_	25	case	_	Gloss=_
+24	l'	lo	DET	Da	_	25	det	_	Gloss=_|SpaceAfter=No
+25	ostalet	ostalet	NOUN	Nc	_	22	nmod	_	Gloss=_|SpaceAfter=No
+26	.	.	PUNCT	F	_	25	punct	_	Gloss=_
+
+# sent_id = Ganhaire_Sorne_limousin.conllu.s4
+# text = Per tota responsa, lo comissari aguet l'auçament d'espatla que meritava.
+1	Per	per	ADP	Sp	_	3	case	_	Gloss=pour
+2	tota	tot	DET	Ai	_	3	det	_	Gloss=tout
+3	responsa	responsa	NOUN	Nc	_	7	obl	_	Gloss=réponse|SpaceAfter=No
+4	,	,	PUNCT	F	_	3	punct	_	Gloss=,
+5	lo	lo	DET	Da	_	6	det	_	Gloss=le
+6	comissari	comissari	NOUN	Nc	_	7	nsubj	_	Gloss=commissaire
+7	aguet	aver	VERB	Vm	_	0	root	_	Gloss=avoir
+8	l'	lo	DET	Da	_	9	det	_	Gloss=le|SpaceAfter=No
+9	auçament	auçament	NOUN	Nc	_	7	obj	_	Gloss=haussement
+10	d'	de	ADP	Sp	_	11	case	_	Gloss=de|SpaceAfter=No
+11	espatla	espatla	NOUN	Nc	_	9	nmod	_	Gloss=épaule
+12	que	que	PRON	Pr	_	13	nsubj	_	Gloss=qui
+13	meritava	meritar	VERB	Vm	_	9	acl	_	Gloss=mériter|SpaceAfter=No
+14	.	.	PUNCT	F	_	13	punct	_	Gloss=.
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s19
+# text = A l'ajuda !
+1	A	a	ADP	Sp	_	3	case	_	Gloss=_
+2	l'	lo	DET	Da	_	3	det	_	Gloss=_|SpaceAfter=No
+3	ajuda	ajuda	NOUN	Nc	_	0	root	_	Gloss=_
+4	!	!	PUNCT	F	_	3	punct	_	Gloss=_
+
+# sent_id = Barsoti_Niston_provencal.conllu.s16
+# text = Au baloard Nacionau, tot lo mond èran dins la carriera que se destriava dins lo cèu la lusor dei flamas de l'incendi qu'èra pasmens a mai de tres quilomètres d'aquí en drecha linha e que n'eriam desseparats per un molonàs de vias e d'ostaus.
+1-2	Au	_	_	_	_	_	_	_	_
+1	a	a	ADP	Sp	_	3	case	_	Gloss=à
+2	lo	lo	DET	Da	_	3	det	_	Gloss=le
+3	baloard	baloard	NOUN	Nc	_	12	obl	_	Gloss=boulevard|NamedType=LOC-B
+4	Nacionau	nacionau	ADJ	Af	_	3	amod	_	Gloss=national|NamedType=LOC-I|SpaceAfter=No
+5	,	,	PUNCT	F	_	4	punct	_	Gloss=,
+6	tot	tot	DET	Ai	_	8	det	_	Gloss=tout
+7	lo	lo	DET	Da	_	8	det	_	Gloss=le
+8	mond	mond	NOUN	Nc	_	12	nsubj	_	Gloss=monde
+9	èran	èsser	AUX	Vm	_	12	cop	_	Gloss=être
+10	dins	dins	ADP	Sp	_	12	case	_	Gloss=dans
+11	la	lo	DET	Da	_	12	det	_	Gloss=le
+12	carriera	carriera	NOUN	Nc	_	0	root	_	Gloss=rue
+13	que	que	SCONJ	Cs	_	15	mark	_	Gloss=que
+14	se	se	PRON	Px	_	15	expl	_	Gloss=se
+15	destriava	destriar	VERB	Vm	_	12	advcl	_	Gloss=distinguer
+16	dins	dins	ADP	Sp	_	18	case	_	Gloss=dans
+17	lo	lo	DET	Da	_	18	det	_	Gloss=le
+18	cèu	cèu	NOUN	Nc	_	15	obl	_	Gloss=ciel
+19	la	lo	DET	Da	_	20	det	_	Gloss=le
+20	lusor	lusor	NOUN	Nc	_	15	obj	_	Gloss=lueur
+21-22	dei	_	_	_	_	_	_	_	_
+21	de	de	ADP	Sp	_	23	case	_	Gloss=de
+22	lei	lo	DET	Da	_	23	det	_	Gloss=le
+23	flamas	flama	NOUN	Nc	_	20	nmod	_	Gloss=flamme
+24	de	de	ADP	Sp	_	26	case	_	Gloss=de
+25	l'	lo	DET	Da	_	26	det	_	Gloss=le|SpaceAfter=No
+26	incendi	incendi	NOUN	Nc	_	23	nmod	_	Gloss=incendie
+27	qu'	que	PRON	Pr	_	34	nsubj	_	Gloss=que|SpaceAfter=No
+28	èra	èsser	AUX	Vm	_	34	cop	_	Gloss=être
+29	pasmens	pasmens	ADV	Rg	_	34	advmod	_	Gloss=pourtant
+30	a	a	ADP	Sp	_	34	case	_	Gloss=à
+31	mai	mai	ADV	Rq	ExtPos=DET	34	det	_	Gloss=plus
+32	de	de	ADP	Sp	_	31	fixed	_	Gloss=de
+33	tres	3	NUM	Dk	_	34	nummod	_	Gloss=3
+34	quilomètres	quilomètre	NOUN	Nc	_	26	acl	_	Gloss=kilomètre
+35	d'	de	ADP	Sp	_	36	case	_	Gloss=de|SpaceAfter=No
+36	aquí	aquí	ADV	Rg	_	34	nmod	_	Gloss=là
+37	en	en	ADP	Sp	_	39	case	_	Gloss=en
+38	drecha	drech	ADJ	Af	_	39	amod	_	Gloss=droit
+39	linha	linha	NOUN	Nc	_	34	nmod	_	Gloss=ligne
+40	e	e	CCONJ	Cc	_	44	cc	_	Gloss=et
+41	que	que	PRON	Pr	_	44	nsubj	_	Gloss=que
+42	n'	ne	PRON	Pp	_	44	iobj	_	Gloss=ne|SpaceAfter=No
+43	eriam	èsser	AUX	Vm	_	44	aux	_	Gloss=être
+44	desseparats	desseparar	VERB	Vm	_	34	conj	_	Gloss=désespérer
+45	per	per	ADP	Sp	_	47	case	_	Gloss=par
+46	un	un	DET	Da	_	47	det	_	Gloss=un
+47	molonàs	molonàs	NOUN	Nc	_	44	obl	_	Gloss=tas (augmentatif)
+48	de	de	ADP	Sp	_	49	case	_	Gloss=de
+49	vias	via	NOUN	Nc	_	47	nmod	_	Gloss=voie
+50	e	e	CCONJ	Cc	_	52	cc	_	Gloss=et
+51	d'	de	ADP	Sp	_	52	case	_	Gloss=de|SpaceAfter=No
+52	ostaus	ostau	NOUN	Nc	_	49	conj	_	Gloss=maison|SpaceAfter=No
+53	.	.	PUNCT	F	_	52	punct	_	Gloss=.
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s30
+# text = Mas cada ser totes dos tornavan pro lèu del trabalh e sopavan al lor ostal.
+1	Mas	mas	CCONJ	Cc	_	6	cc	_	Gloss=_
+2	cada	cada	DET	Da	_	3	det	_	Gloss=_
+3	ser	ser	NOUN	Nc	_	6	obl	_	Gloss=_
+4	totes	tot	DET	Ai	_	5	det	_	Gloss=_
+5	dos	dos	NOUN	Nk	_	6	nsubj	_	Gloss=_
+6	tornavan	tornar	VERB	Vm	_	0	root	_	Gloss=_
+7	pro	pro	ADV	Rq	_	6	advmod	_	Gloss=_
+8	lèu	lèu	ADV	Rg	_	6	advmod	_	Gloss=_
+9-10	del	_	_	_	_	_	_	_	_
+9	de	de	ADP	Sp	_	11	case	_	Gloss=de
+10	lo	lo	DET	Da	_	11	det	_	Gloss=le
+11	trabalh	trabalh	NOUN	Nc	_	6	obl	_	Gloss=_
+12	e	e	CCONJ	Cc	_	13	cc	_	Gloss=_
+13	sopavan	sopar	VERB	Vm	_	6	conj	_	Gloss=_
+14-15	al	_	_	_	_	_	_	_	_
+14	a	a	ADP	Sp	_	17	case	_	Gloss=à
+15	lo	lo	DET	Da	_	17	det	_	Gloss=le
+16	lor	lor	ADJ	As	_	17	amod	_	Gloss=_
+17	ostal	ostal	NOUN	Nc	_	13	obl	_	Gloss=_|SpaceAfter=No
+18	.	.	PUNCT	F	_	17	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s88
+# text = Se vòs intrar, derrega un pièl de ton cap e fai-nos lo passar per la gatonèra.
+1	Se	se	SCONJ	Px	_	2	mark	_	Gloss=_
+2	vòs	voler	VERB	Vm	_	5	advcl	_	Gloss=_
+3	intrar	intrar	VERB	Vm	_	2	xcomp	_	Gloss=_|SpaceAfter=No
+4	,	,	PUNCT	F	_	3	punct	_	Gloss=_
+5	derrega	derregar	VERB	Vm	_	0	root	_	Gloss=_
+6	un	un	DET	Da	_	7	det	_	Gloss=_
+7	pièl	pièl	NOUN	Nc	_	5	obj	_	Gloss=_
+8	de	de	ADP	Sp	_	10	case	_	Gloss=_
+9	ton	ton	DET	Ds	_	10	det	_	Gloss=_
+10	cap	cap	NOUN	Nc	_	5	obl	_	Gloss=_
+11	e	e	CCONJ	Cc	_	12	cc	_	Gloss=_
+12	fai	far	VERB	Vm	_	5	conj	_	Gloss=_|SpaceAfter=No
+13	-nos	nos	PRON	Pp	_	12	iobj	_	Gloss=_
+14	lo	lo	PRON	Pp	_	12	obj	_	Gloss=_
+15	passar	passar	VERB	Vm	_	12	xcomp	_	Gloss=_
+16	per	parer	ADP	Vm	_	18	case	_	Gloss=_
+17	la	lo	DET	Da	_	18	det	_	Gloss=_
+18	gatonèra	gatonèra	NOUN	Nc	_	15	obl	_	Gloss=_|SpaceAfter=No
+19	.	.	PUNCT	F	_	18	punct	_	Gloss=_
+
+# sent_id = Blader_Contes_gascon.conllu.s17
+# text = I avèva un còp tres sòrs que darrivavan lin dens un camp.
+1	I	i	PRON	Pp	_	2	expl	_	Gloss=y
+2	avèva	aver	VERB	Vm	_	0	root	_	Gloss=avoir
+3	un	un	DET	Da	_	4	det	_	Gloss=un
+4	còp	còp	NOUN	Nc	_	2	obl	_	Gloss=fois
+5	tres	3	NUM	Dk	_	6	nummod	_	Gloss=3
+6	sòrs	sòr	NOUN	Nc	_	2	obj	_	Gloss=sœur
+7	que	que	PRON	Pr	_	8	nsubj	_	Gloss=qui
+8	darrivavan	darrivar	VERB	Vm	_	6	acl	_	Gloss=déraciner
+9	lin	lin	NOUN	Nc	_	8	obj	_	Gloss=lin
+10	dens	dens	ADP	Sp	_	12	case	_	Gloss=dans
+11	un	un	DET	Da	_	12	det	_	Gloss=un
+12	camp	camp	NOUN	Nc	_	8	obl	_	Gloss=champ|SpaceAfter=No
+13	.	.	PUNCT	F	_	12	punct	_	Gloss=.
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s29
+# text = Aquò lor fasiá pas un viure.
+1	Aquò	aquò	PRON	Pd	_	3	nsubj	_	Gloss=_
+2	lor	li	PRON	Pp	_	3	iobj	_	Gloss=_
+3	fasiá	far	VERB	Vm	_	0	root	_	Gloss=_
+4	pas	pas	ADV	Rg	_	3	advmod	_	Gloss=_
+5	un	un	DET	Da	_	6	det	_	Gloss=_
+6	viure	viure	NOUN	Nc	_	3	obj	_	Gloss=_|SpaceAfter=No
+7	.	.	PUNCT	F	_	6	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s81
+# text = Si anavas, vos arribariá malur.
+1	Si	si	SCONJ	Cs	_	2	mark	_	Gloss=_
+2	anavas	anar	VERB	Vm	_	5	advcl	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	vos	vos	PRON	Px	_	5	iobj	_	Gloss=_
+5	arribariá	arribar	VERB	Vm	_	0	root	_	Gloss=_
+6	malur	malur	NOUN	Nc	_	5	obj	_	Gloss=_|SpaceAfter=No
+7	.	.	PUNCT	F	_	6	punct	_	Gloss=_
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s9
+# text = Aital comencèt lo temps aule.
+1	Aital	Aital	ADV	Rg	_	2	advmod	_	Gloss=_
+2	comencèt	començar	VERB	Vm	_	0	root	_	Gloss=_
+3	lo	lo	DET	Da	_	4	det	_	Gloss=_
+4	temps	temps	NOUN	Nc	_	2	nsubj	_	Gloss=_
+5	aule	aule	ADJ	Af	_	4	amod	_	Gloss=_|SpaceAfter=No
+6	.	.	PUNCT	F	_	5	punct	_	Gloss=_
+
+# sent_id = Ganhaire_Sorne_limousin.conllu.s1
+# text = Se sentit las espatlas pus pesantas, e son eschina s'enfonset de cinc bons centimetres dins lo cuer mofle.
+1	Se	se	PRON	Px	_	2	iobj	_	Gloss=se
+2	sentit	sentir	VERB	Vm	_	0	root	_	Gloss=sentir
+3	las	lo	DET	Da	_	4	det	_	Gloss=le
+4	espatlas	espatla	NOUN	Nc	_	2	obj	_	Gloss=épaule
+5	pus	pus	ADV	Rq	_	6	advmod	_	Gloss=plus
+6	pesantas	pesant	ADJ	Af	_	4	xcomp	_	Gloss=pesant|SpaceAfter=No
+7	,	,	PUNCT	F	_	6	punct	_	Gloss=,
+8	e	e	CCONJ	Cc	_	12	cc	_	Gloss=et
+9	son	son	DET	Ds	_	10	det	_	Gloss=son
+10	eschina	eschina	NOUN	Nc	_	12	nsubj	_	Gloss=dos
+11	s'	se	PRON	Px	_	12	expl	_	Gloss=se|SpaceAfter=No
+12	enfonset	enfonsar	VERB	Vm	_	2	conj	_	Gloss=enfoncer
+13	de	de	ADP	Sp	_	16	case	_	Gloss=de
+14	cinc	5	NUM	Dk	_	16	nummod	_	Gloss=5
+15	bons	bon	ADJ	Af	_	16	amod	_	Gloss=bon
+16	centimetres	centimetre	NOUN	Nc	_	12	obl	_	Gloss=centimètre
+17	dins	dins	ADP	Sp	_	19	case	_	Gloss=dans
+18	lo	lo	DET	Da	_	19	det	_	Gloss=le
+19	cuer	cuer	NOUN	Nc	_	12	obl	_	Gloss=cuir
+20	mofle	mofle	ADJ	Af	_	19	amod	_	Gloss=moelleux|SpaceAfter=No
+21	.	.	PUNCT	F	_	20	punct	_	Gloss=.
+
+# sent_id = Blader_Contes_gascon.conllu.s15
+# text = -Ta mair m'a emposoat.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=-|SpaceAfter=No
+2	Ta	ton	DET	Ds	_	3	det	_	Gloss=ton
+3	mair	mair	NOUN	Nc	_	6	nsubj	_	Gloss=mère
+4	m'	me	PRON	Pp	_	6	obj	_	Gloss=me|SpaceAfter=No
+5	a	aver	AUX	Va	_	6	aux	_	Gloss=avoir
+6	emposoat	emposoar	VERB	Vm	_	0	root	_	Gloss=empoisonner|SpaceAfter=No
+7	.	.	PUNCT	F	_	6	punct	_	Gloss=.
+
+# sent_id = Blader_Agenais_languedocien.conllu.s23
+# text = -Òme, ça diguèt lo Gròs Peis, daisha-me anar.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Òme	òme	NOUN	Nc	_	10	vocative	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	ça	ça	PRON	Pi	_	5	expl	_	Gloss=_
+5	diguèt	dire	VERB	Vm	_	10	parataxis	_	Gloss=_
+6	lo	lo	DET	Da	_	8	det	_	Gloss=_
+7	Gròs	gròs	ADJ	Af	_	8	amod	_	Gloss=_
+8	Peis	peis	NOUN	Nc	_	5	nsubj	_	Gloss=_|SpaceAfter=No
+9	,	,	PUNCT	F	_	8	punct	_	Gloss=_
+10	daisha	daisha	VERB	Vm	_	0	root	_	Gloss=_|SpaceAfter=No
+11	-me	me	PRON	Pp	_	10	obj	_	Gloss=_
+12	anar	anar	VERB	Vm	_	10	xcomp	_	Gloss=_|SpaceAfter=No
+13	.	.	PUNCT	F	_	12	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s90
+# text = Pendent que tot aquò se passava, la dama, que non sabiá res, demandava novèlas de son marit.
+1	Pendent	pendent	ADP	Sp	_	6	mark	_	Gloss=pendant|MWE=pendent_que
+2	que	que	SCONJ	Cs	_	6	mark	_	Gloss=que
+3	tot	tot	DET	Pi	_	4	det	_	Gloss=_
+4	aquò	aquò	PRON	Pd	_	6	nsubj	_	Gloss=_
+5	se	se	PRON	Px	_	6	expl	_	Gloss=_
+6	passava	passar	VERB	Vm	_	16	advcl	_	Gloss=_|SpaceAfter=No
+7	,	,	PUNCT	F	_	6	punct	_	Gloss=_
+8	la	lo	DET	Da	_	9	det	_	Gloss=_
+9	dama	dama	NOUN	Nc	_	16	nsubj	_	Gloss=_|SpaceAfter=No
+10	,	,	PUNCT	F	_	9	punct	_	Gloss=_
+11	que	que	PRON	Pr	_	13	nsubj	_	Gloss=_
+12	non	non	PART	Rp	_	13	advmod	_	Gloss=_
+13	sabiá	saber	VERB	Vm	_	9	acl	_	Gloss=_
+14	res	res	ADV	Rg	_	13	obj	_	Gloss=_|SpaceAfter=No
+15	,	,	PUNCT	F	_	14	punct	_	Gloss=_
+16	demandava	demandar	VERB	Vm	_	0	root	_	Gloss=_
+17	novèlas	novèla	NOUN	Nc	_	16	obj	_	Gloss=_
+18	de	de	ADP	Sp	_	20	case	_	Gloss=_
+19	son	son	DET	Ds	_	20	det	_	Gloss=_
+20	marit	marit	NOUN	Nc	_	17	nmod	_	Gloss=_|SpaceAfter=No
+21	.	.	PUNCT	F	_	20	punct	_	Gloss=_
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s36
+# text = Mas al prèp d'ela, jos las flaçadas, i aviá pas degun.
+1	Mas	mas	CCONJ	Cc	_	13	cc	_	Gloss=_
+2-3	al	_	_	_	_	_	_	_	Gloss=à_le|MWE=al_prèp_d'
+2	a	a	ADP	Sp	_	4	case	_	Gloss=à
+3	lo	lo	DET	Da	_	4	det	_	Gloss=le
+4	prèp	prèp	ADV	Rg	_	6	advmod	_	Gloss=près
+5	d'	de	ADP	Sp	_	6	case	_	Gloss=de|SpaceAfter=No
+6	ela	el	PRON	Pp	_	13	obl	_	Gloss=_|SpaceAfter=No
+7	,	,	PUNCT	F	_	6	punct	_	Gloss=_
+8	jos	jos	ADP	Sp	_	10	case	_	Gloss=_
+9	las	lo	DET	Da	_	10	det	_	Gloss=_
+10	flaçadas	flaçada	NOUN	Nc	_	13	obl	_	Gloss=_|SpaceAfter=No
+11	,	,	PUNCT	F	_	10	punct	_	Gloss=_
+12	i	i	PRON	Pp	_	13	expl	_	Gloss=_
+13	aviá	aver	VERB	Vm	_	0	root	_	Gloss=_
+14	pas	pas	ADV	Rg	_	13	advmod	_	Gloss=_
+15	degun	degun	PRON	Pi	_	13	obj	_	Gloss=_|SpaceAfter=No
+16	.	.	PUNCT	F	_	15	punct	_	Gloss=_
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s27
+# text = D'aquel temps, a La Ribièira, dins l'ostal vièlh de la Cerièissa demoravan un òme e una femna que lo nom uèi se n'es perdut.
+1	D'	de	ADP	Sp	_	3	case	_	Gloss=_|SpaceAfter=No
+2	aquel	aquel	DET	Dd	_	3	det	_	Gloss=_
+3	temps	temps	NOUN	Nc	_	16	obl	_	Gloss=_|SpaceAfter=No
+4	,	,	PUNCT	F	_	3	punct	_	Gloss=_
+5	a	a	ADP	Sp	_	7	case	_	Gloss=_
+6	La	lo	DET	Da	_	7	det	_	Gloss=_
+7	Ribièira	ribièira	NOUN	Nc	_	16	obl	_	Gloss=_|SpaceAfter=No
+8	,	,	PUNCT	F	_	7	punct	_	Gloss=_
+9	dins	dins	ADP	Sp	_	11	case	_	Gloss=_
+10	l'	lo	DET	Da	_	11	det	_	Gloss=_|SpaceAfter=No
+11	ostal	ostal	NOUN	Nc	_	16	obl	_	Gloss=_
+12	vièlh	vièlh	ADJ	Nc	_	11	amod	_	Gloss=_
+13	de	de	ADP	Sp	_	15	case	_	Gloss=_
+14	la	lo	DET	Da	_	15	det	_	Gloss=_
+15	Cerièissa	cerièissa	PROPN	Nc	_	11	nmod	_	Gloss=_
+16	demoravan	demorar	VERB	Vm	_	0	root	_	Gloss=_
+17	un	un	DET	Da	_	18	det	_	Gloss=_
+18	òme	òme	NOUN	Nc	_	16	nsubj	_	Gloss=_
+19	e	e	CCONJ	Cc	_	21	cc	_	Gloss=_
+20	una	un	DET	Da	_	21	det	_	Gloss=_
+21	femna	femna	NOUN	Nc	_	18	conj	_	Gloss=_
+22	que	que	SCONJ	Pr	_	29	mark	_	Gloss=_
+23	lo	lo	DET	Da	_	24	det	_	Gloss=_
+24	nom	nom	NOUN	Nc	_	29	nsubj	_	Gloss=_
+25	uèi	uèi	ADV	Rg	_	29	advmod	_	Gloss=_
+26	se	se	PRON	Px	_	29	expl	_	Gloss=_
+27	n'	ne	PRON	Pp	_	24	nmod	_	Gloss=_|SpaceAfter=No
+28	es	èsser	AUX	Vm	_	29	cop	_	Gloss=_
+29	perdut	perdut	VERB	Af	_	21	acl	_	Gloss=_|SpaceAfter=No
+30	.	.	PUNCT	F	_	29	punct	_	Gloss=_
+
+# sent_id = Ganhaire_Sorne_limousin.conllu.s13
+# text = e Hans e Catarina aneren rejúnher Rodòlfe dins la colona daus suspiechs.
+1	e	e	CCONJ	Cc	_	2	cc	_	Gloss=et
+2	Hans	Hans	PROPN	Np	_	5	nsubj	_	Gloss=Hans
+3	e	e	CCONJ	Cc	_	4	cc	_	Gloss=et
+4	Catarina	Catarina	PROPN	Np	_	2	conj	_	Gloss=Catherine
+5	aneren	anar	VERB	Vm	_	0	root	_	Gloss=aller
+6	rejúnher	rejúnher	VERB	Vm	_	5	xcomp	_	Gloss=rejoindre
+7	Rodòlfe	Rodòlfe	PROPN	Np	_	6	obj	_	Gloss=Rodolphe
+8	dins	dins	ADP	Sp	_	10	case	_	Gloss=dans
+9	la	lo	DET	Da	_	10	det	_	Gloss=le
+10	colona	colona	NOUN	Nc	_	6	obl	_	Gloss=colonne
+11-12	daus	_	_	_	_	_	_	_	_
+11	de	de	ADP	Sp	_	13	case	_	Gloss=de
+12	los	lo	DET	Da	_	13	det	_	Gloss=le
+13	suspiechs	suspiech	NOUN	Nc	_	10	nmod	_	Gloss=suspect|SpaceAfter=No
+14	.	.	PUNCT	F	_	13	punct	_	Gloss=.
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s35
+# text = Mai d'un còp dins la nuèch, la femna se desrevelhava.
+1	Mai	mai	ADV	Rq	ExtPos=DET	4	det	_	Gloss=_
+2	d'	de	ADP	Sp	_	1	fixed	_	Gloss=_|SpaceAfter=No
+3	un	un	DET	Da	_	4	det	_	Gloss=_
+4	còp	còp	NOUN	Nc	_	12	obl	_	Gloss=_
+5	dins	dins	ADP	Sp	_	7	case	_	Gloss=_
+6	la	lo	DET	Da	_	7	det	_	Gloss=_
+7	nuèch	nuèch	NOUN	Nc	_	4	nmod	_	Gloss=_|SpaceAfter=No
+8	,	,	PUNCT	F	_	7	punct	_	Gloss=_
+9	la	lo	DET	Da	_	10	det	_	Gloss=_
+10	femna	femna	NOUN	Nc	_	12	nsubj	_	Gloss=_
+11	se	se	PRON	Px	_	12	expl	_	Gloss=_
+12	desrevelhava	desrevelhar	VERB	Vm	_	0	root	_	Gloss=_|SpaceAfter=No
+13	.	.	PUNCT	F	_	12	punct	_	Gloss=_
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s6
+# text = Partissètz totara.
+1	Partissètz	partir	VERB	Vm	_	0	root	_	Gloss=_
+2	totara	totara	ADV	Rg	_	1	advmod	_	Gloss=_|SpaceAfter=No
+3	.	.	PUNCT	F	_	2	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s70
+# text = -Òc, òc, brave gojat.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Òc	òc	ADV	Rg	_	7	discourse	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	òc	òc	ADV	Rg	_	7	discourse	_	Gloss=_|SpaceAfter=No
+5	,	,	PUNCT	F	_	4	punct	_	Gloss=_
+6	brave	brave	ADJ	Af	_	7	amod	_	Gloss=_
+7	gojat	gojat	NOUN	Nc	_	0	root	_	Gloss=_|SpaceAfter=No
+8	.	.	PUNCT	F	_	7	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s58
+# text = -Mossur, ça diguèt la domaisèla, que sètz vengut far ací ?
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Mossur	mossur	NOUN	Nc	_	11	vocative	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	ça	ça	PRON	Pi	_	5	expl	_	Gloss=_
+5	diguèt	dire	VERB	Vm	_	11	parataxis	_	Gloss=_
+6	la	lo	DET	Da	_	7	det	_	Gloss=_
+7	domaisèla	domaisèla	NOUN	Nc	_	5	nsubj	_	Gloss=_|SpaceAfter=No
+8	,	,	PUNCT	F	_	7	punct	_	Gloss=_
+9	que	que	ADP	Rt	_	11	mark	_	Gloss=_
+10	sètz	èsser	AUX	Vm	_	11	aux	_	Gloss=_
+11	vengut	venir	VERB	Vm	_	0	root	_	Gloss=_
+12	far	far	VERB	Vm	_	11	xcomp	_	Gloss=_
+13	ací	ací	ADV	Rg	_	12	advmod	_	Gloss=_
+14	?	?	PUNCT	F	_	13	punct	_	Gloss=_
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s17
+# text = Aquò montava lo long del rèc e de cadenas darrièr se brandissián.
+1	Aquò	aquò	PRON	Pd	_	2	nsubj	_	Gloss=_
+2	montava	montar	VERB	Vm	_	0	root	_	Gloss=_
+3	lo	lo	DET	Da	_	4	det	_	Gloss=_
+4	long	long	NOUN	Nc	_	2	obl	_	Gloss=_
+5-6	del	_	_	_	_	_	_	_	_
+5	de	de	ADP	Sp	_	7	case	_	Gloss=_
+6	lo	lo	DET	Da	_	7	det	_	Gloss=_
+7	rèc	rèc	NOUN	Nc	_	4	nmod	_	Gloss=_
+8	e	e	CCONJ	Cc	_	13	cc	_	Gloss=_
+9	de	de	DET	Sp	_	10	det	_	Gloss=_
+10	cadenas	cadena	NOUN	Nc	_	13	nsubj	_	Gloss=_
+11	darrièr	darrièr	ADV	Sp	_	13	advmod	_	Gloss=_
+12	se	se	PRON	Px	_	13	expl	_	Gloss=_
+13	brandissián	brandir	VERB	Vm	_	2	conj	_	Gloss=_|SpaceAfter=No
+14	.	.	PUNCT	F	_	13	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s48
+# text = -Gents de la vila, perqué sètz en dòl e perqué ploratz atal ?
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Gents	gent	NOUN	Nc	_	10	vocative	_	Gloss=_
+3	de	de	ADP	Sp	_	5	case	_	Gloss=_
+4	la	lo	DET	Da	_	5	det	_	Gloss=_
+5	vila	vila	NOUN	Nc	_	2	nmod	_	Gloss=_|SpaceAfter=No
+6	,	,	PUNCT	F	_	5	punct	_	Gloss=_
+7	perqué	perqué	ADV	Rt	_	10	advmod	_	Gloss=_
+8	sètz	èsser	AUX	Vm	_	10	cop	_	Gloss=_
+9	en	en	ADP	Sp	_	10	case	_	Gloss=_
+10	dòl	dòl	NOUN	Nc	_	0	root	_	Gloss=_
+11	e	e	CCONJ	Cc	_	13	cc	_	Gloss=_
+12	perqué	perqué	ADV	Rt	_	13	advmod	_	Gloss=_
+13	ploratz	plorar	VERB	Vm	_	10	conj	_	Gloss=_
+14	atal	atal	ADV	Rg	_	13	advmod	_	Gloss=_
+15	?	?	PUNCT	F	_	14	punct	_	Gloss=_
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s26
+# text = La menèt a cò de la Cerièissa.
+1	La	lo	PRON	Px	_	2	obj	_	Gloss=_
+2	menèt	menar	VERB	Vm	_	0	root	_	Gloss=_
+3	a	a	ADP	Sp	ExtPos=ADP	7	case	_	Gloss=à|MWE=a_cò_de
+4	cò	cò	ADP	Sp	_	3	fixed	_	Gloss=chez
+5	de	de	ADP	Sp	_	3	fixed	_	Gloss=de
+6	la	lo	DET	Da	_	7	det	_	Gloss=_
+7	Cerièissa	cerièissa	PROPN	Nc	_	2	obl	_	Gloss=_|SpaceAfter=No
+8	.	.	PUNCT	F	_	7	punct	_	Gloss=_
+
+# sent_id = Ganhaire_Sorne_limousin.conllu.s16
+# text = Darnaudguilhem se rasclet la corniòla e comencet de fulhetar lo dorsier qu'aviá davant eu : " Bon, recapitulem. "
+1	Darnaudguilhem	Darnaudguilhem	PROPN	Np	_	3	nsubj	_	Gloss=Darnaudguilhem
+2	se	se	PRON	Px	_	3	iobj	_	Gloss=se
+3	rasclet	rasclar	VERB	Vm	_	0	root	_	Gloss=racler
+4	la	lo	DET	Da	_	5	det	_	Gloss=le
+5	corniòla	corniòla	NOUN	Nc	_	3	obj	_	Gloss=trachée
+6	e	e	CCONJ	Cc	_	7	cc	_	Gloss=et
+7	comencet	començar	VERB	Vm	_	3	conj	_	Gloss=commencer
+8	de	de	ADP	Sp	_	9	mark	_	Gloss=de
+9	fulhetar	fulhetar	VERB	Vm	_	7	xcomp	_	Gloss=feuilleter
+10	lo	lo	DET	Da	_	11	det	_	Gloss=le
+11	dorsier	dorsier	NOUN	Nc	_	9	obj	_	Gloss=dossier
+12	qu'	que	PRON	Pr	_	13	nsubj	_	Gloss=que|SpaceAfter=No
+13	aviá	aver	VERB	Vm	_	11	acl	_	Gloss=avoir
+14	davant	davant	ADP	Sp	_	15	case	_	Gloss=devant
+15	eu	eu	PRON	Pp	_	13	obl	_	Gloss=lui
+16	:	:	PUNCT	F	_	15	punct	_	Gloss=:
+17	"	"	PUNCT	F	_	15	punct	_	Gloss="
+18	Bon	bon	INTJ	I	_	20	discourse	_	Gloss=bon|SpaceAfter=No
+19	,	,	PUNCT	F	_	18	punct	_	Gloss=,
+20	recapitulem	recapitular	VERB	Vm	_	3	parataxis	_	Gloss=récapituler|SpaceAfter=No
+21	.	.	PUNCT	F	_	20	punct	_	Gloss=.
+22	"	"	PUNCT	F	_	20	punct	_	Gloss="
+
+# sent_id = Blader_Agenais_languedocien.conllu.s7
+# text = -Òme, daisha-me anar.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Òme	òme	NOUN	Nc	_	0	root	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	daisha	daishar	VERB	Vm	_	2	parataxis	_	Gloss=_|SpaceAfter=No
+5	-me	me	PRON	Pp	_	4	obj	_	Gloss=_
+6	anar	anar	VERB	Vm	_	4	xcomp	_	Gloss=_|SpaceAfter=No
+7	.	.	PUNCT	F	_	6	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s62
+# text = Vòli tiar la Granda Bèstia a sèt caps e vos esposar anèit.
+1	Vòli	voler	VERB	Vm	_	0	root	_	Gloss=_
+2	tiar	tiar	VERB	Vm	_	1	xcomp	_	Gloss=_
+3	la	lo	DET	Da	_	5	det	_	Gloss=_
+4	Granda	grand	ADJ	Af	_	5	amod	_	Gloss=_
+5	Bèstia	bèstia	NOUN	Nc	_	2	obj	_	Gloss=_
+6	a	a	ADP	Sp	_	8	case	_	Gloss=_
+7	sèt	7	NUM	Dk	_	8	nummod	_	Gloss=_
+8	caps	cap	NOUN	Nc	_	5	nmod	_	Gloss=_
+9	e	e	CCONJ	Cc	_	11	cc	_	Gloss=_
+10	vos	vos	PRON	Px	_	11	obj	_	Gloss=_
+11	esposar	esposar	VERB	Vm	_	2	conj	_	Gloss=_
+12	anèit	anèit	ADV	Rg	_	11	advmod	_	Gloss=_|SpaceAfter=No
+13	.	.	PUNCT	F	_	12	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s41
+# text = Quan tornaràs a l'ostal, trucaràs aquela crotz de pèira ambe ton espasa.
+1	Quan	quan	SCONJ	Cs	_	2	mark	_	Gloss=_
+2	tornaràs	tornar	VERB	Vm	_	7	advcl	_	Gloss=_
+3	a	a	ADP	Sp	_	5	case	_	Gloss=_
+4	l'	lo	DET	Da	_	5	det	_	Gloss=_|SpaceAfter=No
+5	ostal	ostal	NOUN	Nc	_	2	obl	_	Gloss=_|SpaceAfter=No
+6	,	,	PUNCT	F	_	5	punct	_	Gloss=_
+7	trucaràs	trucar	VERB	Vm	_	0	root	_	Gloss=_
+8	aquela	aquel	DET	Dd	_	9	det	_	Gloss=_
+9	crotz	crotz	NOUN	Nc	_	7	obj	_	Gloss=_
+10	de	de	ADP	Sp	_	11	case	_	Gloss=_
+11	pèira	pèira	NOUN	Nc	_	9	nmod	_	Gloss=_
+12	ambe	ambe	ADP	Sp	_	14	case	_	Gloss=_
+13	ton	ton	DET	Ds	_	14	det	_	Gloss=_
+14	espasa	espasa	NOUN	Nc	_	7	obl	_	Gloss=_|SpaceAfter=No
+15	.	.	PUNCT	F	_	14	punct	_	Gloss=_
+
+# sent_id = Ganhaire_Sorne_limousin.conllu.s19
+# text = Sa responsa faguet levar las cilhas au comissari : " Setz lo Comissari Darnaudguilhem ? "
+1	Sa	son	DET	Ds	_	2	det	_	Gloss=son
+2	responsa	responsa	NOUN	Nc	_	3	nsubj	_	Gloss=réponse
+3	faguet	far	VERB	Vm	_	0	root	_	Gloss=faire
+4	levar	levar	VERB	Vm	_	3	xcomp	_	Gloss=lever
+5	las	lo	DET	Da	_	6	det	_	Gloss=le
+6	cilhas	cilha	NOUN	Nc	_	4	obj	_	Gloss=cil
+7-8	au	_	_	_	_	_	_	_	_
+7	a	a	ADP	Sp	_	9	case	_	Gloss=à
+8	lo	lo	DET	Da	_	9	det	_	Gloss=le
+9	comissari	comissari	NOUN	Nc	_	4	obl	_	Gloss=commissaire
+10	:	:	PUNCT	F	_	9	punct	_	Gloss=:
+11	"	"	PUNCT	F	_	9	punct	_	Gloss="
+12	Setz	èsser	AUX	Vm	_	14	cop	_	Gloss=être
+13	lo	lo	DET	Da	_	14	det	_	Gloss=le
+14	Comissari	comissari	NOUN	Nc	_	3	parataxis	_	Gloss=commissaire
+15	Darnaudguilhem	Darnaudguilhem	PROPN	Np	_	14	flat	_	Gloss=Darnaudguilhem
+16	?	?	PUNCT	F	_	15	punct	_	Gloss=?
+17	"	"	PUNCT	F	_	15	punct	_	Gloss="
+
+# sent_id = Blader_Agenais_languedocien.conllu.s63
+# text = -Hardit ! mon can.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Hardit	hardit	INTJ	Af	_	5	discourse	_	Gloss=_
+3	!	!	PUNCT	F	_	2	punct	_	Gloss=_
+4	mon	mon	DET	Ds	_	5	det	_	Gloss=_
+5	can	can	NOUN	Nc	_	0	root	_	Gloss=_|SpaceAfter=No
+6	.	.	PUNCT	F	_	5	punct	_	Gloss=_
+
+# sent_id = Ganhaire_Sorne_limousin.conllu.s20
+# text = Lo misteri tardet pas a tombar : " ? lo pair de Frederic ? "
+1	Lo	lo	DET	Da	_	2	det	_	Gloss=le
+2	misteri	misteri	NOUN	Nc	_	3	nsubj	_	Gloss=mystère
+3	tardet	tardar	VERB	Vm	_	0	root	_	Gloss=tarder
+4	pas	pas	ADV	Rg	_	3	advmod	_	Gloss=pas
+5	a	a	ADP	Sp	_	6	mark	_	Gloss=à
+6	tombar	tombar	VERB	Vm	_	3	xcomp	_	Gloss=tomber
+7	:	:	PUNCT	F	_	6	punct	_	Gloss=:
+8	"	"	PUNCT	F	_	6	punct	_	Gloss="
+9	?	?	PUNCT	F	_	6	punct	_	Gloss=?
+10	lo	lo	DET	Da	_	11	det	_	Gloss=le
+11	pair	pair	NOUN	Nc	_	3	parataxis	_	Gloss=père
+12	de	de	ADP	Sp	_	13	case	_	Gloss=de
+13	Frederic	Frederic	PROPN	Np	_	11	nmod	_	Gloss=Frederic
+14	?	?	PUNCT	F	_	13	punct	_	Gloss=?
+15	"	"	PUNCT	F	_	13	punct	_	Gloss="
+
+# sent_id = Blader_Agenais_languedocien.conllu.s54
+# text = Vau anar dins lo bòsc, e se a Diu plai, tiarèi la Granda Bèstia a sèt caps e delibrarèi la domaisèla.
+1	Vau	anar	VERB	Vm	_	0	root	_	Gloss=_
+2	anar	anar	VERB	Vm	_	1	xcomp	_	Gloss=_
+3	dins	dins	ADP	Sp	_	5	case	_	Gloss=_
+4	lo	lo	DET	Da	_	5	det	_	Gloss=_
+5	bòsc	bòsc	NOUN	Nc	_	2	obl	_	Gloss=_|SpaceAfter=No
+6	,	,	PUNCT	F	_	5	punct	_	Gloss=_
+7	e	e	CCONJ	Cc	_	13	cc	_	Gloss=_
+8	se	se	SCONJ	Px	_	11	mark	_	Gloss=_
+9	a	a	ADP	Sp	_	10	case	_	Gloss=_
+10	Diu	Diu	NOUN	Nm	_	11	iobj	_	Gloss=_
+11	plai	plaire	VERB	Vm	_	13	advcl	_	Gloss=_|SpaceAfter=No
+12	,	,	PUNCT	F	_	11	punct	_	Gloss=_
+13	tiarèi	tiar	VERB	Vm	_	1	conj	_	Gloss=_
+14	la	lo	DET	Da	_	16	det	_	Gloss=_
+15	Granda	grand	ADJ	Af	_	16	amod	_	Gloss=_
+16	Bèstia	bèstia	NOUN	Nc	_	13	obj	_	Gloss=_
+17	a	a	ADP	Sp	_	19	case	_	Gloss=_
+18	sèt	7	NUM	Dk	_	19	nummod	_	Gloss=_
+19	caps	cap	NOUN	Nc	_	16	nmod	_	Gloss=_
+20	e	e	CCONJ	Cc	_	21	cc	_	Gloss=_
+21	delibrarèi	deliberar	VERB	Vm	_	13	conj	_	Gloss=_
+22	la	lo	DET	Da	_	23	det	_	Gloss=_
+23	domaisèla	domaisèla	NOUN	Nc	_	21	obj	_	Gloss=_|SpaceAfter=No
+24	.	.	PUNCT	F	_	23	punct	_	Gloss=_
+
+# sent_id = Blader_Contes_gascon.conllu.s18
+# text = -Mas sòrs, ça digoc la mès joena, avètz cadua vòsta pensada segreta.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=-|SpaceAfter=No
+2	Mas	mas	CCONJ	Cc	_	11	cc	_	Gloss=mais
+3	sòrs	sòr	NOUN	Nc	_	11	vocative	_	Gloss=sœur|SpaceAfter=No
+4	,	,	PUNCT	F	_	3	punct	_	Gloss=,
+5	ça	ça	PRON	Pp	_	6	expl	_	Gloss=le
+6	digoc	dire	VERB	Vm	_	11	parataxis	_	Gloss=dire
+7	la	lo	DET	Da	_	9	det	_	Gloss=le
+8	mès	mès	ADV	Rq	_	9	advmod	_	Gloss=plus
+9	joena	joena	ADJ	Af	_	6	nsubj	_	Gloss=jeune|SpaceAfter=No
+10	,	,	PUNCT	F	_	9	punct	_	Gloss=,
+11	avètz	aver	VERB	Vm	_	0	root	_	Gloss=avoir
+12	cadua	cadun	PRON	Pi	_	11	obl	_	Gloss=chacun
+13	vòsta	vòste	DET	Ds	_	14	det	_	Gloss=votre
+14	pensada	pensada	NOUN	Nc	_	11	obj	_	Gloss=pensée
+15	segreta	segret	ADJ	Af	_	14	amod	_	Gloss=secret|SpaceAfter=No
+16	.	.	PUNCT	F	_	15	punct	_	Gloss=.
+
+# sent_id = Blader_Agenais_languedocien.conllu.s31
+# text = Ta canha farà dus canhòts, ta cabala dus polins, e ta femna dus bessons.
+1	Ta	ton	DET	Ds	_	2	det	_	Gloss=_
+2	canha	canha	NOUN	Nc	_	3	nsubj	_	Gloss=_
+3	farà	far	VERB	Vm	_	0	root	_	Gloss=_
+4	dus	2	NUM	Dk	_	5	nummod	_	Gloss=_
+5	canhòts	canhòt	NOUN	Nc	_	3	obj	_	Gloss=_|SpaceAfter=No
+6	,	,	PUNCT	F	_	5	punct	_	Gloss=_
+7	ta	ton	DET	Ds	_	8	det	_	Gloss=_
+8	cabala	cabala	NOUN	Nc	_	3	conj	_	Gloss=_
+9	dus	2	NUM	Dk	_	10	nummod	_	Gloss=_
+10	polins	polin	NOUN	Nc	_	8	orphan	_	Gloss=_|SpaceAfter=No
+11	,	,	PUNCT	F	_	10	punct	_	Gloss=_
+12	e	e	CCONJ	Cc	_	14	cc	_	Gloss=_
+13	ta	ton	DET	Ds	_	14	det	_	Gloss=_
+14	femna	femna	NOUN	Nc	_	3	conj	_	Gloss=_
+15	dus	2	NUM	Dk	_	16	nummod	_	Gloss=_
+16	bessons	besson	NOUN	Nc	_	14	orphan	_	Gloss=_|SpaceAfter=No
+17	.	.	PUNCT	F	_	16	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s69
+# text = Ara me cal aquela domaisèla per femna.
+1	Ara	ara	ADV	Rg	_	3	advmod	_	Gloss=_
+2	me	me	PRON	Pp	_	3	expl	_	Gloss=_
+3	cal	caler	VERB	Vm	_	0	root	_	Gloss=_
+4	aquela	aquel	DET	Dd	_	5	det	_	Gloss=_
+5	domaisèla	domaisèla	NOUN	Nc	_	3	obj	_	Gloss=_
+6	per	per	ADP	Sp	_	7	case	_	Gloss=_
+7	femna	femna	NOUN	Nc	_	3	obl	_	Gloss=_|SpaceAfter=No
+8	.	.	PUNCT	F	_	7	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s53
+# text = -Gents de la vila, quitatz lo dòl e non ploretz plus.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Gents	gents	NOUN	Nc	_	7	vocative	_	Gloss=_
+3	de	de	ADP	Sp	_	5	case	_	Gloss=_
+4	la	lo	DET	Da	_	5	det	_	Gloss=_
+5	vila	vila	NOUN	Nc	_	2	nmod	_	Gloss=_|SpaceAfter=No
+6	,	,	PUNCT	F	_	5	punct	_	Gloss=_
+7	quitatz	quitar	VERB	Vm	_	0	root	_	Gloss=_
+8	lo	lo	DET	Da	_	9	det	_	Gloss=_
+9	dòl	dòl	NOUN	Nc	_	7	obj	_	Gloss=_
+10	e	e	CCONJ	Cc	_	12	cc	_	Gloss=_
+11	non	non	ADV	Rp	_	12	advmod	_	Gloss=_
+12	ploretz	plorar	VERB	Vm	_	7	conj	_	Gloss=_
+13	plus	plus	ADV	Rg	_	12	advmod	_	Gloss=_|SpaceAfter=No
+14	.	.	PUNCT	F	_	13	punct	_	Gloss=_
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s23
+# text = Mon Dieu ! cridèt la filha .
+1	Mon	mon	DET	Ds	_	2	det	_	Gloss=_
+2	Dieu	Dieu	NOUN	Nc	_	0	root	_	Gloss=_
+3	!	!	PUNCT	F	_	2	punct	_	Gloss=_
+4	cridèt	cridar	VERB	Vm	_	2	parataxis	_	Gloss=_
+5	la	lo	DET	Da	_	6	det	_	Gloss=_
+6	filha	filha	NOUN	Nc	_	4	nsubj	_	Gloss=_
+7	.	.	PUNCT	F	_	6	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s43
+# text = Mès se ne cola res, aquò serà bon signe, e podràs sègre ton camin dinca l'ostal.
+1	Mès	mès	ADV	Rg	_	4	advmod	_	Gloss=_
+2	se	se	SCONJ	Px	_	4	mark	_	Gloss=_
+3	ne	ne	PRON	Rp	_	4	iobj	_	Gloss=_
+4	cola	colar	VERB	Vm	_	0	root	_	Gloss=_
+5	res	res	ADV	Rg	_	4	advmod	_	Gloss=_|SpaceAfter=No
+6	,	,	PUNCT	F	_	5	punct	_	Gloss=_
+7	aquò	aquò	PRON	Pd	_	10	nsubj	_	Gloss=_
+8	serà	èsser	AUX	Vm	_	10	cop	_	Gloss=_
+9	bon	bon	ADJ	Af	_	10	amod	_	Gloss=_
+10	signe	signe	NOUN	Nc	_	4	ccomp	_	Gloss=_|SpaceAfter=No
+11	,	,	PUNCT	F	_	10	punct	_	Gloss=_
+12	e	e	CCONJ	Cc	_	13	cc	_	Gloss=_
+13	podràs	poder	VERB	Vm	_	10	conj	_	Gloss=_
+14	sègre	sègre	VERB	Vm	_	13	xcomp	_	Gloss=_
+15	ton	ton	DET	Ds	_	16	det	_	Gloss=_
+16	camin	camin	NOUN	Nc	_	14	obj	_	Gloss=_
+17	dinca	dinca	ADP	Sp	_	19	case	_	Gloss=_
+18	l'	lo	DET	Da	_	19	det	_	Gloss=_|SpaceAfter=No
+19	ostal	ostal	NOUN	Nc	_	14	obl	_	Gloss=_|SpaceAfter=No
+20	.	.	PUNCT	F	_	19	punct	_	Gloss=_
+
+# sent_id = Blader_Contes_gascon.conllu.s19
+# text = La volerí conéguer.
+1	La	lo	PRON	Pp	_	3	obj	_	Gloss=le
+2	volerí	voler	VERB	Vm	_	0	root	_	Gloss=vouloir
+3	conéguer	conéguer	VERB	Vm	_	2	xcomp	_	Gloss=connaître|SpaceAfter=No
+4	.	.	PUNCT	F	_	3	punct	_	Gloss=.
+
+# sent_id = Blader_Agenais_languedocien.conllu.s89
+# text = L'ainat dels bessons derreguèt un pièl de son cap e lo fasquèt passar per la gatonèra ; mès sul còp la tèrra l'avalèt.
+1	L'	lo	DET	Da	_	2	det	_	Gloss=_|SpaceAfter=No
+2	ainat	ainat	NOUN	Nc	_	5	nsubj	_	Gloss=_
+3	dels	de_los	ADP	SDa	_	4	case	_	Gloss=_
+4	bessons	besson	NOUN	Nc	_	2	nmod	_	Gloss=_
+5	derreguèt	derregar	VERB	Vm	_	0	root	_	Gloss=_
+6	un	un	DET	Da	_	7	det	_	Gloss=_
+7	pièl	pièl	NOUN	Nc	_	5	obj	_	Gloss=_
+8	de	de	ADP	Sp	_	10	case	_	Gloss=_
+9	son	son	DET	Ds	_	10	det	_	Gloss=_
+10	cap	cap	NOUN	Nc	_	5	obl	_	Gloss=_
+11	e	e	CCONJ	Cc	_	13	cc	_	Gloss=_
+12	lo	lo	PRON	Pp	_	13	obj	_	Gloss=_
+13	fasquèt	far	VERB	Vm	_	5	conj	_	Gloss=_
+14	passar	passar	VERB	Vm	_	13	xcomp	_	Gloss=_
+15	per	per	ADP	Sp	_	17	case	_	Gloss=_
+16	la	lo	DET	Da	_	17	det	_	Gloss=_
+17	gatonèra	gatonèra	NOUN	Nc	_	14	obl	_	Gloss=_
+18	;	;	PUNCT	F	_	17	punct	_	Gloss=_
+19	mès	mès	CCONJ	Rg	_	25	cc	_	Gloss=_
+20	sul	sul	ADP	SDa	_	21	case	_	Gloss=_
+21	còp	còp	NOUN	Nc	_	25	obl	_	Gloss=_
+22	la	lo	DET	Da	_	23	det	_	Gloss=_
+23	tèrra	tèrra	NOUN	Nc	_	25	nsubj	_	Gloss=_
+24	l'	lo	PRON	Pp	_	25	obj	_	Gloss=_|SpaceAfter=No
+25	avalèt	avalar	VERB	Vm	_	5	conj	_	Gloss=_|SpaceAfter=No
+26	.	.	PUNCT	F	_	25	punct	_	Gloss=_
+
+# sent_id = Barsoti_Niston_provencal.conllu.s13
+# text = Puei, estent la possibilitat de bombardaments, nos avián conselhat d'empegar dessús lei vitras de papiers pegants qu'èran de color marron e plaçats en crotz;
+1	Puei	puei	ADV	Rg	_	11	advmod	_	Gloss=puis|SpaceAfter=No
+2	,	,	PUNCT	F	_	1	punct	_	Gloss=,
+3	estent	èsser	VERB	Vm	_	11	advcl	_	Gloss=être
+4	la	lo	DET	Da	_	5	det	_	Gloss=le
+5	possibilitat	possibilitat	NOUN	Nc	_	3	nsubj	_	Gloss=possibilité
+6	de	de	ADP	Sp	_	7	case	_	Gloss=de
+7	bombardaments	bombardament	NOUN	Nc	_	5	nmod	_	Gloss=bombardement|SpaceAfter=No
+8	,	,	PUNCT	F	_	7	punct	_	Gloss=,
+9	nos	nos	PRON	Pp	_	11	iobj	_	Gloss=nous
+10	avián	aver	AUX	Va	_	11	aux	_	Gloss=avoir
+11	conselhat	conselhar	VERB	Vm	_	0	root	_	Gloss=conseiller
+12	d'	de	ADP	Sp	_	13	mark	_	Gloss=de|SpaceAfter=No
+13	empegar	empegar	VERB	Vm	_	11	xcomp	_	Gloss=coller
+14	dessús	dessús	ADP	Rg	_	16	case	_	Gloss=sur
+15	lei	lo	DET	Da	_	16	det	_	Gloss=le
+16	vitras	vitra	NOUN	Nc	_	13	obl	_	Gloss=vitre
+17	de	de	DET	Dp	_	18	det	_	Gloss=de
+18	papiers	papier	NOUN	Nc	_	13	obj	_	Gloss=papier
+19	pegants	pegar	VERB	Vm	_	18	acl	_	Gloss=coller
+20	qu'	que	PRON	Pr	_	23	nsubj	_	Gloss=que|SpaceAfter=No
+21	èran	èsser	AUX	Vm	_	23	cop	_	Gloss=être
+22	de	de	ADP	Sp	_	23	case	_	Gloss=de
+23	color	color	NOUN	Nc	_	18	acl	_	Gloss=couleur
+24	marron	marron	ADJ	Af	_	23	amod	_	Gloss=marron
+25	e	e	CCONJ	Cc	_	26	cc	_	Gloss=et
+26	plaçats	plaçar	VERB	Vm	_	23	conj	_	Gloss=placer
+27	en	en	ADP	Sp	_	28	case	_	Gloss=en
+28	crotz	crotz	NOUN	Nc	_	26	obl	_	Gloss=croix|SpaceAfter=No
+29	;	;	PUNCT	F	_	28	punct	_	Gloss=;
+
+# sent_id = Blader_Contes_gascon.conllu.s13
+# text = Hè-te mestressas.
+1	Hè	hèr	VERB	Vm	_	0	root	_	Gloss=faire|SpaceAfter=No
+2	-te	te	PRON	Pp	_	1	iobj	_	Gloss=toi
+3	mestressas	mestressa	NOUN	Nc	_	1	obj	_	Gloss=maîtresse|SpaceAfter=No
+4	.	.	PUNCT	F	_	3	punct	_	Gloss=.
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s20
+# text = E de córrer, e de córrer !
+1	E	e	CCONJ	Cc	_	3	cc	_	Gloss=_
+2	de	de	ADP	Sp	_	3	mark	_	Gloss=_
+3	córrer	córrer	VERB	Vm	_	0	root	_	Gloss=_|SpaceAfter=No
+4	,	,	PUNCT	F	_	3	punct	_	Gloss=_
+5	e	e	CCONJ	Cc	_	7	cc	_	Gloss=_
+6	de	de	ADP	Sp	_	7	mark	_	Gloss=_
+7	córrer	córrer	VERB	Vm	_	3	conj	_	Gloss=_
+8	!	!	PUNCT	F	_	7	punct	_	Gloss=_
+
+# sent_id = Ganhaire_Sorne_limousin.conllu.s9
+# text = Quilhs mots durs agueren un efiech curiós : la vesta se tornet montrar a la cima dau mur, entre de las dents subrebelas dins un morre tot regolinant.
+1	Quilhs	queu	DET	Dt	_	2	det	_	Gloss=quel
+2	mots	mot	NOUN	Nc	_	4	nsubj	_	Gloss=mot
+3	durs	dur	ADJ	Af	_	2	amod	_	Gloss=dur
+4	agueren	aver	VERB	Vm	_	0	root	_	Gloss=avoir
+5	un	un	DET	Da	_	6	det	_	Gloss=un
+6	efiech	efiech	NOUN	Nc	_	4	obj	_	Gloss=effet
+7	curiós	curiós	ADJ	Af	_	6	amod	_	Gloss=curieux
+8	:	:	PUNCT	F	_	7	punct	_	Gloss=:
+9	la	lo	DET	Da	_	10	det	_	Gloss=le
+10	vesta	vesta	NOUN	Nc	_	12	nsubj	_	Gloss=veste
+11	se	se	PRON	Px	_	12	obj	_	Gloss=se
+12	tornet	tornar	VERB	Vm	_	4	parataxis	_	Gloss=à_nouveau
+13	montrar	montrar	VERB	Vm	_	12	xcomp	_	Gloss=montrer
+14	a	a	ADP	Sp	_	16	case	_	Gloss=à
+15	la	lo	DET	Da	_	16	det	_	Gloss=le
+16	cima	cima	NOUN	Nc	_	13	obl	_	Gloss=cime
+17-18	dau	_	_	_	_	_	_	_	_
+17	de	de	ADP	Sp	_	19	case	_	Gloss=de
+18	lo	lo	DET	Da	_	19	det	_	Gloss=le
+19	mur	mur	NOUN	Nc	_	16	nmod	_	Gloss=mur|SpaceAfter=No
+20	,	,	PUNCT	F	_	19	punct	_	Gloss=,
+21	entre	entre	ADP	Sp	_	24	case	_	Gloss=entre
+22	de	de	DET	Da	_	24	det	_	Gloss=de|MWE=de_las
+23	las	lo	DET	Da	_	24	det	_	Gloss=le
+24	dents	dent	NOUN	Nc	_	13	obl	_	Gloss=dent
+25	subrebelas	subrebel	ADJ	Af	_	24	amod	_	Gloss=sublime
+26	dins	dins	ADP	Sp	_	28	case	_	Gloss=dans
+27	un	un	DET	Da	_	28	det	_	Gloss=un
+28	morre	morre	NOUN	Nc	_	13	obl	_	Gloss=gueule
+29	tot	tot	ADV	Rg	_	30	advmod	_	Gloss=tout
+30	regolinant	regolinar	VERB	Vm	_	28	acl	_	Gloss=dégouliner|SpaceAfter=No
+31	.	.	PUNCT	F	_	30	punct	_	Gloss=.
+
+# sent_id = Blader_Agenais_languedocien.conllu.s27
+# text = T'ensenharèi un endret ont prendràs de peis tan que vodràs.
+1	T'	te	PRON	Px	_	2	iobj	_	Gloss=_|SpaceAfter=No
+2	ensenharèi	ensenhar	VERB	Vm	_	0	root	_	Gloss=_
+3	un	un	DET	Da	_	4	det	_	Gloss=_
+4	endret	endret	NOUN	Nc	_	2	obj	_	Gloss=_
+5	ont	ont	ADV	Rx	_	6	advmod	_	Gloss=_
+6	prendràs	prene	VERB	Vm	_	4	acl	_	Gloss=_
+7	de	de	DET	Dp	_	8	det	_	Gloss=_
+8	peis	peis	NOUN	Nc	_	6	obj	_	Gloss=_
+9	tan	tan	ADV	Rq	_	6	advmod	_	Gloss=_|MWE=tan_que
+10	que	que	SCONJ	Cs	_	11	mark	_	Gloss=_
+11	vodràs	voler	VERB	Vm	_	6	advcl	_	Gloss=_|SpaceAfter=No
+12	.	.	PUNCT	F	_	11	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s78
+# text = -Femna, ça diguèt lo marit, qu'es aquel ostalet que vesi là-bas?
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Femna	femna	NOUN	Nc	_	9	vocative	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	ça	ça	PRON	Pi	_	5	expl	_	Gloss=_
+5	diguèt	dire	VERB	Vm	_	9	parataxis	_	Gloss=_
+6	lo	lo	DET	Da	_	7	det	_	Gloss=_
+7	marit	marit	NOUN	Nc	_	5	nsubj	_	Gloss=_|SpaceAfter=No
+8	,	,	PUNCT	F	_	7	punct	_	Gloss=_
+9	qu'	que	PRON	Rt	_	0	root	_	Gloss=_|SpaceAfter=No
+10	es	èsser	AUX	Vm	_	9	cop	_	Gloss=_
+11	aquel	aquel	DET	Dd	_	12	det	_	Gloss=_
+12	ostalet	ostalet	NOUN	Nc	_	9	nsubj	_	Gloss=_
+13	que	que	PRON	Pr	_	14	obj	_	Gloss=_
+14	vesi	veire	VERB	Vm	_	12	acl	_	Gloss=_
+15	là-bas	là-bas	ADV	Rg	_	14	advmod	_	Gloss=_|SpaceAfter=No
+16	?	?	PUNCT	F	_	15	punct	_	Gloss=_
+
+# sent_id = Ganhaire_Sorne_limousin.conllu.s7
+# text = La violéncia de la scena entre Lietard e sa femna, la pita chara trista de la filha, Rodòlfe cinic sus son liech d'espitau l'avián empaichat de trobar lo durmir que sas chambas rendudas demandavan pertant de totas lors fòrças.
+1	La	lo	DET	Da	_	2	det	_	Gloss=le
+2	violéncia	violéncia	NOUN	Nc	_	29	nsubj	_	Gloss=violence
+3	de	de	ADP	Sp	_	5	case	_	Gloss=de
+4	la	lo	DET	Da	_	5	det	_	Gloss=le
+5	scena	scena	NOUN	Nc	_	2	nmod	_	Gloss=scène
+6	entre	entre	ADP	Sp	_	7	case	_	Gloss=entre
+7	Lietard	Lietard	PROPN	Np	_	5	nmod	_	Gloss=Lietard
+8	e	e	CCONJ	Cc	_	10	cc	_	Gloss=et
+9	sa	son	DET	Ds	_	10	det	_	Gloss=son
+10	femna	femna	NOUN	Nc	_	7	conj	_	Gloss=femme|SpaceAfter=No
+11	,	,	PUNCT	F	_	10	punct	_	Gloss=,
+12	la	lo	DET	Da	_	14	det	_	Gloss=le
+13	pita	pitit	ADJ	Af	_	14	amod	_	Gloss=petit
+14	chara	chara	NOUN	Nc	_	2	conj	_	Gloss=visage
+15	trista	triste	ADJ	Af	_	14	amod	_	Gloss=triste
+16	de	de	ADP	Sp	_	18	case	_	Gloss=de
+17	la	lo	DET	Da	_	18	det	_	Gloss=le
+18	filha	filha	NOUN	Nc	_	14	nmod	_	Gloss=fille|SpaceAfter=No
+19	,	,	PUNCT	F	_	18	punct	_	Gloss=,
+20	Rodòlfe	Rodòlfe	PROPN	Np	_	2	conj	_	Gloss=Rodolphe
+21	cinic	cinic	ADJ	Af	_	20	xcomp	_	Gloss=cynique
+22	sus	sus	ADP	Sp	_	24	case	_	Gloss=sur
+23	son	son	DET	Ds	_	24	det	_	Gloss=son
+24	liech	liech	NOUN	Nc	_	20	nmod	_	Gloss=lit
+25	d'	de	ADP	Sp	_	26	case	_	Gloss=de|SpaceAfter=No
+26	espitau	espitau	NOUN	Nc	_	24	nmod	_	Gloss=hôpital
+27	l'	lo	PRON	Pp	_	29	obj	_	Gloss=le|SpaceAfter=No
+28	avián	aver	AUX	Va	_	29	aux	_	Gloss=avoir
+29	empaichat	empaichar	VERB	Vm	_	0	root	_	Gloss=empêcher
+30	de	de	ADP	Sp	_	31	mark	_	Gloss=de
+31	trobar	trobar	VERB	Vm	_	29	xcomp	_	Gloss=trouver
+32	lo	lo	DET	Da	_	33	det	_	Gloss=le
+33	durmir	durmir	NOUN	Nc	_	31	obj	_	Gloss=dormir
+34	que	que	PRON	Pr	_	38	obj	_	Gloss=que
+35	sas	son	DET	Ds	_	36	det	_	Gloss=son
+36	chambas	chamba	NOUN	Nc	_	38	nsubj	_	Gloss=jambe
+37	rendudas	rendut	ADJ	Af	_	36	acl	_	Gloss=rendu
+38	demandavan	demandar	VERB	Vm	_	33	acl	_	Gloss=demander
+39	pertant	pertant	ADV	Rg	_	38	advmod	_	Gloss=pourtant
+40	de	de	ADP	Sp	_	43	case	_	Gloss=de
+41	totas	tot	DET	Ai	_	43	det	_	Gloss=tout
+42	lors	lor	DET	Ds	_	43	det	_	Gloss=leur
+43	fòrças	fòrça	NOUN	Nc	_	38	obl	_	Gloss=force|SpaceAfter=No
+44	.	.	PUNCT	F	_	43	punct	_	Gloss=.
+
+# sent_id = Blader_Agenais_languedocien.conllu.s68
+# text = -Bravas gents, èi tiat la Granda Bèstia a sèt caps.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Bravas	brave	ADJ	Af	_	3	amod	_	Gloss=_
+3	gents	gents	NOUN	Nc	_	6	vocative	_	Gloss=_|SpaceAfter=No
+4	,	,	PUNCT	F	_	3	punct	_	Gloss=_
+5	èi	aver	AUX	Vm	_	6	aux	_	Gloss=_
+6	tiat	tiar	VERB	Vm	_	0	root	_	Gloss=_
+7	la	lo	DET	Da	_	9	det	_	Gloss=_
+8	Granda	grand	ADJ	Af	_	9	amod	_	Gloss=_
+9	Bèstia	bèstia	NOUN	Nc	_	6	obj	_	Gloss=_
+10	a	a	ADP	Sp	_	12	case	_	Gloss=_
+11	sèt	7	NUM	Dk	_	12	nummod	_	Gloss=_
+12	caps	cap	NOUN	Nc	_	9	nmod	_	Gloss=_|SpaceAfter=No
+13	.	.	PUNCT	F	_	12	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s67
+# text = Après copèt d'un còp d'espasa las còrdas que ligavan la domaisèla, e la ramenèt en corpa a la vila.
+1	Après	après	ADV	Sp	_	2	advmod	_	Gloss=_
+2	copèt	copar	VERB	Vm	_	0	root	_	Gloss=_
+3	d'	de	ADP	Sp	_	5	case	_	Gloss=_|SpaceAfter=No
+4	un	un	DET	Da	_	5	det	_	Gloss=_
+5	còp	còp	NOUN	Nc	_	2	obl	_	Gloss=_
+6	d'	de	ADP	Sp	_	7	case	_	Gloss=_|SpaceAfter=No
+7	espasa	espasa	NOUN	Nc	_	5	nmod	_	Gloss=_
+8	las	lo	DET	Da	_	9	det	_	Gloss=_
+9	còrdas	còrda	NOUN	Nc	_	2	obj	_	Gloss=_
+10	que	que	PRON	Pr	_	11	nsubj	_	Gloss=_
+11	ligavan	ligar	VERB	Vm	_	9	acl	_	Gloss=_
+12	la	lo	DET	Da	_	13	det	_	Gloss=_
+13	domaisèla	domaisèla	NOUN	Nc	_	11	obj	_	Gloss=_|SpaceAfter=No
+14	,	,	PUNCT	F	_	13	punct	_	Gloss=_
+15	e	e	CCONJ	Cc	_	17	cc	_	Gloss=_
+16	la	lo	PRON	Pp	_	17	nsubj	_	Gloss=_
+17	ramenèt	ramenar	VERB	Vm	_	2	conj	_	Gloss=_
+18	en	en	ADP	Sp	_	19	case	_	Gloss=_
+19	corpa	corpa	NOUN	Nc	_	17	obl	_	Gloss=_
+20	a	a	ADP	Sp	_	22	case	_	Gloss=_
+21	la	lo	DET	Da	_	22	det	_	Gloss=_
+22	vila	vila	NOUN	Nc	_	17	obl	_	Gloss=_|SpaceAfter=No
+23	.	.	PUNCT	F	_	22	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s87
+# text = Non l'enfonçaràs pas.
+1	Non	non	PART	Rp	_	3	advmod	_	Gloss=_
+2	l'	lo	PRON	Pp	_	3	obj	_	Gloss=_|SpaceAfter=No
+3	enfonçaràs	enfonçar	VERB	Vm	_	0	root	_	Gloss=_
+4	pas	pas	ADV	Rg	_	3	advmod	_	Gloss=_|SpaceAfter=No
+5	.	.	PUNCT	F	_	4	punct	_	Gloss=_
+
+# sent_id = Blader_Contes_gascon.conllu.s26
+# text = Còp sec, estèc cambiat en Ausèth d'Aur, e partiscoc, autant viste coma un lambret, dens la gola de la Sèrp-Volaira coronada d'aur.
+1	Còp	còp	NOUN	Nc	_	5	obl	_	Gloss=coup
+2	sec	sec	ADJ	Af	_	1	amod	_	Gloss=sec|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=,
+4	estèc	estar	AUX	Va	_	5	aux	_	Gloss=être
+5	cambiat	cambiar	VERB	Vm	_	0	root	_	Gloss=changer
+6	en	en	ADP	Sp	_	7	case	_	Gloss=en
+7	Ausèth	ausèth	NOUN	Nc	_	5	obl	_	Gloss=oiseau
+8	d'	de	ADP	Sp	_	9	case	_	Gloss=de|SpaceAfter=No
+9	Aur	aur	NOUN	Nc	_	7	nmod	_	Gloss=or|SpaceAfter=No
+10	,	,	PUNCT	F	_	9	punct	_	Gloss=,
+11	e	e	CCONJ	Cc	_	12	cc	_	Gloss=et
+12	partiscoc	partir	VERB	Vm	_	5	conj	_	Gloss=partir|SpaceAfter=No
+13	,	,	PUNCT	F	_	12	punct	_	Gloss=,
+14	autant	autant	ADV	Rg	_	15	advmod	_	Gloss=aussi
+15	viste	viste	ADV	Rg	_	12	obl	_	Gloss=vite
+16	coma	coma	ADP	Sp	_	18	case	_	Gloss=comme
+17	un	un	DET	Da	_	18	det	_	Gloss=un
+18	lambret	lambret	NOUN	Nc	_	15	advcl	_	Gloss=éclair|SpaceAfter=No
+19	,	,	PUNCT	F	_	18	punct	_	Gloss=,
+20	dens	dens	ADP	Sp	_	22	case	_	Gloss=dans
+21	la	lo	DET	Da	_	22	det	_	Gloss=le
+22	gola	gola	NOUN	Nc	_	12	obl	_	Gloss=gueule
+23	de	de	ADP	Sp	_	25	case	_	Gloss=de
+24	la	lo	DET	Da	_	25	det	_	Gloss=le
+25	Sèrp-Volaira	Sèrp-Volaira	PROPN	Np	_	22	nmod	_	Gloss=Serpent-Volant
+26	coronada	coronar	VERB	Vm	_	25	acl	_	Gloss=couronner
+27	d'	de	ADP	Sp	_	28	case	_	Gloss=de|SpaceAfter=No
+28	aur	aur	NOUN	Nc	_	26	obl	_	Gloss=or|SpaceAfter=No
+29	.	.	PUNCT	F	_	28	punct	_	Gloss=.
+
+# sent_id = Blader_Agenais_languedocien.conllu.s24
+# text = -Non, Gròs Peis.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Non	non	ADV	Rg	_	0	root	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	Gròs	gròs	ADJ	Af	_	5	amod	_	Gloss=_
+5	Peis	peis	NOUN	Nc	_	2	vocative	_	Gloss=_|SpaceAfter=No
+6	.	.	PUNCT	F	_	5	punct	_	Gloss=_
+
+# sent_id = Barsoti_Niston_provencal.conllu.s10
+# text = Mai segur que ren es etèrne dins la vida, e que ren es jamai ganhat o perdut definitivament.
+1	Mai	mai	ADV	Rq	_	2	advmod	_	Gloss=mais
+2	segur	segur	ADJ	Af	_	0	root	_	Gloss=sûr
+3	que	que	SCONJ	Cs	_	6	mark	_	Gloss=que
+4	ren	ren	PRON	Pi	_	6	nsubj	_	Gloss=rien
+5	es	èsser	AUX	Vm	_	6	cop	_	Gloss=être
+6	etèrne	eterne	ADJ	Af	_	2	ccomp	_	Gloss=éternel
+7	dins	dins	ADP	Sp	_	9	case	_	Gloss=dans
+8	la	lo	DET	Da	_	9	det	_	Gloss=le
+9	vida	vida	NOUN	Nc	_	6	obl	_	Gloss=vie|SpaceAfter=No
+10	,	,	PUNCT	F	_	9	punct	_	Gloss=,
+11	e	e	CCONJ	Cc	_	16	cc	_	Gloss=et
+12	que	que	SCONJ	Cs	_	16	mark	_	Gloss=que
+13	ren	ren	PRON	Pi	_	16	nsubj	_	Gloss=rien
+14	es	èsser	AUX	Vm	_	16	aux	_	Gloss=être
+15	jamai	jamai	ADV	Rg	_	16	advmod	_	Gloss=jamais
+16	ganhat	ganhar	VERB	Vm	_	6	conj	_	Gloss=gagner
+17	o	o	CCONJ	Cc	_	18	cc	_	Gloss=ou
+18	perdut	pèrdre	VERB	Vm	_	16	conj	_	Gloss=perdre
+19	definitivament	definitivament	ADV	Rg	_	16	advmod	_	Gloss=définitivement|SpaceAfter=No
+20	.	.	PUNCT	F	_	19	punct	_	Gloss=.
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s22
+# text = S'ausiguèt una votz rauca : Filha, te daissam la vida sauva se per bon grat t'abandonas a nosautres.
+1	S'	se	PRON	Px	_	2	expl	_	Gloss=_|SpaceAfter=No
+2	ausiguèt	ausir	VERB	Vm	_	0	root	_	Gloss=_
+3	una	un	DET	Da	_	4	det	_	Gloss=_
+4	votz	votz	NOUN	Nc	_	2	obj	_	Gloss=_
+5	rauca	rauc	ADJ	Af	_	4	amod	_	Gloss=_
+6	:	:	PUNCT	F	_	5	punct	_	Gloss=_
+7	Filha	filha	NOUN	Nc	_	10	vocative	_	Gloss=_|SpaceAfter=No
+8	,	,	PUNCT	F	_	7	punct	_	Gloss=_
+9	te	te	PRON	Pp	_	10	iobj	_	Gloss=_
+10	daissam	daissar	VERB	Vm	_	2	parataxis	_	Gloss=_
+11	la	lo	DET	Da	_	12	det	_	Gloss=_
+12	vida	vida	NOUN	Nc	_	10	obj	_	Gloss=_
+13	sauva	sauve	ADJ	Af	_	12	amod	_	Gloss=_
+14	se	se	SCONJ	Cs	_	19	mark	_	Gloss=_
+15	per	per	ADP	Sp	_	17	case	_	Gloss=_
+16	bon	bon	ADJ	Af	_	17	amod	_	Gloss=_
+17	grat	grat	NOUN	Nc	_	19	obl	_	Gloss=_
+18	t'	te	PRON	Pp	_	19	obj	_	Gloss=_|SpaceAfter=No
+19	abandonas	abandonar	VERB	Vm	_	10	ccomp	_	Gloss=_
+20	a	a	ADP	Sp	_	21	case	_	Gloss=_
+21	nosautres	nosautre	PRON	Pp	_	19	iobj	_	Gloss=_|SpaceAfter=No
+22	.	.	PUNCT	F	_	21	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s85
+# text = -Obrètz, o enfonci la pòrta !
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Obrètz	obrir	VERB	Vm	_	0	root	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	o	o	CCONJ	Cc	_	5	cc	_	Gloss=_
+5	enfonci	enfonçar	VERB	Vm	_	2	conj	_	Gloss=_
+6	la	lo	DET	Da	_	7	det	_	Gloss=_
+7	pòrta	pòrta	NOUN	Nc	_	5	obj	_	Gloss=_
+8	!	!	PUNCT	F	_	7	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s84
+# text = -Que demandas ?
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Que	que	PRON	Rt	_	3	obj	_	Gloss=_
+3	demandas	demandar	VERB	Vm	_	0	root	_	Gloss=_
+4	?	?	PUNCT	F	_	3	punct	_	Gloss=_
+
+# sent_id = Blader_Agenais_languedocien.conllu.s26
+# text = -Òme, daisha-me anar.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=_|SpaceAfter=No
+2	Òme	òme	NOUN	Nc	_	4	vocative	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	daisha	daishar	VERB	Vm	_	0	root	_	Gloss=_|SpaceAfter=No
+5	-me	me	PRON	Pp	_	4	obj	_	Gloss=_
+6	anar	anar	VERB	Vm	_	4	xcomp	_	Gloss=_|SpaceAfter=No
+7	.	.	PUNCT	F	_	6	punct	_	Gloss=_
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s21
+# text = Qual sap se las bèstias la ganharián pas ?
+1	Qual	qual	PRON	Pt	_	2	nsubj	_	Gloss=_
+2	sap	saber	VERB	Vm	_	0	root	_	Gloss=_
+3	se	se	SCONJ	Cs	_	7	mark	_	Gloss=_
+4	las	lo	DET	Da	_	5	det	_	Gloss=_
+5	bèstias	bèstia	NOUN	Nc	_	7	nsubj	_	Gloss=_
+6	la	lo	PRON	Px	_	7	obj	_	Gloss=_
+7	ganharián	ganhar	VERB	Vm	_	2	ccomp	_	Gloss=_
+8	pas	pas	ADV	Rg	_	7	advmod	_	Gloss=
+9	?	?	PUNCT	F	_	8	punct	_	Gloss=_
+
+# sent_id = Barsoti_Niston_provencal.conllu.s8
+# text = Car se mon paire charrava l'italian ambé sei gents, èra pas lo cas ambé ma maire que conoissiá pas un mot d'aquesta lenga.
+1	Car	car	CCONJ	Cc	_	5	cc	_	Gloss=car
+2	se	se	SCONJ	Cs	_	5	mark	_	Gloss=si
+3	mon	mon	DET	Ds	_	4	det	_	Gloss=mon
+4	paire	paire	NOUN	Nc	_	5	nsubj	_	Gloss=père
+5	charrava	charrar	VERB	Vm	_	15	advcl	_	Gloss=parler
+6	l'	lo	DET	Da	_	7	det	_	Gloss=le|SpaceAfter=No
+7	italian	italian	NOUN	Nc	_	5	obj	_	Gloss=italien
+8	ambé	ambé	ADP	Sp	_	10	case	_	Gloss=avec
+9	sei	son	DET	Ds	_	10	det	_	Gloss=son
+10	gents	gent	NOUN	Nc	_	5	obl	_	Gloss=gent|SpaceAfter=No
+11	,	,	PUNCT	F	_	10	punct	_	Gloss=,
+12	èra	èsser	AUX	Vm	_	15	cop	_	Gloss=être
+13	pas	pas	ADV	Rg	_	15	advmod	_	Gloss=pas
+14	lo	lo	DET	Da	_	15	det	_	Gloss=le
+15	cas	cas	NOUN	Nc	_	0	root	_	Gloss=cas
+16	ambé	ambé	ADP	Sp	_	18	case	_	Gloss=avec
+17	ma	mon	DET	Ds	_	18	det	_	Gloss=mon
+18	maire	maire	NOUN	Nc	_	15	obl	_	Gloss=mère
+19	que	que	PRON	Pr	_	20	nsubj	_	Gloss=qui
+20	conoissiá	conóisser	VERB	Vm	_	18	acl	_	Gloss=connaître
+21	pas	pas	ADV	Rg	_	20	advmod	_	Gloss=pas
+22	un	un	DET	Da	_	23	det	_	Gloss=un
+23	mot	mot	NOUN	Nc	_	20	obj	_	Gloss=mot
+24	d'	de	ADP	Sp	_	26	case	_	Gloss=de|SpaceAfter=No
+25	aquesta	aqueste	DET	Dd	_	26	det	_	Gloss=cet
+26	lenga	lenga	NOUN	Nc	_	23	nmod	_	Gloss=langue|SpaceAfter=No
+27	.	.	PUNCT	F	_	26	punct	_	Gloss=.
+
+# sent_id = Bodon_Drac_2_languedocien.conllu.s34
+# text = L'òme, demorat tot sol, amb la rispa sarrava las cendres sul fuòc, atudava lo lum e se n'anava defòra.
+1	L'	lo	DET	Da	_	2	det	_	Gloss=_|SpaceAfter=No
+2	òme	òme	NOUN	Nc	_	11	nsubj	_	Gloss=_|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=_
+4	demorat	demorar	VERB	Vm	_	2	acl	_	Gloss=_
+5	tot	tot	DET	Ai	_	6	det	_	Gloss=_
+6	sol	sol	ADJ	Af	_	4	xcomp	_	Gloss=_|SpaceAfter=No
+7	,	,	PUNCT	F	_	6	punct	_	Gloss=_
+8	amb	amb	ADP	Sp	_	10	case	_	Gloss=_
+9	la	lo	DET	Da	_	10	det	_	Gloss=_
+10	rispa	rispa	NOUN	Nc	_	11	obl	_	Gloss=_
+11	sarrava	sarrar	VERB	Vm	_	0	root	_	Gloss=_
+12	las	lo	DET	Da	_	13	det	_	Gloss=_
+13	cendres	cendre	NOUN	Nc	_	11	obj	_	Gloss=_
+14-15	sul	_	_	_	_	_	_	_	_
+14	sus	sus	ADP	Sp	_	16	case	_	Gloss=sur
+15	lo	lo	DET	Da	_	16	det	_	Gloss=le
+16	fuòc	fuòc	NOUN	Nc	_	11	obl	_	Gloss=_|SpaceAfter=No
+17	,	,	PUNCT	F	_	16	punct	_	Gloss=_
+18	atudava	atudar	VERB	Vm	_	11	conj	_	Gloss=_
+19	lo	lo	DET	Da	_	20	det	_	Gloss=_
+20	lum	lum	NOUN	Nc	_	18	obj	_	Gloss=_
+21	e	e	CCONJ	Cc	_	24	cc	_	Gloss=_
+22	se	se	PRON	Px	_	24	expl	_	Gloss=_
+23	n'	ne	PRON	Pp	_	24	expl	_	Gloss=_|SpaceAfter=No
+24	anava	anar	VERB	Vm	_	11	conj	_	Gloss=_
+25	defòra	defòra	ADV	Rg	_	24	advmod	_	Gloss=_|SpaceAfter=No
+26	.	.	PUNCT	F	_	25	punct	_	Gloss=_
+
+# sent_id = Blader_Contes_gascon.conllu.s10
+# text = -Escota, men.
+1	-	-	PUNCT	F	_	2	punct	_	Gloss=-|SpaceAfter=No
+2	Escota	escotar	VERB	Vm	_	0	root	_	Gloss=écouter|SpaceAfter=No
+3	,	,	PUNCT	F	_	2	punct	_	Gloss=,
+4	men	men	PRON	As	_	2	vocative	_	Gloss=moi|SpaceAfter=No
+5	.	.	PUNCT	F	_	4	punct	_	Gloss=.
+
+# sent_id = Ganhaire_Sorne_limousin.conllu.s3
+# text = mas quò fuguet pas per li tornar la bona umor.
+1	mas	mas	CCONJ	Cc	_	3	cc	_	Gloss=mais
+2	quò	quò	PRON	Pd	_	3	nsubj	_	Gloss=cela
+3	fuguet	èsser	VERB	Vm	_	0	root	_	Gloss=être
+4	pas	pas	ADV	Rg	_	3	advmod	_	Gloss=pas
+5	per	per	ADP	Sp	_	7	mark	_	Gloss=pour
+6	li	i	PRON	Pp	_	7	iobj	_	Gloss=lui
+7	tornar	tornar	VERB	Vm	_	3	advcl	_	Gloss=rendre
+8	la	lo	DET	Da	_	10	det	_	Gloss=le
+9	bona	bon	ADJ	Af	_	10	amod	_	Gloss=bon
+10	umor	umor	NOUN	Nc	_	7	obj	_	Gloss=humeur|SpaceAfter=No
+11	.	.	PUNCT	F	_	10	punct	_	Gloss=.
+
