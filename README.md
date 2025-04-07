@@ -25,17 +25,17 @@
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.7
-License: CC BY-SA 4.0
+Data available since: UD v2.16
+License: CC BY-SA-NC 4.0
 Includes text: yes
-Genre: nonfiction news
+Genre: fiction nonfiction news
 Lemmas: manual native
 UPOS: manual native
-XPOS: not available
+XPOS: manual
 Features: not available
 Relations: manual native
-Contributors: Haddad, Aleksandra
+Contributors: Miletić, Aleksandra;  Bras, Myriam; Esher, Louise; Poujade, Clamença; Sibille, Jean; Vergez-Couret, Marianne;
 Contributing: elsewhere
-Contact: aleksandra.miletic@univ-tlse2.fr
+Contact: aleksandra.miletic-haddad@cnrs.fr
 ===============================================================================
 </pre>
