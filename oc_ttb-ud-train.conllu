@@ -11376,15 +11376,14 @@
 
 # sent_id = Bodon_Drac_languedocien.conllu.s19
 # text = Los Dracons de levar lo cap e de partir a l'escorsa cadun darrièr son caval.
-# tags = ASAP, de+Vinf: de cannot be expletive (reserved for PRONs)
 1	Los	lo	DET	Da	_	2	det	_	Gloss=le
 2	Dracons	dracon	NOUN	Nc	_	4	nsubj	_	Gloss=dracon
-3	de	de	ADP	Sp	_	4	expl	_	Gloss=de
+3	de	de	PART	Sp	_	4	mark	_	Gloss=de
 4	levar	levar	VERB	Vm	_	0	root	_	Gloss=lever
 5	lo	lo	DET	Da	_	6	det	_	Gloss=le
 6	cap	cap	NOUN	Nc	_	4	obj	_	Gloss=tête
 7	e	e	CCONJ	Cc	_	9	cc	_	Gloss=et
-8	de	de	ADP	Sp	_	9	expl	_	Gloss=de
+8	de	de	PART	Sp	_	9	mark	_	Gloss=de
 9	partir	partir	VERB	Vm	_	4	conj	_	Gloss=partir
 10	a	a	ADP	Sp	_	12	case	_	Gloss=a
 11	l'	lo	DET	Da	_	12	det	_	Gloss=le|SpaceAfter=No
@@ -20421,9 +20420,9 @@
 
 # sent_id = Pessamessa_Viatge_provencal.conllu.s9
 # text = En de qué semblava aquela vòlha, aquela alegressa que m'aviá agantat per anar a l'endavant d'una enigma ?
-1	En	en	ADP	Sp	_	3	case	_	Gloss=à
-2	de	de	ADP	Sp	_	3	expl	_	Gloss=de|MWE=de_qué
-3	qué	qué	PRON	Pt	_	4	obl	_	Gloss=que
+1	En	en	ADP	Sp	_	2	case	_	Gloss=à
+2	de	de	ADP	Sp	ExtPos=PRON	4	obl	_	Gloss=de|MWE=de_qué
+3	qué	qué	PRON	Pt	_	2	fixed	_	Gloss=que
 4	semblava	semblar	VERB	Vm	_	0	root	_	Gloss=sembler
 5	aquela	aquel	DET	Dd	_	6	det	_	Gloss=ce
 6	vòlha	vòlha	NOUN	Nc	_	4	nsubj	_	Gloss=volonté|SpaceAfter=No
@@ -20737,7 +20736,7 @@
 # sent_id = Laus_Delcaire_languedocien.conllu.s22
 # text = Aquò's pas grèu, n'i a pas dins las cambras del sieu ostal.
 1	Aquò	aquò	PRON	Pd	_	4	nsubj	_	Gloss=_|SpaceAfter=No
-2	's	s	AUX	Vm	_	4	cop	_	Gloss=_
+2	's	èsser	AUX	Vm	_	4	cop	_	Gloss=_
 3	pas	pas	ADV	Rg	_	4	advmod	_	Gloss=_
 4	grèu	grèu	ADJ	Rg	_	0	root	_	Gloss=_|SpaceAfter=No
 5	,	,	PUNCT	F	_	4	punct	_	Gloss=_
@@ -23885,8 +23884,8 @@
 23	país	país	NOUN	Nc	_	20	nmod	_	Gloss=pays
 24	qu'	que	PRON	Pr	_	25	nsubj	_	Gloss=qui|SpaceAfter=No
 25	explican	explicar	VERB	Vm	_	23	acl	_	Gloss=expliquer
-26	se	se	SCONJ	Rp	_	27	expl	_	Gloss=se
-27	quin	quin	ADV	Rx	_	32	obl	_	Gloss=comment
+26	se	se	ADV	Rp	ExtPos=ADV	32	advmod	_	Gloss=se
+27	quin	quin	ADV	Rx	_	26	fixed	_	Gloss=comment
 28	aquera	aqueth	DET	Dd	_	29	det	_	Gloss=cet
 29	societat	societat	NOUN	Nc	_	32	nsubj	_	Gloss=société
 30	montanhòla	montanhòu	ADJ	Af	_	29	amod	_	Gloss=montagnard
