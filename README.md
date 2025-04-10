@@ -1,20 +1,26 @@
 # Summary
-
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
-
+Tolosa Treebank was developed as part of the EFA 227/16 LINGUATEC Project, financed by the POCTEFA Interreg European funds.
+It includes data from literature, newspapers, encyclopedia, scientific papers and web blogs.
 
 # Introduction
 
-...
+The current version of the treebank contains 25K tokens annotated for PoS tags, lemmas and syntactic dependencies. Four major dialects are represented: Lengadocian, Gascon, Lemosin and Provençau. Note, however, that the data is heavily skewed towards Lengadocian.
 
 
 # Acknowledgments
 
-...
+Corpus team:
+
+- Myriam Bras (Toulouse University)
+- Louise Esher (CNRS)
+- Aleksandra Miletić (CNRS)
+- Clamença Poujade (Toulouse University)
+- Jean Sibille (Toulouse University)
+- Marianne Vergez-Couret (Poitiers University)
 
 ## References
 
-* (citation)
+Aleksandra Miletic, Myriam Bras, Marianne Vergez-Couret, Louise Esher, Clamença Poujade, and Jean Sibille. 2020. A Four-Dialect Treebank for Occitan: Building Process and Parsing Experiments. In Proceedings of the 7th Workshop on NLP for Similar Languages, Varieties and Dialects, pages 140–149, Barcelona, Spain (Online). International Committee on Computational Linguistics (ICCL).
 
 
 # Changelog
