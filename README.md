@@ -31,7 +31,7 @@ Includes text: yes
 Genre: fiction nonfiction news
 Lemmas: manual native
 UPOS: manual native
-XPOS: manual
+XPOS: manual native
 Features: not available
 Relations: manual native
 Contributors: Miletić, Aleksandra; Bras, Myriam; Esher, Louise; Poujade, Clamença; Sibille, Jean; Vergez-Couret, Marianne
