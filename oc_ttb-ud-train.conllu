@@ -1373,7 +1373,7 @@
 12	de	de	ADP	Sp	_	13	case	_	Gloss=_
 13	fust	fust	NOUN	Nc	_	11	nmod	_	Gloss=_
 14	de	de	ADP	Sp	_	16	case	_	Gloss=_
-15	quatre	quatre	NUM	Dk	_	16	nummod	_	Gloss=_
+15	quatre	4	NUM	Dk	_	16	nummod	_	Gloss=_
 16	palms	palm	NOUN	Nc	_	13	nmod	_	Gloss=_
 17	de	de	ADP	Sp	_	18	case	_	Gloss=_
 18	long	long	ADJ	Af	_	16	amod	_	Gloss=_|SpaceAfter=No
@@ -1753,7 +1753,7 @@
 8	grisàs	grisàs	ADJ	Af	_	7	amod	_	Gloss=_
 9	entremièg	entremièg	ADP	Sp	_	12	case	_	Gloss=_
 10	sos	son	DET	Ds	_	12	det	_	Gloss=_
-11	quatre	quatre	NUM	Ak	_	12	nummod	_	Gloss=_
+11	quatre	4	NUM	Ak	_	12	nummod	_	Gloss=_
 12	cadelons	cadelon	NOUN	Nc	_	7	nmod	_	Gloss=_
 13	que	que	PRON	Pr	_	15	obj	_	Gloss=_
 14	se	se	PRON	Px	_	15	expl	_	Gloss=_
@@ -3140,8 +3140,8 @@
 1	-	-	PUNCT	F	_	2	punct	_	Gloss=_
 2	Aqueles	aquel	DET	Dd	_	3	det	_	Gloss=_
 3	peisses	peis	NOUN	Nc	_	9	dislocated	_	Gloss=_
-4	qualqu'	qualque	PRON	Pi	ExtPos=PRON	9	nsubj	_	Gloss=quelque|MWE=qualqu'_un
-5	un	un	NUM	Pk	_	4	fixed	_	Gloss=un
+4	qualqu'	qualque	DET	Pi	ExtPos=PRON	9	nsubj	_	Gloss=quelque|MWE=qualqu'_un
+5	un	un	PRON	Pk	_	4	fixed	_	Gloss=un
 6	los	lo	PRON	Pp	_	9	obj	_	Gloss=_
 7	vos	vos	PRON	Pp	_	9	iobj	_	Gloss=_
 8	aviá	aver	AUX	Vm	_	9	aux	_	Gloss=_
@@ -3180,7 +3180,7 @@
 16	passar	passar	VERB	Vm	_	12	xcomp	_	Gloss=_
 17	a	a	ADP	Sp	_	19	case	_	Gloss=_
 18	mantunes	mantun	DET	Di	_	19	det	_	Gloss=_
-19	milions	milion	NUM	Nk	_	16	obl	_	Gloss=_
+19	milions	milion	NOUN	Nk	_	16	obl	_	Gloss=_
 20	de	de	ADP	Sp	_	21	case	_	Gloss=_
 21	mots	mot	NOUN	Nc	_	19	nmod	_	Gloss=_|SpaceAfter=No
 22	.	.	PUNCT	F	_	21	punct	_	Gloss=_
@@ -4352,7 +4352,7 @@
 12	coma	coma	ADP	Sp	_	13	case	_	Gloss=_
 13	aprendís	aprendís	NOUN	Nc	_	11	obl	_	Gloss=_
 14	dins	dins	ADP	Sp	_	15	case	_	Gloss=_
-15	un	un	NUM	Pk	_	11	obl	_	Gloss=_
+15	un	un	PRON	Pk	_	11	obl	_	Gloss=_
 16-17	dels	_	_	_	_	_	_	_	_
 16	de	de	ADP	Sp	_	18	case	_	Gloss=de
 17	los	lo	DET	Da	_	18	det	_	Gloss=le
@@ -8954,8 +8954,8 @@
 # text = Segur que qualqu'un o quicòm èra passat per la carraleta del mas.
 1	Segur	segur	ADJ	Rq	_	0	root	_	Gloss=sûr
 2	que	que	SCONJ	Cs	_	8	mark	_	Gloss=que
-3	qualqu'	qualque	PRON	Pi	ExtPos=PRON	8	nsubj	_	Gloss=quelque|MWE=qualqu'_un|SpaceAfter=No
-4	un	un	NUM	Pk	_	3	fixed	_	Gloss=un
+3	qualqu'	qualque	DET	Pi	ExtPos=PRON	8	nsubj	_	Gloss=quelque|MWE=qualqu'_un|SpaceAfter=No
+4	un	un	PRON	Pk	_	3	fixed	_	Gloss=un
 5	o	o	CCONJ	Cc	_	6	cc	_	Gloss=ou
 6	quicòm	quicòm	PRON	Pi	_	3	conj	_	Gloss=quelque_chose
 7	èra	èsser	AUX	Va	_	8	aux	_	Gloss=être
@@ -9564,10 +9564,10 @@
 28	a	a	SCONJ	Sp	_	30	mark	_	Gloss=_
 29	lo	lo	PRON	Da	_	30	obj	_	Gloss=_
 30	coar	coar	VERB	Nc	_	26	xcomp	_	Gloss=_
-31	un	un	DET	Da	_	32	det	_	Gloss=_
+31	un	1	NUM	Da	_	32	det	_	Gloss=_
 32	jorn	jorn	NOUN	Nc	_	30	obl	_	Gloss=_
 33	o	o	CCONJ	Cc	_	34	cc	_	Gloss=_
-34	dos	dos	NUM	Pk	_	32	orphan	_	Gloss=_|SpaceAfter=No
+34	dos	2	NUM	Pk	_	32	orphan	_	Gloss=_|SpaceAfter=No
 35	,	,	PUNCT	F	_	34	punct	_	Gloss=_
 36	aquò	aquò	PRON	Pd	_	37	nsubj	_	Gloss=_
 37	sufirà	sufire	VERB	Vm	_	10	parataxis	_	Gloss=_|SpaceAfter=No
@@ -9582,14 +9582,14 @@
 5	a	aver	VERB	Vm	_	2	ccomp	_	Gloss=_
 6	mai	mai	DET	Rg	ExtPos=DET	9	det	_	Gloss=_
 7	de	de	ADP	Sp	_	6	fixed	_	Gloss=_
-8	cent	cent	NUM	Dk	_	9	nummod	_	Gloss=_
+8	cent	100	NUM	Dk	_	9	nummod	_	Gloss=_
 9	capèlas	capèla	NOUN	Nc	_	5	obj	_	Gloss=_
 10	e	e	CCONJ	Cc	_	11	cc	_	Gloss=_
 11	capeletas	capeleta	NOUN	Nc	_	9	conj	_	Gloss=_|SpaceAfter=No
 12	.	.	PUNCT	F	_	11	punct	_	Gloss=_
 
 # sent_id = Marti_Miramont_2_languedocien.conllu.s14
-# text = Sus la taula, la cafetièira e quatre vèires, ont demoravan qualques gotas de cafè : los dels quatre portaires qu'èran venguts quèrre la caisssa del paure Tòni.
+# text = Sus la taula, la cafetièira e quatre vèires, ont demoravan qualques gotas de cafè : los dels quatre portaires qu'èran venguts quèrre la caissa del paure Tòni.
 1	Sus	sus	ADP	Sp	_	3	case	_	Gloss=_
 2	la	lo	DET	Da	_	3	det	_	Gloss=_
 3	taula	taula	NOUN	Nc	_	0	root	_	Gloss=_|SpaceAfter=No
@@ -9597,7 +9597,7 @@
 5	la	lo	DET	Da	_	6	det	_	Gloss=_
 6	cafetièira	cafetièira	NOUN	Nc	_	3	parataxis	_	Gloss=_
 7	e	e	CCONJ	Cc	_	9	cc	_	Gloss=_
-8	quatre	quatre	NUM	Dk	_	9	nummod	_	Gloss=_
+8	quatre	4	NUM	Dk	_	9	nummod	_	Gloss=_
 9	vèires	vèire	NOUN	Nc	_	6	conj	_	Gloss=_|SpaceAfter=No
 10	,	,	PUNCT	F	_	9	punct	_	Gloss=_
 11	ont	ont	CCONJ	Cc	_	12	cc	_	Gloss=_
@@ -9611,14 +9611,14 @@
 19-20	dels	_	_	_	_	_	_	_	_
 19	de	de	ADP	Sp	_	22	case	_	Gloss=de
 20	los	lo	DET	Da	_	22	det	_	Gloss=le
-21	quatre	quatre	NUM	Ak	_	22	nummod	_	Gloss=_
+21	quatre	4	NUM	Ak	_	22	nummod	_	Gloss=_
 22	portaires	portaire	NOUN	Nc	_	18	nmod	_	Gloss=_
 23	qu'	que	PRON	Pr	_	25	nsubj	_	Gloss=_|SpaceAfter=No
 24	èran	èsser	AUX	Vm	_	25	aux	_	Gloss=_
 25	venguts	venir	VERB	Vm	_	22	acl	_	Gloss=_
 26	quèrre	quèrre	VERB	Vm	_	25	xcomp	_	Gloss=_
 27	la	lo	DET	Da	_	28	det	_	Gloss=_
-28	caisssa	caissa	NOUN	Nc	_	26	obj	_	Gloss=_
+28	caissa	caissa	NOUN	Nc	_	26	obj	_	Gloss=_
 29-30	del	_	_	_	_	_	_	_	_
 29	de	de	ADP	Sp	_	32	case	_	Gloss=de
 30	lo	lo	DET	Da	_	32	det	_	Gloss=le
@@ -10169,8 +10169,8 @@
 11	lo	lo	DET	Da	_	12	det	_	Gloss=_
 12	pas	pas	NOUN	Nc	_	3	obj	_	Gloss=_
 13	de	de	ADP	Sp	_	14	case	_	Gloss=_
-14	qualqu'	qualque	PRON	Pi	ExtPos=PRON	12	nmod	_	Gloss=quelque|MWE=qualqu'_un|SpaceAfter=No
-15	un	un	NUM	Pk	_	14	fixed	_	Gloss=un|SpaceAfter=No
+14	qualqu'	qualque	DET	Pi	ExtPos=DET	12	nmod	_	Gloss=quelque|MWE=qualqu'_un|SpaceAfter=No
+15	un	un	PRON	Pk	_	14	fixed	_	Gloss=un|SpaceAfter=No
 16	.	.	PUNCT	F	_	15	punct	_	Gloss=_
 
 # sent_id = Jornalet_1214_Beret_gascon.conllu.s12
@@ -10471,7 +10471,7 @@
 7	es	èsser	AUX	Va	_	8	aux	_	Gloss=_
 8	despartit	despartir	VERB	Vm	_	0	root	_	Gloss=_
 9	en	en	ADP	Sp	_	11	case	_	Gloss=_
-10	dos	dos	NUM	Dk	_	11	nummod	_	Gloss=_
+10	dos	2	NUM	Dk	_	11	nummod	_	Gloss=_
 11	camps	camp	NOUN	Nc	_	8	obl	_	Gloss=_
 12	per	per	ADP	Sp	_	14	case	_	Gloss=_
 13	una	un	DET	Da	_	14	det	_	Gloss=_
@@ -11374,7 +11374,7 @@
 3	es	èsser	AUX	Va	_	4	aux	_	Gloss=_
 4	organizat	organizar	VERB	Vm	_	0	root	_	Gloss=_
 5	en	en	ADP	Sp	_	7	case	_	Gloss=_
-6	dos	dos	NUM	Dk	_	7	nummod	_	Gloss=_
+6	dos	2	NUM	Dk	_	7	nummod	_	Gloss=_
 7	cèrcles	cèrcle	NOUN	Nc	_	4	obl	_	Gloss=_
 8	concentrics	concentric	ADJ	Af	_	7	amod	_	Gloss=_
 9	:	:	PUNCT	F	_	8	punct	_	Gloss=_
@@ -13281,7 +13281,7 @@
 12	dempuèi	dempuèi	SCONJ	Sp	_	16	case	_	Gloss=_
 13	mai	mai	ADV	Rq	ExtPos=DET	16	det	_	Gloss=_|MWE=mai_de
 14	d'	de	ADP	Sp	_	13	fixed	_	Gloss=_|SpaceAfter=No
-15	un	un	NUM	Da	_	16	nummod	_	Gloss=_
+15	un	1	NUM	Da	_	16	nummod	_	Gloss=_
 16	sègle	sègle	NOUN	Nc	_	8	obl	_	Gloss=_|SpaceAfter=No
 17	,	,	PUNCT	F	_	16	punct	_	Gloss=_
 18	dominan	dominar	VERB	Vm	_	0	root	_	Gloss=_
@@ -13768,7 +13768,7 @@
 8	espòrt	espòrt	NOUN	Nc	_	0	root	_	Gloss=_
 9	collectiu	collectiu	ADJ	Af	_	8	amod	_	Gloss=_
 10	de	de	ADP	Sp	_	12	case	_	Gloss=_
-11	doas	dos	NUM	Dk	_	12	nummod	_	Gloss=_
+11	doas	2	NUM	Dk	_	12	nummod	_	Gloss=_
 12	còlas	còla	NOUN	Nc	_	8	nmod	_	Gloss=_
 13	de	de	ADP	Sp	_	15	case	_	Gloss=_
 14	cinc	5	NUM	Dk	_	15	nummod	_	Gloss=_
@@ -14704,8 +14704,8 @@
 2	una	un	DET	Da	_	3	det	_	Gloss=_
 3	presentacion	presentacion	NOUN	Nc	_	1	obj	_	Gloss=_
 4	de	de	ADP	Sp	_	5	case	_	Gloss=_
-5	qualques	qualque	ADJ	Ai	ExtPos=PRON	3	nmod	_	Gloss=_|MWE=qualqu'_un
-6	unes	un	NUM	Pk	_	5	fixed	_	Gloss=_
+5	qualques	qualque	DET	Ai	ExtPos=PRON	3	nmod	_	Gloss=_|MWE=qualqu'_un
+6	unes	un	PRON	Pk	_	5	fixed	_	Gloss=_
 7	:	:	PUNCT	F	_	6	punct	_	Gloss=_
 8	La	lo	DET	Da	_	9	det	_	Gloss=_
 9	coardèla	coardèla	NOUN	Nc	_	13	nsubj	_	Gloss=_
@@ -14955,7 +14955,7 @@
 13	.	.	PUNCT	F	_	12	punct	_	Gloss=_
 
 # sent_id = Laus_Delcaire_languedocien.conllu.s54
-# text = Lo se vira, lo se revira  d' aquí que, d'un còp, lo metòde li venga per resòlvre la question ont buta dempuèi dos jorns.
+# text = Lo se vira, lo se revira d' aquí que, d'un còp, lo metòde li venga per resòlvre la question ont buta dempuèi dos jorns.
 1	Lo	lo	PRON	Da	_	3	nsubj	_	Gloss=_
 2	se	se	PRON	Px	_	3	obj	_	Gloss=_
 3	vira	virar	VERB	Vm	_	0	root	_	Gloss=_|SpaceAfter=No
@@ -14982,7 +14982,7 @@
 24	ont	ont	PRON	Pr	_	25	obl	_	Gloss=_
 25	buta	butar	VERB	Vm	_	23	acl	_	Gloss=_
 26	dempuèi	dempuèi	ADP	Sp	_	28	case	_	Gloss=_
-27	dos	dos	NUM	Dk	_	28	nummod	_	Gloss=_
+27	dos	2	NUM	Dk	_	28	nummod	_	Gloss=_
 28	jorns	jorn	NOUN	Nc	_	25	obl	_	Gloss=_|SpaceAfter=No
 29	.	.	PUNCT	F	_	25	punct	_	Gloss=_
 
@@ -16264,7 +16264,7 @@
 # sent_id = Marti_Miramont_2_languedocien.conllu.s62
 # text = Encara un d'aqueles rebalaires, se pensèt la Leà, de tot biais i serà per sos fraisses qu'a la Calmesiá degun li balharà pas un crostet, plan polit se l'Adèla li permèt de s'anar jaire a l'estable.
 1	Encara	encara	ADV	Rg	_	5	advmod	_	Gloss=_
-2	un	un	NUM	Da	_	5	nmod	_	Gloss=_
+2	un	un	PRON	Da	_	5	nmod	_	Gloss=_
 3	d'	de	ADP	Sp	_	5	case	_	Gloss=_|SpaceAfter=No
 4	aqueles	aquel	DET	Dd	_	5	det	_	Gloss=_
 5	rebalaires	rebalaire	NOUN	Nc	_	8	parataxis	_	Gloss=_|SpaceAfter=No

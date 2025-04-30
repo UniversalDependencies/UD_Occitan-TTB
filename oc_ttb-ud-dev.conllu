@@ -318,7 +318,7 @@
 8	lo	lo	DET	Da	_	9	det	_	Gloss=le
 9	renvèrs	renvèrs	NOUN	Nc	_	3	nmod	_	Gloss=_
 10	a	a	ADP	Sp	_	12	case	_	Gloss=_
-11	cinc	cinc	NUM	Dk	_	12	nummod	_	Gloss=_
+11	cinc	5	NUM	Dk	_	12	nummod	_	Gloss=_
 12	lègas	lèga	NOUN	Nc	_	1	obl	_	Gloss=_
 13	a	a	ADP	Sp	_	15	case	_	Gloss=_
 14	l'	lo	DET	Da	_	15	det	_	Gloss=_|SpaceAfter=No
@@ -332,7 +332,7 @@
 22	de	de	ADP	Sp	_	23	mark	_	Gloss=_
 23	caçar	caçar	VERB	Vm	_	21	xcomp	_	Gloss=_
 24	per	per	ADP	Sp	_	25	case	_	Gloss=_
-25	dos	dos	NUM	Dk	_	23	obl	_	Gloss=_
+25	dos	2	NUM	Dk	_	23	obl	_	Gloss=_
 26	aquesta	aqueste	DET	Dd	_	27	det	_	Gloss=_
 27	passa	passa	NOUN	Nc	_	23	obl	_	Gloss=_|SpaceAfter=No
 28	.	.	PUNCT	F	_	27	punct	_	Gloss=_
@@ -612,9 +612,9 @@
 2	podè	poder	VERB	Vm	_	0	root	_	Gloss=pouvoir
 3	aver	aver	VERB	Vm	_	2	xcomp	_	Gloss=avoir
 4	de	de	ADP	Sp	_	5	case	_	Gloss=de
-5	vint	vint	NUM	Ak	_	10	nummod	_	Gloss=vingt|MWE=vint_e_cinc
+5	vint	20	NUM	Ak	_	10	nummod	_	Gloss=vingt|MWE=vint_e_cinc
 6	e	e	CCONJ	Cc	_	5	flat	_	Gloss=et
-7	cinc	cinc	NUM	Ak	_	5	flat	_	Gloss=cinq
+7	cinc	5	NUM	Ak	_	5	flat	_	Gloss=cinq
 8	a	a	ADP	Sp	_	10	case	_	Gloss=à
 9	trenta	30	NUM	Ak	_	5	nummod	_	Gloss=30
 10	ans	an	NOUN	Nc	_	3	obj	_	Gloss=an|SpaceAfter=No
@@ -1337,7 +1337,7 @@
 8	,	,	PUNCT	F	_	7	punct	_	Gloss=_
 9	s'	se	PRON	Px	_	10	expl	_	Gloss=_|SpaceAfter=No
 10	arboravan	arborar	VERB	Vm	_	0	root	_	Gloss=_
-11	tres	tres	NUM	Dk	_	12	nummod	_	Gloss=_
+11	tres	3	NUM	Dk	_	12	nummod	_	Gloss=_
 12	muralhas	muralha	NOUN	Nc	_	10	obj	_	Gloss=_
 13	de	de	ADP	Sp	_	14	case	_	Gloss=_
 14	defensa	defensa	NOUN	Nc	_	12	nmod	_	Gloss=_
