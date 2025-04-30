@@ -9564,7 +9564,7 @@
 28	a	a	SCONJ	Sp	_	30	mark	_	Gloss=_
 29	lo	lo	PRON	Da	_	30	obj	_	Gloss=_
 30	coar	coar	VERB	Nc	_	26	xcomp	_	Gloss=_
-31	un	1	NUM	Da	_	32	det	_	Gloss=_
+31	un	1	NUM	Da	_	32	nummod	_	Gloss=_
 32	jorn	jorn	NOUN	Nc	_	30	obl	_	Gloss=_
 33	o	o	CCONJ	Cc	_	34	cc	_	Gloss=_
 34	dos	2	NUM	Pk	_	32	orphan	_	Gloss=_|SpaceAfter=No
