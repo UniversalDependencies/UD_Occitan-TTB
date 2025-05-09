@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>1522</sentences><tokens>25121</tokens><words>25619</words><fused>498</fused></total>
+    <train><sentences>830</sentences><tokens>13726</tokens><words>14011</words><fused>285</fused></train>
+    <dev><sentences>79</sentences><tokens>1504</tokens><words>1535</words><fused>31</fused></dev>
+    <test><sentences>613</sentences><tokens>9891</tokens><words>10073</words><fused>182</fused></test>
+  </size>
+  <lemmas unique="4191" /><!-- lo, de, ,, ., que, e, un, a, èsser, se, aver, en, per, pas, ! -->
+  <forms unique="5758" /><!-- ,, de, ., lo, la, a, e, que, un, l', d', los, per, se, pas -->
+  <fusions unique="34" /><!-- del, al, dels, au, sul, dau, deus, pel, deu, pels, deth, dera, als, daus, dei -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="16">
+    <tag name="ADJ">1054</tag><!-- occitan, grand, bon, gròs, polit, autre, paure, primièr, sol, content -->
+    <tag name="ADP">3176</tag><!-- de, a, per, en, dins, sus, amb, coma, dens, sens -->
+    <tag name="ADV">1361</tag><!-- pas, mai, plan, tot, pus, que, ben, aquí, non, ara -->
+    <tag name="AUX">698</tag><!-- èsser, aver, èstre, estar, èster, auer, avere -->
+    <tag name="CCONJ">767</tag><!-- e, mas, o, ni, que, mès, mes, mai, èsser, ò -->
+    <tag name="DET">3562</tag><!-- lo, un, son, de, tot, aquel, eth, mon, aqueste, ton -->
+    <tag name="INTJ">89</tag><!-- a, i, tè, borringues, non, pardí, pecaire, oo, pan, adiu -->
+    <tag name="NOUN">4463</tag><!-- còp, òme, femna, occitan, ostal, lenga, an, jorn, peis, temps -->
+    <tag name="NUM">292</tag><!-- 2, 3, 4, 5, 1, 20, 7, 30, 15, 23 -->
+    <tag name="PART">153</tag><!-- que, non, e, de, n, b', ja, ne, se -->
+    <tag name="PRON">1915</tag><!-- se, que, lo, me, te, i, ne, li, aquò, çò -->
+    <tag name="PROPN">710</tag><!-- Aran, Leà, Joan, Leonardo, Bodon, Francés, França, Nadal, Catalonha, Itàlia -->
+    <tag name="PUNCT">3701</tag><!-- ,, ., !, -, :, ", ?, (, ), ; -->
+    <tag name="SCONJ">450</tag><!-- que, coma, se, quand, quan, mai, perque, perqué, si, après -->
+    <tag name="VERB">3209</tag><!-- aver, far, anar, dire, tornar, poder, veire, voler, venir, caler -->
+    <tag name="X">19</tag><!-- z, God, USA, birds, club, du, editor, hoc, la, little -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="8">
+    <feat name="ExtPos" value="ADP" upos="ADP,ADV,NOUN">41</feat><!-- a, cap, en, fins, de, gràcias, Mai, a-, amb, dempuèi -->
+    <feat name="ExtPos" value="ADV" upos="ADP,ADV,CCONJ,DET,NOUN,PART,PRON">56</feat><!-- de, mai, d', en, per, ça, a, un, pauc, tant -->
+    <feat name="ExtPos" value="CCONJ" upos="ADV,AUX,CCONJ">3</feat><!-- e, es, tanplan -->
+    <feat name="ExtPos" value="DET" upos="ADJ,ADV,DET">22</feat><!-- mai, cap, gaire, ges, tant, aitant, pro, qualqu', quantes -->
+    <feat name="ExtPos" value="INTJ" upos="ADP">1</feat><!-- de -->
+    <feat name="ExtPos" value="PRON" upos="ADP,DET,X">10</feat><!-- de, qualqu', z', -z-, qualques, quauqua -->
+    <feat name="ExtPos" value="PROPN" upos="ADP">1</feat><!-- De -->
+    <feat name="ExtPos" value="SCONJ" upos="ADP,ADV,CCONJ,DET,SCONJ">46</feat><!-- per, abans, a, coma, mentre, d', de, e, se, tant -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="36">
+    <dep name="acl">519</dep>
+    <dep name="advcl">393</dep>
+    <dep name="advmod">1226</dep>
+    <dep name="amod">800</dep>
+    <dep name="appos">99</dep>
+    <dep name="aux">355</dep>
+    <dep name="case">2670</dep>
+    <dep name="cc">755</dep>
+    <dep name="ccomp">176</dep>
+    <dep name="compound">5</dep>
+    <dep name="conj">966</dep>
+    <dep name="cop">336</dep>
+    <dep name="csubj">10</dep>
+    <dep name="dep">10</dep>
+    <dep name="det">3562</dep>
+    <dep name="discourse">63</dep>
+    <dep name="discourse:enunc">129</dep>
+    <dep name="dislocated">87</dep>
+    <dep name="expl">378</dep>
+    <dep name="fixed">253</dep>
+    <dep name="flat">196</dep>
+    <dep name="iobj">275</dep>
+    <dep name="mark">811</dep>
+    <dep name="nmod">1167</dep>
+    <dep name="nsubj">1085</dep>
+    <dep name="nsubj:outer">1</dep>
+    <dep name="nummod">174</dep>
+    <dep name="obj">1398</dep>
+    <dep name="obl">1525</dep>
+    <dep name="orphan">45</dep>
+    <dep name="parataxis">309</dep>
+    <dep name="punct">3701</dep>
+    <dep name="reparandum">5</dep>
+    <dep name="root">1522</dep>
+    <dep name="vocative">70</dep>
+    <dep name="xcomp">543</dep>
+  </deps>
+</treebank>
