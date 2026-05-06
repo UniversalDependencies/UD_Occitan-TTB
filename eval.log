@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Occitan-TTB:
-commit b6dac66a7e2de75656f48b905127dc6d0f0e7d03
-Merge: 3a4da81 e71e180
+commit 6d1eeb51331a654f2b8a1b57dfd81ac53ad61661
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 20:20:32 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'oc_ttb'
 Language code (from CoNLL-U file name) = 'oc'
@@ -25,64 +25,76 @@ Universal relations: 34 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 3 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang oc --max-err=10 UD_Occitan-TTB/oc_ttb-ud-dev.conllu
-[Line 3 Sent Bodon_Drac_2_languedocien.conllu.s48]: [L3 Warning pron-det-without-prontype] The word 'Las' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 6 Sent Bodon_Drac_2_languedocien.conllu.s48]: [L3 Warning pron-det-without-prontype] The word 'lo' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 17 Sent Linguistica_Occitana_languedocien.conllu.s4]: [L3 Warning pron-det-without-prontype] The word 'nos' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 22 Sent Linguistica_Occitana_languedocien.conllu.s4]: [L3 Warning pron-det-without-prontype] The word 'la' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 25 Sent Linguistica_Occitana_languedocien.conllu.s4]: [L3 Warning pron-det-without-prontype] The word 'que' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 29 Sent Linguistica_Occitana_languedocien.conllu.s4]: [L3 Warning pron-det-without-prontype] The word 'de' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 34 Sent Linguistica_Occitana_languedocien.conllu.s4]: [L3 Warning pron-det-without-prontype] The word 'que' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 37 Sent Linguistica_Occitana_languedocien.conllu.s4]: [L3 Warning pron-det-without-prontype] The word 'de' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 41 Sent Linguistica_Occitana_languedocien.conllu.s4]: [L3 Warning pron-det-without-prontype] The word 'totas' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 56 Sent Linguistica_Occitana_languedocien.conllu.s4]: [L3 Warning pron-det-without-prontype] The word 'de' is tagged 'DET' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-[Line 239 Sent Deleris_Crocants_2_languedocien.conllu.s10]: [L3 Syntax too-many-objects] Multiple direct objects [4, 8] ('los', 'Sénher') under the predicate 'vistes'.
-[Line 1563 Sent Bodon_Drac_2_languedocien.conllu.s67]: [L3 Syntax too-many-objects] Multiple direct objects [6, 10] ('o', 'tot') under the predicate 'dises'.
-Syntax errors: 2
+[Line 3 Sent Bodon_Drac_2_languedocien.conllu.s48]: [L3 WARNING pron-det-without-prontype] The word 'Las' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 6 Sent Bodon_Drac_2_languedocien.conllu.s48]: [L3 WARNING pron-det-without-prontype] The word 'lo' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 17 Sent Linguistica_Occitana_languedocien.conllu.s4]: [L3 WARNING pron-det-without-prontype] The word 'nos' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 22 Sent Linguistica_Occitana_languedocien.conllu.s4]: [L3 WARNING pron-det-without-prontype] The word 'la' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 25 Sent Linguistica_Occitana_languedocien.conllu.s4]: [L3 WARNING pron-det-without-prontype] The word 'que' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 29 Sent Linguistica_Occitana_languedocien.conllu.s4]: [L3 WARNING pron-det-without-prontype] The word 'de' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 34 Sent Linguistica_Occitana_languedocien.conllu.s4]: [L3 WARNING pron-det-without-prontype] The word 'que' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 37 Sent Linguistica_Occitana_languedocien.conllu.s4]: [L3 WARNING pron-det-without-prontype] The word 'de' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 41 Sent Linguistica_Occitana_languedocien.conllu.s4]: [L3 WARNING pron-det-without-prontype] The word 'totas' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 56 Sent Linguistica_Occitana_languedocien.conllu.s4]: [L3 WARNING pron-det-without-prontype] The word 'de' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 239 Sent Deleris_Crocants_2_languedocien.conllu.s10]: [L3 SYNTAX too-many-objects] Multiple direct objects [4, 8] ('los', 'Sénher') under the predicate 'vistes'.
+[Line 1563 Sent Bodon_Drac_2_languedocien.conllu.s67]: [L3 SYNTAX too-many-objects] Multiple direct objects [6, 10] ('o', 'tot') under the predicate 'dises'.
 Warnings: 301
+SYNTAX errors: 2
 *** FAILED *** with 2 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang oc --max-err=10 UD_Occitan-TTB/oc_ttb-ud-test.conllu
-[Line 3 Sent Viaule_Escorregudas_2_languedocien.conllu.s24]: [L3 Warning pron-det-without-prontype] The word 'N'' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 6 Sent Viaule_Escorregudas_2_languedocien.conllu.s24]: [L3 Warning pron-det-without-prontype] The word 'un' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 16 Sent Viaule_Escorregudas_2_languedocien.conllu.s24]: [L3 Warning pron-det-without-prontype] The word 'son' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 24 Sent Lambert_Contes_languedocien.conllu.s26]: [L3 Warning pron-det-without-prontype] The word 'lo' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 39 Sent Lavit_Hont_gascon.conllu.s16]: [L3 Warning pron-det-without-prontype] The word 'Tot' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 43 Sent Lavit_Hont_gascon.conllu.s16]: [L3 Warning pron-det-without-prontype] The word 'm'' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 44 Sent Lavit_Hont_gascon.conllu.s16]: [L3 Warning pron-det-without-prontype] The word 'i' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 48 Sent Lavit_Hont_gascon.conllu.s16]: [L3 Warning pron-det-without-prontype] The word '-u' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 50 Sent Lavit_Hont_gascon.conllu.s16]: [L3 Warning pron-det-without-prontype] The word 'la' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 53 Sent Lavit_Hont_gascon.conllu.s16]: [L3 Warning pron-det-without-prontype] The word 'un' is tagged 'DET' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-[Line 317 Sent Kipling_Mowgli_2_languedocien.conllu.s16]: [L3 Syntax too-many-objects] Multiple direct objects [9, 12] ('lo', 'Lungri') under the predicate 'sonèt'.
-[Line 1583 Sent Bodon_Drac_2_languedocien.conllu.s24]: [L3 Syntax too-many-objects] Multiple direct objects [9, 11] ('me', 'sòr') under the predicate 'farai'.
-[Line 6887 Sent Jornalet_7695_Nadal_Rey_gascon.conllu.s21]: [L3 Syntax too-many-objects] Multiple direct objects [2, 4] ("'s", 'cantorau') under the predicate 'harà'.
-Syntax errors: 3
-Warnings: 2198
-*** FAILED *** with 3 errors
+[Line 3 Sent Viaule_Escorregudas_2_languedocien.conllu.s24]: [L3 WARNING pron-det-without-prontype] The word 'N'' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 6 Sent Viaule_Escorregudas_2_languedocien.conllu.s24]: [L3 WARNING pron-det-without-prontype] The word 'un' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 16 Sent Viaule_Escorregudas_2_languedocien.conllu.s24]: [L3 WARNING pron-det-without-prontype] The word 'son' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 24 Sent Lambert_Contes_languedocien.conllu.s26]: [L3 WARNING pron-det-without-prontype] The word 'lo' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 39 Sent Lavit_Hont_gascon.conllu.s16]: [L3 WARNING pron-det-without-prontype] The word 'Tot' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 43 Sent Lavit_Hont_gascon.conllu.s16]: [L3 WARNING pron-det-without-prontype] The word 'm'' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 44 Sent Lavit_Hont_gascon.conllu.s16]: [L3 WARNING pron-det-without-prontype] The word 'i' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 48 Sent Lavit_Hont_gascon.conllu.s16]: [L3 WARNING pron-det-without-prontype] The word '-u' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 50 Sent Lavit_Hont_gascon.conllu.s16]: [L3 WARNING pron-det-without-prontype] The word 'la' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 53 Sent Lavit_Hont_gascon.conllu.s16]: [L3 WARNING pron-det-without-prontype] The word 'un' is tagged 'DET' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 317 Sent Kipling_Mowgli_2_languedocien.conllu.s16]: [L3 SYNTAX too-many-objects] Multiple direct objects [9, 12] ('lo', 'Lungri') under the predicate 'sonèt'.
+[Line 994 Sent Blader_Agenais_languedocien.conllu.s40]: [L3 SYNTAX obl-should-be-nmod] The parent (node [8] 'costat') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1583 Sent Bodon_Drac_2_languedocien.conllu.s24]: [L3 SYNTAX too-many-objects] Multiple direct objects [9, 11] ('me', 'sòr') under the predicate 'farai'.
+[Line 3583 Sent Blader_Agenais_languedocien.conllu.s39]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'costat') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 6887 Sent Jornalet_7695_Nadal_Rey_gascon.conllu.s21]: [L3 SYNTAX too-many-objects] Multiple direct objects [2, 4] ("'s", 'cantorau') under the predicate 'harà'.
+[Line 9540 Sent Marti_Miramont_2_languedocien.conllu.s66]: [L3 SYNTAX obl-should-be-nmod] The parent (node [5] 'aval') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+Warnings: 2195
+SYNTAX errors: 6
+*** FAILED *** with 6 errors
 Exit code: 1
 /net/work/people/zeman/unidep/tools/validate.py --lang oc --max-err=10 UD_Occitan-TTB/oc_ttb-ud-train.conllu
-[Line 5 Sent Kipling_Mowgli_1_languedocien.conllu.s26]: [L3 Warning pron-det-without-prontype] The word 'un' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 7 Sent Kipling_Mowgli_1_languedocien.conllu.s26]: [L3 Warning pron-det-without-prontype] The word 'se' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 13 Sent Kipling_Mowgli_1_languedocien.conllu.s26]: [L3 Warning pron-det-without-prontype] The word 'ço' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 19 Sent Kipling_Mowgli_1_languedocien.conllu.s26]: [L3 Warning pron-det-without-prontype] The word 'ieu' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 27 Sent Kipling_Mowgli_1_languedocien.conllu.s26]: [L3 Warning pron-det-without-prontype] The word 'una' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 31 Sent Kipling_Mowgli_1_languedocien.conllu.s26]: [L3 Warning pron-det-without-prontype] The word 'un' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 37 Sent Wiki_Bodon_languedocien.conllu.s5]: [L3 Warning pron-det-without-prontype] The word 'Se' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 41 Sent Wiki_Bodon_languedocien.conllu.s5]: [L3 Warning pron-det-without-prontype] The word 'lo' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 46 Sent Wiki_Bodon_languedocien.conllu.s5]: [L3 Warning pron-det-without-prontype] The word 'l'' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 52 Sent Wiki_Bodon_languedocien.conllu.s5]: [L3 Warning pron-det-without-prontype] The word 'i' is tagged 'PRON' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-[Line 3700 Sent Wiki_Montsegur_languedocien.conllu.s16]: [L3 Syntax too-many-objects] Multiple direct objects [14, 21] ('que', 'terrassas') under the predicate 'demòran'.
-[Line 4316 Sent Deleris_Crocants_2_languedocien.conllu.s42]: [L3 Syntax too-many-objects] Multiple direct objects [12, 15] ('ne', 'mitat') under the predicate 'regorgavas'.
-[Line 5473 Sent Jornalet_191_Hormatge_gascon.conllu.s6]: [L3 Syntax too-many-objects] Multiple direct objects [6, 8] ('ac', 'tot') under the predicate 'condar'.
-[Line 5737 Sent Mouly_Barta_2_languedocien.conllu.s56]: [L3 Syntax too-many-objects] Multiple direct objects [8, 12] ('botonalha', 'ondraduras') under the predicate 'traguent'.
-[Line 5746 Sent Mouly_Barta_2_languedocien.conllu.s56]: [L3 Syntax too-many-objects] Multiple direct objects [18, 28] ('vèsta', 'parelh') under the predicate 'aurai'.
-[Line 8773 Sent Jornalet_7695_Nadal_Rey_gascon.conllu.s13]: [L3 Syntax too-many-objects] Multiple direct objects [34, 37] ("'s", 'inventaire') under the predicate 'hasó'.
-[Line 16291 Sent Marti_Miramont_2_languedocien.conllu.s62]: [L3 Syntax too-many-objects] Multiple direct objects [20, 29] ("qu'", 'crostet') under the predicate 'balharà'.
-Syntax errors: 7
-Warnings: 2995
-*** FAILED *** with 7 errors
+[Line 5 Sent Kipling_Mowgli_1_languedocien.conllu.s26]: [L3 WARNING pron-det-without-prontype] The word 'un' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 7 Sent Kipling_Mowgli_1_languedocien.conllu.s26]: [L3 WARNING pron-det-without-prontype] The word 'se' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 13 Sent Kipling_Mowgli_1_languedocien.conllu.s26]: [L3 WARNING pron-det-without-prontype] The word 'ço' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 19 Sent Kipling_Mowgli_1_languedocien.conllu.s26]: [L3 WARNING pron-det-without-prontype] The word 'ieu' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 27 Sent Kipling_Mowgli_1_languedocien.conllu.s26]: [L3 WARNING pron-det-without-prontype] The word 'una' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 31 Sent Kipling_Mowgli_1_languedocien.conllu.s26]: [L3 WARNING pron-det-without-prontype] The word 'un' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 37 Sent Wiki_Bodon_languedocien.conllu.s5]: [L3 WARNING pron-det-without-prontype] The word 'Se' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 41 Sent Wiki_Bodon_languedocien.conllu.s5]: [L3 WARNING pron-det-without-prontype] The word 'lo' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 46 Sent Wiki_Bodon_languedocien.conllu.s5]: [L3 WARNING pron-det-without-prontype] The word 'l'' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 52 Sent Wiki_Bodon_languedocien.conllu.s5]: [L3 WARNING pron-det-without-prontype] The word 'i' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 829 Sent Jornalet_7045_Estanguet_gascon.conllu.s10]: [L3 SYNTAX obl-should-be-nmod] The parent (node [3] 'menut') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 3246 Sent Wiki_Montsegur_languedocien.conllu.s20]: [L3 SYNTAX obl-should-be-nmod] The parent (node [5] 'ròtle') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 3700 Sent Wiki_Montsegur_languedocien.conllu.s16]: [L3 SYNTAX too-many-objects] Multiple direct objects [14, 21] ('que', 'terrassas') under the predicate 'demòran'.
+[Line 4316 Sent Deleris_Crocants_2_languedocien.conllu.s42]: [L3 SYNTAX too-many-objects] Multiple direct objects [12, 15] ('ne', 'mitat') under the predicate 'regorgavas'.
+[Line 5473 Sent Jornalet_191_Hormatge_gascon.conllu.s6]: [L3 SYNTAX too-many-objects] Multiple direct objects [6, 8] ('ac', 'tot') under the predicate 'condar'.
+[Line 5737 Sent Mouly_Barta_2_languedocien.conllu.s56]: [L3 SYNTAX too-many-objects] Multiple direct objects [8, 12] ('botonalha', 'ondraduras') under the predicate 'traguent'.
+[Line 5746 Sent Mouly_Barta_2_languedocien.conllu.s56]: [L3 SYNTAX too-many-objects] Multiple direct objects [18, 28] ('vèsta', 'parelh') under the predicate 'aurai'.
+[Line 6856 Sent Blader_Contes_gascon.conllu.s42]: [L3 SYNTAX obl-should-be-nmod] The parent (node [18] 'gaves') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 8773 Sent Jornalet_7695_Nadal_Rey_gascon.conllu.s13]: [L3 SYNTAX too-many-objects] Multiple direct objects [34, 37] ("'s", 'inventaire') under the predicate 'hasó'.
+[Line 9570 Sent Lambert_Contes_languedocien.conllu.s22]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obl'.
+[Line 10377 Sent Jornalet_1630_Festa_languedocien.conllu.s14]: [L3 SYNTAX obl-should-be-nmod] The parent (node [22] 'dissabte') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 10899 Sent Wiki_Tambornet_languedocien.conllu.s2]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'nmod'.
+...suppressing further messages regarding ERROR/SYNTAX
+[Line 12416 Sent Wiki_Tambornet_languedocien.conllu.s5]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'obj'.
+[Line 13207 Sent Marti_Miramont_2_languedocien.conllu.s3]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'dep'.
+[Line 14161 Sent Mouly_Barta_languedocien.conllu.s23]: [L3 WARNING orphan-parent] The parent of 'orphan' should normally be 'conj' but it is 'amod'.
+Warnings: 2986
+SYNTAX errors: 16
+*** FAILED *** with 16 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.12) = 0.0133333333333333
