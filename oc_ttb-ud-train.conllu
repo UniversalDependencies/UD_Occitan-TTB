@@ -826,7 +826,7 @@
 3	menut	menut	NOUN	Nc	_	1	obj	_	Gloss=menu
 4	quotidian	quotidian	ADJ	Af	_	3	amod	_	Gloss=quotidien
 5	a	a	ADP	Sp	_	6	case	_	Gloss=à
-6	mieidia	mieidia	NOUN	Nc	_	3	obl	_	Gloss=midi
+6	mieidia	mieidia	NOUN	Nc	_	3	nmod	_	Gloss=midi
 7	e	e	CCONJ	Cc	_	9	cc	_	Gloss=et
 8	de	de	ADP	Sp	_	9	case	_	Gloss=de
 9	ser	ser	NOUN	Nc	_	6	conj	_	Gloss=soir|SpaceAfter=No
@@ -3243,7 +3243,7 @@
 6	de	de	ADP	Sp	_	7	case	_	Gloss=_
 7	Montsegur	Montsegur	PROPN	Np	_	5	nmod	_	Gloss=_
 8	coma	coma	SCONJ	Cs	_	9	case	_	Gloss=_
-9	abric	abric	NOUN	Nc	_	5	obl	_	Gloss=_
+9	abric	abric	NOUN	Nc	_	5	nmod	_	Gloss=_
 10	de	de	ADP	Sp	_	12	case	_	Gloss=_
 11	la	lo	DET	Da	_	12	det	_	Gloss=_
 12	Glèisa	glèisa	NOUN	Nc	_	9	nmod	_	Gloss=_
@@ -6853,7 +6853,7 @@
 13	hautas	haut	ADJ	Af	_	14	amod	_	Gloss=haut
 14	montanhas	montanha	NOUN	Nc	_	11	nmod	_	Gloss=montagne|SpaceAfter=No
 15	,	,	PUNCT	F	_	14	punct	_	Gloss=,
-16	on	on	PRON	Pr	_	18	obl	_	Gloss=où
+16	on	on	PRON	Pr	_	18	nmod	_	Gloss=où
 17	los	lo	DET	Da	_	18	det	_	Gloss=le
 18	gaves	gave	NOUN	Nc	_	19	nsubj	_	Gloss=torrent
 19	tomban	tombar	VERB	Vm	_	14	acl	_	Gloss=tomber
@@ -10374,7 +10374,7 @@
 24	d'	de	ADP	Sp	_	25	case	_	Gloss=X|SpaceAfter=No
 25	abril	abril	NOUN	Nc	_	23	nmod	_	Gloss=avril
 26	de	de	ADP	Sp	_	27	case	_	Gloss=de
-27	12h	12h	NOUN	Nc	_	22	obl	_	Gloss=12h
+27	12h	12h	NOUN	Nc	_	22	nmod	_	Gloss=12h
 28	a	a	ADP	Sp	_	29	case	_	Gloss=à
 29	13h	13h	NOUN	Nc	_	27	nmod	_	Gloss=13h|SpaceAfter=No
 30	,	,	PUNCT	F	_	29	punct	_	Gloss=,
@@ -11629,7 +11629,7 @@
 1	Vèi	anar	VERB	Vm	_	0	root	_	Gloss=aller
 2	cuèlher	cuèlher	VERB	Vm	_	1	xcomp	_	Gloss=chercher
 3	çò	çò	PRON	Pd	_	2	obj	_	Gloss=ce
-4	qu'	que	PRON	Pr	_	6	obl	_	Gloss=que|SpaceAfter=No
+4	qu'	que	PRON	Pr	_	6	nmod	_	Gloss=que|SpaceAfter=No
 5	as	aver	VERB	Vm	_	3	acl	_	Gloss=avoir
 6	besonh	besonh	NOUN	Nc	_	5	obj	_	Gloss=besoin|SpaceAfter=No
 7	,	,	PUNCT	F	_	6	punct	_	Gloss=,
@@ -12494,7 +12494,7 @@
 6	intuicion	intuicion	NOUN	Nc	_	3	obl	_	Gloss=intuition
 7	que	que	SCONJ	Cs	_	9	case	_	Gloss=que
 8	de	de	ADP	Sp	_	9	case	_	Gloss=de
-9	saber-viure	saber-viure	NOUN	Nc	_	6	obl	_	Gloss=Savoir-vivre|SpaceAfter=No
+9	saber-viure	saber-viure	NOUN	Nc	_	6	nmod	_	Gloss=Savoir-vivre|SpaceAfter=No
 10	.	.	PUNCT	F	_	9	punct	_	Gloss=.
 
 # sent_id = Mouly_Barta_languedocien.conllu.s2
@@ -12709,7 +12709,7 @@
 11	un	un	DET	Da	_	12	det	_	Gloss=un
 12	còp	còp	NOUN	Nc	_	10	obl	_	Gloss=fois
 13	de	de	ADP	Sp	_	14	case	_	Gloss=de
-14	mai	mai	ADV	Rq	_	12	obl	_	Gloss=plus
+14	mai	mai	ADV	Rq	_	12	advmod	_	Gloss=plus
 15	la	lo	DET	Da	_	16	det	_	Gloss=le
 16	fèsta	fèsta	NOUN	Nc	_	10	nsubj	_	Gloss=fête
 17	de	de	ADP	Sp	_	18	case	_	Gloss=de
@@ -13261,7 +13261,7 @@
 34	abitud	abitud	NOUN	Nc	_	26	obl	_	Gloss=_
 35	que	que	SCONJ	Pr	_	37	case	_	Gloss=_
 36	per	per	ADP	Sp	_	37	case	_	Gloss=_
-37	conviccion	conviccion	NOUN	Nc	_	34	obl	_	Gloss=_|SpaceAfter=No
+37	conviccion	conviccion	NOUN	Nc	_	34	nmod	_	Gloss=_|SpaceAfter=No
 38	.	.	PUNCT	F	_	37	punct	_	Gloss=_
 
 # sent_id = Wiki_Tambornet_languedocien.conllu.s8
@@ -15230,7 +15230,7 @@
 31	tèxtes	tèxt	NOUN	Nc	_	29	obj	_	Gloss=_
 32	occitans	occitan	ADJ	Af	_	31	amod	_	Gloss=_
 33	coma	coma	SCONJ	Cs	_	34	mark	_	Gloss=_
-34	matèria	matèria	NOUN	Nc	_	31	obl	_	Gloss=_
+34	matèria	matèria	NOUN	Nc	_	31	nmod	_	Gloss=_
 35	de	de	ADP	Sp	_	36	case	_	Gloss=_
 36	trabalh	trabalh	NOUN	Nc	_	34	nmod	_	Gloss=_
 37	o	o	CCONJ	Cc	_	38	cc	_	Gloss=_
