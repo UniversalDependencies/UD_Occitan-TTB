@@ -991,7 +991,7 @@
 9-10	del	_	_	_	_	_	_	_	_
 9	de	de	ADP	Sp	_	11	case	_	Gloss=_
 10	lo	lo	DET	Da	_	11	det	_	Gloss=_
-11	sorelh	sorelh	NOUN	Nc	_	8	obl	_	Gloss=_
+11	sorelh	sorelh	NOUN	Nc	_	8	nmod	_	Gloss=_
 12	cochant	cochar	VERB	Vm	_	11	acl	_	Gloss=_|SpaceAfter=No
 13	.	.	PUNCT	F	_	12	punct	_	Gloss=_
 
@@ -3580,7 +3580,7 @@
 7-8	del	_	_	_	_	_	_	_	_
 7	de	de	ADP	Sp	_	9	case	_	Gloss=_
 8	lo	lo	DET	Da	_	9	det	_	Gloss=_
-9	sorelh	sorelh	NOUN	Nc	_	6	obl	_	Gloss=_
+9	sorelh	sorelh	NOUN	Nc	_	6	nmod	_	Gloss=_
 10	levant	levar	VERB	Vm	_	9	acl	_	Gloss=_|SpaceAfter=No
 11	.	.	PUNCT	F	_	10	punct	_	Gloss=_
 
@@ -9537,7 +9537,7 @@
 6-7	del	_	_	_	_	_	_	_	_
 6	de	de	ADP	Sp	_	8	case	_	Gloss=_
 7	lo	lo	DET	Da	_	8	det	_	Gloss=_
-8	Gorg	Gorg	PROPN	Np	_	5	obl	_	Gloss=_
+8	Gorg	Gorg	PROPN	Np	_	5	nmod	_	Gloss=_
 9	Vièlh	Vièlh	ADJ	Np	_	8	amod	_	Gloss=_|SpaceAfter=No
 10	,	,	PUNCT	F	_	9	punct	_	Gloss=_
 11	de	de	ADP	Sp	ExtPos=SCONJ	15	mark	_	Gloss=_|MWE=de_tant_coma
